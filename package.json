@@ -1,0 +1,15 @@
+{
+  "name": "feb-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "load-src-data": "mkdir well_data ; node node_modules/preprocessing/preprocessing/cli/csv-to-json.js -p node_modules/preprocessing/data/*.csv -o well_data/src_data.json",
+    "unzip-geodata": "unzip geodata.zip"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "preprocessing": "github:portsoc/iArsenic"
+  }
+}

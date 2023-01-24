@@ -2,3 +2,4 @@ node_modules/
 well_data/
 venv/
 geodata/
+models/

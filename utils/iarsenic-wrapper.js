@@ -13,6 +13,8 @@ for (const row of rows) {
   if (rowArr[0] === "div") continue;
   if (rowArr[0] === "") continue;
 
+  console.log(rowArr)
+
   const div = rowArr[0];
   const dis = rowArr[1];
   const upa = rowArr[2];

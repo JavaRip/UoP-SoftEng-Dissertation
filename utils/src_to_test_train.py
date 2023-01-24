@@ -35,6 +35,7 @@ if __name__ == '__main__':
       # stratify=df['mou'], # what to do with mouzas containing less than 1 well
     )
 
+    df.to_csv('./well_data/src_data.csv', index=False)
     train.to_csv('./well_data/train.csv', index=False)
     test.to_csv('./well_data/test.csv', index=False)
 

@@ -1,5 +1,6 @@
+// todo allow model to be selected with cmd args
 const fs = require("fs");
-const produceEstimate = require("../models/model5/estimator.js");
+const produceEstimate = require("../models/model5-full-dataset/estimator.js");
 
 const srcCsv = process.argv[2];
 const stainColour = process.argv[3];
@@ -12,8 +13,6 @@ for (const row of rows) {
 
   if (rowArr[0] === "div") continue;
   if (rowArr[0] === "") continue;
-
-  console.log(rowArr)
 
   const div = rowArr[0];
   const dis = rowArr[1];
@@ -43,7 +42,7 @@ for (const row of rows) {
   );
 
   if (estimate.severity == null) {
-    predictions.push("none");
+    predictions.push(estimate.message);
   } else {
     predictions.push(estimate.severity);
   }

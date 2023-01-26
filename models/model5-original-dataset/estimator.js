@@ -1,6 +1,6 @@
 // model: model5
-// generated: Wed Jan 25 2023 22:12:46 GMT+0000 (Greenwich Mean Time)
-// input data: [ well_data/src_data.csv, node_modules/preprocessing/data/mouza-names.csv ]
+// generated: Thu Jan 26 2023 00:00:46 GMT+0000 (Greenwich Mean Time)
+// input data: [ node_modules/preprocessing/data/1Mdataset.csv, node_modules/preprocessing/data/BGS_Ravenscroft.csv, node_modules/preprocessing/data/Danida-20220514.csv, node_modules/preprocessing/data/mouza-names.csv ]
 function round(x, magnitude, dir = 1) {
   if (x % magnitude === 0) {
     return x;
@@ -83,21 +83,11 @@ function selectArsenicValues(region, depth) {
 }
 
 function produceEstimate(divisions, div, dis, upa, uni, mou, depth, colour, utensil, flood) {
-  console.log(div)
-  console.log(dis)
-  console.log(upa)
-  console.log(uni)
-  console.log(mou)
   const division = divisions[div];
-  console.log(division)
   const district = division?.districts[dis];
-  console.log(district)
   const upazila = district?.upazilas[upa];
-  console.log(upazila)
   const union = upazila?.unions[uni];
-  console.log(union)
   const mouza = union?.mouzas[mou];
-  console.log(mouza)
 
   let retval = {};
 

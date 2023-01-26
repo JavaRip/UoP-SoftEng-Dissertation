@@ -17,7 +17,7 @@ def predict(filepath, stain_color):
 
 if __name__ == '__main__':
   stain_color = 'Red'
-  filepath = './well_data/test_mini.csv'
+  filepath = './well_data/test.csv'
 
   df = pd.read_csv(filepath)
   df['predictions'], outfile = predict(filepath, stain_color)

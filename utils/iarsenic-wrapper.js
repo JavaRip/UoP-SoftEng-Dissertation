@@ -1,6 +1,6 @@
-// todo allow model to be selected with cmd args
 const fs = require("fs");
-const produceEstimate = require("../models/model5/estimator.js");
+const model = (process.argv[4] == null) ? 'model5' : process.argv[4]
+const produceEstimate = require(`../models/${model}/estimator.js`);
 
 const srcCsv = process.argv[2];
 const stainColour = process.argv[3];
@@ -11,6 +11,7 @@ predictions = [];
 for (const row of rows) {
   rowArr = row.split(",");
 
+  // skip headers & \n at EOF
   if (rowArr[0] === "Division") continue;
   if (rowArr[0] === "") continue;
 
@@ -24,9 +25,19 @@ for (const row of rows) {
   const utensil = "";
   const flood = "";
 
-  const divisions = JSON.parse(
-    fs.readFileSync(`./models/model5/aggregate-data/${div}-${dis}.json`)
-  );
+  const divisions = (() => {
+    if (model === 'model5') {
+      return JSON.parse(
+        fs.readFileSync(`./models/${model}/aggregate-data/${div}-${dis}.json`)
+      );
+    } else {
+      // for models with a singe aggregate datafile, this must only be retrieved once
+      // however because model5 splits the data into difference files it must be updated
+      // to the correct file every loop. This could likely be sensibly optimized
+      const raw = fs.readFileSync(`./models/${model}/aggregate-data.js`, 'utf-8')
+      return JSON.parse(raw.slice(raw.indexOf('=') + 1))
+    }
+  })()
 
   const estimate = produceEstimate(
     divisions,
@@ -51,8 +62,9 @@ for (const row of rows) {
 // add header
 predictions.unshift("prediction");
 
-const outFilename = `./prediction_data/model5-${stainColour}-${Math.floor(
+const outFilename = `./prediction_data/${model}-${stainColour}-${Math.floor(
   new Date().getTime() / 1000
 )}.csv`;
+
 fs.writeFileSync(outFilename, predictions.join("\n"));
 console.log(outFilename);

@@ -1,10 +1,11 @@
 import json
 import pandas as pd
 from sklearn.model_selection import train_test_split
+import sys
 
 if __name__ == '__main__':
-  def main(src_path='./well_data/src_data.json'):
-    file = open(src_path, 'r')
+  def main(src_in, src_out, train_out, test_out):
+    file = open(src_in, 'r')
     raw = file.read()
     data = json.loads(raw)
 
@@ -36,7 +37,7 @@ if __name__ == '__main__':
       ],
     )
 
-    df.to_csv('./well_data/src_data.csv', index=False)
+    df.to_csv(src_out, index=False)
 
     # remove mouzas with less than 200 wells
 	# todo set with cmd args
@@ -60,7 +61,15 @@ if __name__ == '__main__':
       # stratify=df['mou'], # what to do with mouzas containing less than 1 well
     )
 
-    train.to_csv('./well_data/train.csv', index=False)
-    test.to_csv('./well_data/test.csv', index=False)
+    train.to_csv(train_out, index=False)
+    test.to_csv(test_out, index=False)
 
-  main()
+  # cli flags could be better than this
+  # cli options for min wells in mouza
+  # cli option for num rows to split (to make smaller test trains)
+  src_in = sys.argv[1]
+  src_out = sys.argv[2]
+  train_out = sys.argv[3]
+  test_out = sys.argv[4]
+
+  main(src_in, src_out, train_out, test_out)

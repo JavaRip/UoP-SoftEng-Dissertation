@@ -1,33 +1,48 @@
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
+import time
 
 def cat_int_enc(df):
-    dfc = df.copy()
+  dfc = df.copy()
 
-    for header in list(dfc.columns.values):
-        if dfc[header].dtype == 'object':
-            dfc[header] = pd.Categorical(dfc[header]).codes
+  for header in list(dfc.columns.values):
+      if dfc[header].dtype == 'object':
+          dfc[header] = pd.Categorical(dfc[header]).codes
 
-    return dfc
+  return dfc
 
-train = cat_int_enc(pd.read_csv('./well_data/train.csv'))
-test = cat_int_enc(pd.read_csv('./well_data/test.csv'))
+def gen_predictions(train_df, test_df):
+  train = cat_int_enc(train_df)
+  test = cat_int_enc(test_df)
 
-train['Label'] = np.where(train['Arsenic'] > 10, 'Unsafe', 'Safe')
-test['Label'] = np.where(test['Arsenic'] > 10, 'Unsafe', 'Safe')
+  train['Label'] = np.where(train['Arsenic'] > 10, 'polluted', 'safe')
+  test['Label'] = np.where(test['Arsenic'] > 10, 'polluted', 'safe')
 
-train_X = train.drop(['Arsenic', 'Label'], axis='columns')
-train_y = train['Label']
-test_X = test.drop(['Arsenic', 'Label'], axis='columns')
-test_y = test['Label']
+  train_X = train.drop(['Arsenic', 'Label'], axis='columns')
+  train_y = train['Label']
 
-rf_model = RandomForestClassifier(random_state=99)
-rf_model.fit(train_X, train_y)
+  test_X = test.drop(['Arsenic', 'Label'], axis='columns')
+  test_y = test['Label']
 
-predictions = rf_model.predict(test_X)
+  rf_model = RandomForestClassifier(random_state=99)
+  rf_model.fit(train_X, train_y)
 
-from sklearn import metrics
-accuracy = metrics.accuracy_score(predictions, test_y)
+  return rf_model.predict(test_X)
 
-print(accuracy)
+def load_data(train_src, test_src):
+  return pd.read_csv(train_src), pd.read_csv(test_src)
+
+if __name__ == '__main__':
+  train_src = './well_data/train.csv'
+  test_src ='./well_data/test.csv'
+  test_out = f'./prediction_data/model6-{time.time() / 1000}.csv';
+
+  train_df, test_df = load_data(train_src, test_src)
+
+  predictions = gen_predictions(train_df, test_df)
+
+  test_df['predictions'] = predictions
+
+  test_df.to_csv(test_out, index=False)
+  print(f'predictions written to {test_out}')

@@ -14,26 +14,20 @@ def cat_int_enc(df):
 train = cat_int_enc(pd.read_csv('./well_data/train.csv'))
 test = cat_int_enc(pd.read_csv('./well_data/test.csv'))
 
-train['Labels'] = np.where(train['Arsenic'] > 10, 0, 1)
-print(train.drop(['Labels', 'Arsenic'], axis='columns').info())
+train['Label'] = np.where(train['Arsenic'] > 10, 'Unsafe', 'Safe')
+test['Label'] = np.where(test['Arsenic'] > 10, 'Unsafe', 'Safe')
+
+train_X = train.drop(['Arsenic', 'Label'], axis='columns')
+train_y = train['Label']
+test_X = test.drop(['Arsenic', 'Label'], axis='columns')
+test_y = test['Label']
 
 rf_model = RandomForestClassifier(random_state=99)
-rf_model.fit(
-    train.drop(
-        ['Labels', 'Arsenic'],
-        axis='columns',
-    ),
-    train['Labels'],
-)
+rf_model.fit(train_X, train_y)
 
-test['Labels'] = rf_model.predict(
-    test.drop(
-        'Arsenic',
-        axis='columns',
-    ),
-)
+predictions = rf_model.predict(test_X)
 
 from sklearn import metrics
-accuracy = metrics.accuracy_score(test['Labels'], test['Labels'])
+accuracy = metrics.accuracy_score(predictions, test_y)
 
 print(accuracy)

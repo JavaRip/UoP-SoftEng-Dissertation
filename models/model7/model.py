@@ -16,6 +16,11 @@ def gen_predictions(train_df, test_df):
   train = cat_int_enc(train_df)
   test = cat_int_enc(test_df)
 
+  train['l'].fillna((train['l'].mode()), inplace=True)
+  train['u'].fillna((train['u'].mode()), inplace=True)
+  test['l'].fillna((test['l'].mode()), inplace=True)
+  test['l'].fillna((test['l'].mode()), inplace=True)
+
   train['Label'] = np.where(train['Arsenic'] > 10, 'polluted', 'safe')
   test['Label'] = np.where(test['Arsenic'] > 10, 'polluted', 'safe')
 
@@ -34,9 +39,9 @@ def load_data(train_src, test_src):
   return pd.read_csv(train_src), pd.read_csv(test_src)
 
 if __name__ == '__main__':
-  train_src = './well_data/train.csv'
-  test_src ='./well_data/test.csv'
-  test_out = f'./prediction_data/model6-{time.time() / 1000}.csv';
+  train_src = './models/model7/train.csv'
+  test_src ='./models/model7/test.csv'
+  test_out = f'./prediction_data/model7-{time.time() / 1000}.csv';
 
   train_df, test_df = load_data(train_src, test_src)
 

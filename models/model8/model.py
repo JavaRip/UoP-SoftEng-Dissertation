@@ -22,6 +22,23 @@ def gen_predictions(train_df, test_df):
   train['u'].fillna((train['u'].mode()), inplace=True)
   test['l'].fillna((test['l'].mode()), inplace=True)
   test['u'].fillna((test['u'].mode()), inplace=True)
+  # TODO, make a project proposal to see if this code could literally be less dry
+
+  train['Strata'] = np.where(train['Strata'] == 's15', 1, train['Strata'])
+  train['Strata'] = np.where(train['Strata'] == 's45', 2, train['Strata'])
+  train['Strata'] = np.where(train['Strata'] == 's65', 3, train['Strata'])
+  train['Strata'] = np.where(train['Strata'] == 's90', 4, train['Strata'])
+  train['Strata'] = np.where(train['Strata'] == 's150', 5, train['Strata'])
+  train['Strata'] = np.where(train['Strata'] == 'sD', 6, train['Strata'])
+  train['Strata'] = pd.to_numeric(train['Strata'])
+
+  test['Strata'] = np.where(test['Strata'] == 's15', 1, test['Strata'])
+  test['Strata'] = np.where(test['Strata'] == 's45', 2, test['Strata'])
+  test['Strata'] = np.where(test['Strata'] == 's65', 3, test['Strata'])
+  test['Strata'] = np.where(test['Strata'] == 's90', 4, test['Strata'])
+  test['Strata'] = np.where(test['Strata'] == 's150', 5, test['Strata'])
+  test['Strata'] = np.where(test['Strata'] == 'sD', 6, test['Strata'])
+  test['Strata'] = pd.to_numeric(test['Strata'])
 
   train['Label'] = np.where(train['Arsenic'] > 10, 'polluted', 'safe')
   test['Label'] = np.where(test['Arsenic'] > 10, 'polluted', 'safe')
@@ -54,7 +71,6 @@ def gen_predictions(train_df, test_df):
     ]
   )
 
-  print('test df ready')
 
   test_X = test_X.join(test_div_enc)
   test_X = test_X.join(test_dis_enc)
@@ -89,8 +105,6 @@ def gen_predictions(train_df, test_df):
   # train_X = train_X.join(train_uni_enc)
   # train_X = train_X.join(train_mou_enc)
 
-  print('train df ready')
-
   l_missing_cols = list(set(train_X.columns) - set(test_X.columns))
   r_missing_cols = list(set(test_X.columns) - set(train_X.columns))
 
@@ -113,8 +127,6 @@ def gen_predictions(train_df, test_df):
     learning_rate='adaptive',
     random_state=99
   )
-
-  print('fitting model')
 
   clf.fit(train_X, train_y)
 

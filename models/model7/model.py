@@ -19,7 +19,7 @@ def gen_predictions(train_df, test_df):
   train['l'].fillna((train['l'].mode()), inplace=True)
   train['u'].fillna((train['u'].mode()), inplace=True)
   test['l'].fillna((test['l'].mode()), inplace=True)
-  test['l'].fillna((test['l'].mode()), inplace=True)
+  test['u'].fillna((test['u'].mode()), inplace=True)
 
   train['Label'] = np.where(train['Arsenic'] > 10, 'polluted', 'safe')
   test['Label'] = np.where(test['Arsenic'] > 10, 'polluted', 'safe')

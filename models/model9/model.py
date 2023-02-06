@@ -1,80 +1,62 @@
 import pandas as pd
 import numpy as np
+import geopandas as gpd
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.neural_network import MLPClassifier
 import time
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.preprocessing import MinMaxScaler
-import geopandas as gpd
+import sys
+import os
 
+sys.path.append(
+  os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+)
+from model_utils.utils import cat_int_enc, gen_labels, gen_centroids
 
-def cat_int_enc(df):
-  dfc = df.copy()
+def append_test_train(test, train):
+  test['tid'] = 1
+  train['tid'] = 0
+  return pd.concat([test, train])
 
-  for header in list(dfc.columns.values):
-    if dfc[header].dtype == 'object':
-      dfc[header] = pd.Categorical(dfc[header]).codes
-
-  return dfc
-
-def add_centroids(gdf, df):
-  gdf['lon'] = gdf.centroid.x
-  gdf['lat'] = gdf.centroid.y
-
-  dfm = df.merge(
-    gdf,
-    left_on=['Division', 'District', 'Upazila', 'Union', 'Mouza'],
-    right_on=['div', 'dis', 'upa', 'uni', 'mou'],
-    how='left',
-  )
-
-  return dfm.drop(
-    columns=[
-      'div',
-      'Division',
-      'dis',
-      'District',
-      'upa',
-      'Upazila',
-      'uni',
-      'Union',
-      'mou',
-      'Mouza',
-      'area',
-      'geometry'
-    ],
-    axis='columns'
-  )
-
-def gen_predictions(train, test):
-  train['Label'] = np.where(train['Arsenic'] > 10, 1, 0)
-  test['Label'] = np.where(test['Arsenic'] > 10, 1, 0)
-
-  # scale
-  train['tid'] = 1
-  test['tid'] = 0
-
-  # lower precision for lat lon
-  test.sort_values(by=['lat'], inplace=True)
-  test['lat'] = pd.Categorical(test['lat']).codes
-  test.sort_values(by=['lon'], inplace=True)
-  test['lon'] = pd.Categorical(test['lon']).codes
-
-  train.sort_values(by=['lat'], inplace=True)
-  train['lat'] = pd.Categorical(train['lat']).codes
-  print('----------')
-  print(train['lat'].nunique())
-  train.sort_values(by=['lon'], inplace=True)
-  train['lon'] = pd.Categorical(train['lon']).codes
-  print(train['lon'].nunique())
-
-  scale_df = pd.concat([test, train])
-  scale_df = pd.DataFrame(MinMaxScaler().fit_transform(scale_df), columns=scale_df.columns)
-
-  train = scale_df[scale_df['tid'] == 1]
-  test = scale_df[scale_df['tid'] == 0]
+def split_test_train(df):
+  test = df[df['tid'] == 1]
+  train = df[df['tid'] == 0]
 
   train = pd.DataFrame(train.drop(columns=['tid']))
   test = pd.DataFrame(test.drop(columns=['tid']))
+
+  return test, train
+
+# TODO scale_lat_lon is a bad name because it scales every column
+def scale_lat_lon(df): 
+  df.sort_values(by=['lat'], inplace=True)
+  df['lat'] = pd.Categorical(df['lat']).codes
+
+  df.sort_values(by=['lon'], inplace=True)
+  df['lon'] = pd.Categorical(df['lon']).codes
+  return pd.DataFrame(MinMaxScaler().fit_transform(df), columns=df.columns)
+
+def conv_label_num(df):
+  df['Label'].replace('polluted', 1, inplace=True)
+  df['Label'].replace('safe', 0, inplace=True)
+
+def gen_predictions(train_df, test_df, gdf):
+  train = train_df.copy()
+  test = test_df.copy()
+
+  tt_df = append_test_train(test, train)
+
+  tt_df.drop(
+    columns=['Division', 'District', 'Upazila', 'Union', 'Mouza'], 
+    inplace=True,
+  )
+
+  tt_df['lon'], tt_df['lat'] = gen_centroids(train, gdf)
+  tt_df['Label'] = gen_labels(tt_df)
+  tt_df['Label'] = conv_label_num(tt_df)
+  tt_df = scale_lat_lon(tt_df)
+  tt_df.info()
+
+  test, train = split_test_train(tt_df)
 
   train_X = train.drop(['Arsenic', 'Label'], axis='columns')
   train_y = train['Label']
@@ -85,7 +67,7 @@ def gen_predictions(train, test):
   clf = MLPClassifier(
     solver='adam',
     alpha=0.0001,
-    hidden_layer_sizes=(2500, 625, 150, 38),
+    hidden_layer_sizes=(100),
     learning_rate='adaptive',
     random_state=99,
     verbose=1,
@@ -93,10 +75,11 @@ def gen_predictions(train, test):
 
   clf.fit(train_X, train_y)
 
-  return clf.predict(test_X), test, train
+  test_X['predictions'] = clf.predict(test_X)
+  test_X['predictions'].replace(1, 'polluted', inplace=True)
+  test_X['predictions'].replace(0, 'safe', inplace=True)
 
-def load_data(train_src, test_src):
-  return pd.read_csv(train_src), pd.read_csv(test_src)
+  return test_X['predictions']
 
 if __name__ == '__main__':
   train_src = './well_data/train.csv'
@@ -104,23 +87,11 @@ if __name__ == '__main__':
   test_out = f'./prediction_data/model9.csv';
   geo_src = './geodata/mou/mou-c005-s010-vw-pr.geojson'
 
-  train_df, test_df = load_data(train_src, test_src)
-  arsenic = test_df['Arsenic']
-
   gdf = gpd.read_file(geo_src)
-  train_df = add_centroids(gdf, train_df)
-  test_df = add_centroids(gdf, test_df)
+  train_df = pd.read_csv(train_src)
+  test_df = pd.read_csv(test_src)
 
-  predictions, test_df, train_df = gen_predictions(train_df, test_df)
-
-  test_df['predictions'] = predictions
-
-  test_df['Label'].replace(1, 'polluted', inplace=True)
-  test_df['Label'].replace(0, 'safe', inplace=True)
-  test_df['predictions'].replace(1, 'polluted', inplace=True)
-  test_df['predictions'].replace(0, 'safe', inplace=True)
-  test_df['Arsenic'] = arsenic
-  test_df.info()
+  test_df['predictions'] = gen_predictions(train_df, test_df, gdf)
 
   test_df.to_csv(test_out, index=False)
   print(f'predictions written to {test_out}')

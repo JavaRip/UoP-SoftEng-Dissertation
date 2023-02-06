@@ -1,47 +1,35 @@
 import pandas as pd
 import numpy as np
-from sklearn.neural_network import MLPClassifier
-import time
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import OneHotEncoder
+import time
+import sys
+import os
 
+sys.path.append(
+  os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+)
+from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median
 
-def cat_int_enc(df):
-  dfc = df.copy()
+def enumerate_stratas(df, stratas):
+  for x in range(len(stratas)):
+    df['Strata'] = np.where(df['Strata'] == stratas[x], x, df['Strata'])
 
-  for header in list(dfc.columns.values):
-    if dfc[header].dtype == 'object':
-      dfc[header] = pd.Categorical(dfc[header]).codes
-
-  return dfc
+  pd.to_numeric(df['Strata'])
 
 def gen_predictions(train_df, test_df):
-  train = train_df
-  test = test_df
+  train = train_df.copy()
+  test = test_df.copy()
 
-  train['l'].fillna((train['l'].mode()), inplace=True)
-  train['u'].fillna((train['u'].mode()), inplace=True)
-  test['l'].fillna((test['l'].mode()), inplace=True)
-  test['u'].fillna((test['u'].mode()), inplace=True)
-  # TODO, make a project proposal to see if this code could literally be less dry
+  impute_lower_and_median(train)
+  impute_lower_and_median(test)
 
-  train['Strata'] = np.where(train['Strata'] == 's15', 1, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 's45', 2, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 's65', 3, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 's90', 4, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 's150', 5, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 'sD', 6, train['Strata'])
-  train['Strata'] = pd.to_numeric(train['Strata'])
-
-  test['Strata'] = np.where(test['Strata'] == 's15', 1, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 's45', 2, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 's65', 3, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 's90', 4, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 's150', 5, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 'sD', 6, test['Strata'])
-  test['Strata'] = pd.to_numeric(test['Strata'])
-
-  train['Label'] = np.where(train['Arsenic'] > 10, 'polluted', 'safe')
-  test['Label'] = np.where(test['Arsenic'] > 10, 'polluted', 'safe')
+  stratas = ['s15', 's45', 's65', 's90', 's150', 'sD']
+  enumerate_stratas(train, stratas)
+  enumerate_stratas(test, stratas)
+  
+  train['Labels'] = gen_labels(train)
+  test['Labels'] = gen_labels(test)
 
   train_X = train.drop(['Arsenic', 'Label'], axis='columns')
   train_y = train['Label']
@@ -114,8 +102,8 @@ def gen_predictions(train_df, test_df):
   for col in r_missing_cols:
     train_X[col] = 0
 
-  train_X = cat_int_enc(train_X)
-  test_X = cat_int_enc(test_X)
+  cat_int_enc(train_X)
+  cat_int_enc(test_X)
 
   train_X = train_X.reindex(sorted(train_X.columns), axis=1)
   test_X = test_X.reindex(sorted(test_X.columns), axis=1)

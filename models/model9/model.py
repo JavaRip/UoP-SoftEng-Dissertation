@@ -21,7 +21,7 @@ def add_centroids(gdf, df):
   gdf['lat'] = gdf.centroid.y
 
   dfm = df.merge(
-    gdf, 
+    gdf,
     left_on=['Division', 'District', 'Upazila', 'Union', 'Mouza'],
     right_on=['div', 'dis', 'upa', 'uni', 'mou'],
     how='left',
@@ -29,19 +29,19 @@ def add_centroids(gdf, df):
 
   return dfm.drop(
     columns=[
-      'div', 
-      'Division', 
-      'dis', 
-      'District', 
-      'upa', 
-      'Upazila', 
-      'uni', 
-      'Union', 
-      'mou', 
-      'Mouza', 
-      'area', 
+      'div',
+      'Division',
+      'dis',
+      'District',
+      'upa',
+      'Upazila',
+      'uni',
+      'Union',
+      'mou',
+      'Mouza',
+      'area',
       'geometry'
-    ], 
+    ],
     axis='columns'
   )
 
@@ -52,6 +52,21 @@ def gen_predictions(train, test):
   # scale
   train['tid'] = 1
   test['tid'] = 0
+
+  # lower precision for lat lon
+  test.sort_values(by=['lat'], inplace=True)
+  test['lat'] = pd.Categorical(test['lat']).codes
+  test.sort_values(by=['lon'], inplace=True)
+  test['lon'] = pd.Categorical(test['lon']).codes
+
+  train.sort_values(by=['lat'], inplace=True)
+  train['lat'] = pd.Categorical(train['lat']).codes
+  print('----------')
+  print(train['lat'].nunique())
+  train.sort_values(by=['lon'], inplace=True)
+  train['lon'] = pd.Categorical(train['lon']).codes
+  print(train['lon'].nunique())
+
   scale_df = pd.concat([test, train])
   scale_df = pd.DataFrame(MinMaxScaler().fit_transform(scale_df), columns=scale_df.columns)
 
@@ -70,9 +85,10 @@ def gen_predictions(train, test):
   clf = MLPClassifier(
     solver='adam',
     alpha=0.0001,
-    hidden_layer_sizes=(100, 75, 25, 2),
+    hidden_layer_sizes=(2500, 625, 150, 38),
     learning_rate='adaptive',
-    random_state=99
+    random_state=99,
+    verbose=1,
   )
 
   clf.fit(train_X, train_y)
@@ -105,7 +121,6 @@ if __name__ == '__main__':
   test_df['predictions'].replace(0, 'safe', inplace=True)
   test_df['Arsenic'] = arsenic
   test_df.info()
-  print(test_df.head())
 
   test_df.to_csv(test_out, index=False)
   print(f'predictions written to {test_out}')

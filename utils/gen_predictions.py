@@ -22,6 +22,8 @@ if __name__ == '__main__':
   model = sys.argv[3]
 
   df = pd.read_csv(filepath)
-  df['predictions'], outfile = predict(filepath, stain_color, model)
+  df['Prediction'], outfile = predict(filepath, stain_color, model)
+  df['Label'] = gen_labels(df)
+
   df.to_csv(outfile, index=False)
   print(f'written to {outfile}')

@@ -47,3 +47,7 @@ def conv_cat_num(df, col_name):
 def conv_cat_str(df, col_name):
   df[col_name].replace(1, 'polluted', inplace=True)
   df[col_name].replace(0, 'safe', inplace=True)
+
+def impute_lu(df):
+  df['l'].fillna((df['l'].mode()), inplace=True)
+  df['u'].fillna((df['u'].mode()), inplace=True)

@@ -2,6 +2,13 @@ import json
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from os import listdir
+import sys
+import os
+
+sys.path.append(
+  os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+)
+from model_utils.utils import stratify
 
 # TODO update src_out
 def main(
@@ -23,13 +30,7 @@ def main(
 
 def label_agg_data(agg_df, label_src):
   label_df = pd.read_csv(label_src)
-
-  label_df.loc[label_df['Depth'].between(0, 15.3, 'both'), 'Strata'] = 's15'
-  label_df.loc[label_df['Depth'].between(15.3, 45, 'right'), 'Strata'] = 's45'
-  label_df.loc[label_df['Depth'].between(45, 65, 'right'), 'Strata'] = 's65'
-  label_df.loc[label_df['Depth'].between(65, 90, 'right'), 'Strata'] = 's90'
-  label_df.loc[label_df['Depth'].between(90, 150, 'right'), 'Strata'] = 's150'
-  label_df.loc[label_df['Depth'].gt(150), 'Strata'] = 'sD'
+  stratify(label_df)
 
   return pd.merge(
     label_df,

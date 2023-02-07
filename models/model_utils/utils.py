@@ -51,3 +51,18 @@ def conv_cat_str(df, col_name):
 def impute_lu(df):
   df['l'].fillna((df['l'].mode()), inplace=True)
   df['u'].fillna((df['u'].mode()), inplace=True)
+
+def stratify(df):
+  df.loc[df['Depth'].between(0, 15.3, 'both'), 'Strata'] = 's15'
+  df.loc[df['Depth'].between(15.3, 45, 'right'), 'Strata'] = 's45'
+  df.loc[df['Depth'].between(45, 65, 'right'), 'Strata'] = 's65'
+  df.loc[df['Depth'].between(65, 90, 'right'), 'Strata'] = 's90'
+  df.loc[df['Depth'].between(90, 150, 'right'), 'Strata'] = 's150'
+  df.loc[df['Depth'].gt(150), 'Strata'] = 'sD'
+
+def enumerate_stratas(df):
+  stratas = ['s15', 's45', 's65', 's90', 's150', 'sD']
+  for x in range(len(stratas)):
+    df['Strata'] = np.where(df['Strata'] == stratas[x], x, df['Strata'])
+
+  pd.to_numeric(df['Strata'])

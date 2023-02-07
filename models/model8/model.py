@@ -9,14 +9,8 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train
+from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, enumerate_stratas
 from model_utils.evaluator import evaluate
-
-def enumerate_stratas(df, stratas):
-  for x in range(len(stratas)):
-    df['Strata'] = np.where(df['Strata'] == stratas[x], x, df['Strata'])
-
-  pd.to_numeric(df['Strata'])
 
 def ohe_col(df, cols):
   for col in cols:
@@ -41,9 +35,7 @@ def gen_predictions(train_df, test_df):
 
   impute_lower_and_median(tt_df)
 
-  # ordered by smallest to largest so enumeration makes sense
-  stratas = ['s15', 's45', 's65', 's90', 's150', 'sD']
-  enumerate_stratas(tt_df, stratas)
+  enumerate_stratas(tt_df)
 
   conv_cat_num(tt_df, 'Label')
   tt_df = ohe_col(tt_df, ['Union'])

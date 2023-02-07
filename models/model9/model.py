@@ -10,34 +10,18 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, gen_centroids
-
-def append_test_train(test, train):
-  test['tid'] = 1
-  train['tid'] = 0
-  return pd.concat([test, train])
-
-def split_test_train(df):
-  test = df[df['tid'] == 1]
-  train = df[df['tid'] == 0]
-
-  train = pd.DataFrame(train.drop(columns=['tid']))
-  test = pd.DataFrame(test.drop(columns=['tid']))
-
-  return test, train
+from model_utils.utils import cat_int_enc, gen_labels, gen_centroids, split_test_train, append_test_train, conv_label_num, conv_label_str
 
 # TODO scale_lat_lon is a bad name because it scales every column
 def scale_lat_lon(df): 
-  df.sort_values(by=['lat'], inplace=True)
-  df['lat'] = pd.Categorical(df['lat']).codes
+  dfc = df.copy()
 
-  df.sort_values(by=['lon'], inplace=True)
-  df['lon'] = pd.Categorical(df['lon']).codes
-  return pd.DataFrame(MinMaxScaler().fit_transform(df), columns=df.columns)
+  dfc.sort_values(by=['lat'], inplace=True)
+  dfc['lat'] = pd.Categorical(df['lat']).codes
 
-def conv_label_num(df):
-  df['Label'].replace('polluted', 1, inplace=True)
-  df['Label'].replace('safe', 0, inplace=True)
+  dfc.sort_values(by=['lon'], inplace=True)
+  dfc['lon'] = pd.Categorical(df['lon']).codes
+  return pd.DataFrame(MinMaxScaler().fit_transform(dfc), columns=dfc.columns)
 
 def gen_predictions(train_df, test_df, gdf):
   train = train_df.copy()
@@ -52,9 +36,8 @@ def gen_predictions(train_df, test_df, gdf):
 
   tt_df['lon'], tt_df['lat'] = gen_centroids(train, gdf)
   tt_df['Label'] = gen_labels(tt_df)
-  tt_df['Label'] = conv_label_num(tt_df)
+  conv_label_num(tt_df, 'Label')
   tt_df = scale_lat_lon(tt_df)
-  tt_df.info()
 
   test, train = split_test_train(tt_df)
 
@@ -67,7 +50,7 @@ def gen_predictions(train_df, test_df, gdf):
   clf = MLPClassifier(
     solver='adam',
     alpha=0.0001,
-    hidden_layer_sizes=(100),
+    hidden_layer_sizes=(10),
     learning_rate='adaptive',
     random_state=99,
     verbose=1,
@@ -76,8 +59,7 @@ def gen_predictions(train_df, test_df, gdf):
   clf.fit(train_X, train_y)
 
   test_X['predictions'] = clf.predict(test_X)
-  test_X['predictions'].replace(1, 'polluted', inplace=True)
-  test_X['predictions'].replace(0, 'safe', inplace=True)
+  conv_label_str(test_X, 'predictions')
 
   return test_X['predictions']
 

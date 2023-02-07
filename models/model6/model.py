@@ -8,17 +8,18 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels
+from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str
+from model_utils.evaluator import evaluate
 
 def gen_predictions(train_df, test_df):
   train = train_df.copy()
   test = test_df.copy()
 
+  conv_cat_num(train, 'Label')
+  conv_cat_num(test, 'Label')
+
   cat_int_enc(train)
   cat_int_enc(test)
-
-  train['Label'] = gen_labels(train)
-  test['Label'] = gen_labels(test)
 
   train_X = train.drop(['Arsenic', 'Label'], axis='columns')
   train_y = train['Label']
@@ -29,7 +30,10 @@ def gen_predictions(train_df, test_df):
   rf_model = RandomForestClassifier(random_state=99)
   rf_model.fit(train_X, train_y)
 
-  return rf_model.predict(test_X)
+  test_X['Prediction'] = rf_model.predict(test_X)
+  conv_cat_str(test_X, 'Prediction') 
+
+  return test_X['Prediction']
 
 if __name__ == '__main__':
   train_src = './well_data/train.csv'
@@ -39,8 +43,12 @@ if __name__ == '__main__':
   train_df = pd.read_csv(train_src)
   test_df = pd.read_csv(test_src) 
 
-  test_df['predictions'] = gen_predictions(train_df, test_df)
-  test_df.info()
+  train_df['Label'] = gen_labels(train_df)
+  test_df['Label'] = gen_labels(test_df)
+
+  test_df['Prediction'] = gen_predictions(train_df, test_df)
+
+  evaluate(test_df)
 
   test_df.to_csv(test_out, index=False)
   print(f'predictions written to {test_out}')

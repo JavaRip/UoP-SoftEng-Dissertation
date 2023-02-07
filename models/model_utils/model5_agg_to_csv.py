@@ -1,17 +1,16 @@
 import json
 import pandas as pd
 from sklearn.model_selection import train_test_split
-import sys
 from os import listdir
 
 # TODO update src_out
 def main(
-  train_src = './models/model5/aggregate-data/',
-  test_src = './models/model5-trained-on-test-data/aggregate-data/',
-  train_out = './models/model7/train.csv',
-  test_out = './models/model7/test.csv',
-  train_label_src = './well_data/train.csv',
-  test_label_src = './well_data/test.csv'
+  train_src='./models/model5/aggregate-data/',
+  test_src='./models/model5-trained-on-test-data/aggregate-data/',
+  train_out='./models/model7/train.csv',
+  test_out='./models/model7/test.csv',
+  train_label_src='./well_data/train.csv',
+  test_label_src='./well_data/test.csv'
 ):
   train_df = agg_data_to_df(train_src)
   label_train_df = label_agg_data(train_df, train_label_src)

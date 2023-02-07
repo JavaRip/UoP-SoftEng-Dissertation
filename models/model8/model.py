@@ -34,6 +34,10 @@ def gen_predictions(train_df, test_df):
   test = test_df.copy()
 
   tt_df = append_test_train(test, train)
+  tt_df.info()
+  print(tt_df['Division'].unique())
+  tt_df = tt_df[tt_df['Division'] == 'Chittagong']
+  tt_df.info()
 
   impute_lower_and_median(tt_df)
 
@@ -42,7 +46,7 @@ def gen_predictions(train_df, test_df):
   enumerate_stratas(tt_df, stratas)
 
   conv_cat_num(tt_df, 'Label')
-  tt_df = ohe_col(tt_df, ['Upazila'])
+  tt_df = ohe_col(tt_df, ['Union'])
 
   tt_df = tt_df.drop(
     columns=[
@@ -60,6 +64,7 @@ def gen_predictions(train_df, test_df):
 
   train_X = train.drop(['Arsenic', 'Label'], axis='columns')
   train_y = train['Label']
+  train_X.info()
 
   test_X = test.drop(['Arsenic', 'Label'], axis='columns')
 

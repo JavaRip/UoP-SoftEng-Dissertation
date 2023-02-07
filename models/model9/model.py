@@ -19,15 +19,15 @@ def gen_predictions(train_df, test_df, gdf):
 
   tt_df = append_test_train(test, train)
 
+  tt_df['lon'], tt_df['lat'] = gen_centroids(tt_df, gdf)
+
   tt_df.drop(
     columns=['Division', 'District', 'Upazila', 'Union', 'Mouza'], 
     inplace=True,
   )
 
-  tt_df['lon'], tt_df['lat'] = gen_centroids(train, gdf)
-
   conv_cat_num(tt_df, 'Label')
-  pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
+  tt_df = pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
 
   test, train = split_test_train(tt_df)
 
@@ -49,7 +49,6 @@ def gen_predictions(train_df, test_df, gdf):
   test_X['Prediction'] = clf.predict(test_X)
   conv_cat_str(test_X, 'Prediction')
   test_X.reset_index(inplace=True)
-  test_X.info()
 
   return test_X['Prediction']
 

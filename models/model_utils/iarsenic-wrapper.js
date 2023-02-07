@@ -1,11 +1,12 @@
 const fs = require("fs");
 const model = (process.argv[4] == null) ? 'model5' : process.argv[4]
-const produceEstimate = require(`../models/${model}/estimator.js`);
+const produceEstimate = require(`../${model}/model/estimator.js`);
 
 const srcCsv = process.argv[2];
 const stainColour = process.argv[3];
 
 const rows = String(fs.readFileSync(srcCsv)).split("\n");
+
 predictions = [];
 
 for (const row of rows) {
@@ -28,29 +29,44 @@ for (const row of rows) {
   const divisions = (() => {
     if (model === 'model5') {
       return JSON.parse(
-        fs.readFileSync(`./models/${model}/aggregate-data/${div}-${dis}.json`)
+        fs.readFileSync(`./models/${model}/model/aggregate-data/${div}-${dis}.json`)
       );
     } else {
       // for models with a singe aggregate datafile, this must only be retrieved once
       // however because model5 splits the data into difference files it must be updated
       // to the correct file every loop. This could likely be sensibly optimized
-      const raw = fs.readFileSync(`./models/${model}/aggregate-data.js`, 'utf-8')
+      const raw = fs.readFileSync(`./models/${model}/model/aggregate-data.js`, 'utf-8')
       return JSON.parse(raw.slice(raw.indexOf('=') + 1))
     }
   })()
 
-  const estimate = produceEstimate(
-    divisions,
-    div,
-    dis,
-    upa,
-    uni,
-    mou,
-    depth,
-    colour,
-    utensil,
-    flood
-  );
+  const estimate = (() => {
+    if (model === 'model5') {
+      return produceEstimate(
+        divisions,
+        div,
+        dis,
+        upa,
+        uni,
+        mou,
+        depth,
+        colour,
+        utensil,
+        flood
+      );
+    } else {
+      return produceEstimate(
+        divisions,
+        div,
+        dis,
+        upa,
+        uni,
+        depth,
+        colour,
+        utensil
+      );
+    }
+  })()
 
   if (estimate.severity == null) {
     predictions.push(estimate.message);
@@ -60,7 +76,7 @@ for (const row of rows) {
 }
 
 // add header
-predictions.unshift("prediction");
+predictions.unshift("Prediction");
 
 const outFilename = `./prediction_data/${model}-${stainColour}-${Math.floor(
   new Date().getTime() / 1000

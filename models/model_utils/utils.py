@@ -38,7 +38,7 @@ def split_test_train(df):
   train = pd.DataFrame(train.drop(columns=['tid']))
   test = pd.DataFrame(test.drop(columns=['tid']))
 
-  return test, train
+  return test.copy(), train.copy()
 
 def conv_cat_num(df, col_name):
   df[col_name].replace('polluted', 1, inplace=True)
@@ -77,7 +77,6 @@ def get_test_mlu(train, test, level):
     'Depth',
     'Arsenic',
     'Label',
-    'Strata',
   ]
 
   drop_cols.remove(level)

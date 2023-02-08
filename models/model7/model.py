@@ -19,6 +19,7 @@ def gen_predictions(train_df, test_df):
   test['l'] = None
   test['m'] = None
   test['u'] = None
+  train = train.drop(columns=['Strata'])
 
   test = get_test_mlu(train, test, 'Mouza')
   test = get_test_mlu(train, test, 'Union')
@@ -44,8 +45,6 @@ def gen_predictions(train_df, test_df):
 
   train_X = train_X.drop(columns=['index'])
   test_X = test_X.drop(columns=['index'])
-
-  print(train_X.head())
 
   rf_model = RandomForestClassifier(random_state=99)
   rf_model.fit(train_X, train_y)

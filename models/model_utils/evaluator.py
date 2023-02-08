@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import sys
 
 def evaluate(df, label_col='Label', pred_col='Prediction'):
+  df.info()
   confusion_matrix = metrics.confusion_matrix(df[label_col], df[pred_col])
 
   cm_display = metrics.ConfusionMatrixDisplay(

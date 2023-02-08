@@ -24,58 +24,56 @@ def ohe_col(df, cols):
   return df
 
 def gen_predictions(train_df, test_df):
-  train = train_df.copy()
-  test = test_df.copy()
-  train.info()
-  test.info()
-  print('=========================')
+  for div in train_df['Division'].unique():
+    train = train_df[train_df['Division'] == div]
+    test = test_df[test_df['Division'] == div]
 
-  tt_df = append_test_train(test, train)
+    tt_df = append_test_train(test, train)
 
-  impute_lower_and_median(tt_df)
-  enumerate_stratas(tt_df)
+    impute_lower_and_median(tt_df)
+    enumerate_stratas(tt_df)
 
-  conv_cat_num(tt_df, 'Label')
-  tt_df = ohe_col(tt_df, ['Union'])
+    conv_cat_num(tt_df, 'Label')
+    tt_df = ohe_col(tt_df, ['Union'])
 
-  tt_df = tt_df.drop(
-    columns=[
-      'Division',
-      'District',
-      'Upazila',
-      'Union',
-      'Mouza',
-    ]
-  )
+    tt_df = tt_df.drop(
+      columns=[
+        'Division',
+        'District',
+        'Upazila',
+        'Union',
+        'Mouza',
+      ]
+    )
 
-  cat_int_enc(tt_df)
-  tt_df = pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
+    cat_int_enc(tt_df)
+    tt_df = pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
 
-  test, train = split_test_train(tt_df)
+    test, train = split_test_train(tt_df)
 
-  train_X = train.drop(['Arsenic', 'Label'], axis='columns')
-  train_y = train['Label']
-  test_X = test.drop(['Arsenic', 'Label'], axis='columns')
+    train_X = train.drop(['Arsenic', 'Label'], axis='columns')
+    train_y = train['Label']
+    test_X = test.drop(['Arsenic', 'Label'], axis='columns')
 
-  clf = MLPClassifier(
-    solver='adam',
-    alpha=0.0001,
-    hidden_layer_sizes=(100, 5),
-    learning_rate='adaptive',
-    random_state=99,
-    verbose=True
-  )
+    clf = MLPClassifier(
+      solver='adam',
+      alpha=0.0001,
+      hidden_layer_sizes=(100, 5),
+      learning_rate='adaptive',
+      random_state=99,
+      verbose=True,
+      max_iter=1
+    )
 
-  clf.fit(train_X, train_y)
-  test['Prediction'] = clf.predict(test_X)
-  print('~~~~~~~~~~~~~~~~~~')
-  test['Prediction'].info()
-  print(test['Prediction'].unique())
-  conv_cat_str(test, 'Prediction')
-  print(test['Prediction'].unique())
-  print(test['Prediction'].info())
+    clf.fit(train_X, train_y)
+    test_X['Prediction'] = clf.predict(test_X)
+    conv_cat_str(test_X, 'Prediction')
+    test_df = pd.merge(test_df, test_X['Prediction'], left_index=True, right_index=True)
+    print('||||||||||||||||||||')
+    test_df.info()
+    print(test_df.head())
 
-  return test['Prediction'].squeeze()
+  return test['Prediction']
 
 if __name__ == '__main__':
   train_src = './models/model8/train.csv'
@@ -85,16 +83,13 @@ if __name__ == '__main__':
   train_df = pd.read_csv(train_src)
   test_df = pd.read_csv(test_src)
 
-  train_df = train_df[train_df['Division'] == 'Chittagong']
-  test_df = test_df[test_df['Division'] == 'Chittagong']
-  
-  train_df.reset_index(inplace=True)
-  test_df.reset_index(inplace=True)
-
   train_df['Label'] = gen_labels(train_df)
   test_df['Label'] = gen_labels(test_df)
 
   test_df['Prediction'] = gen_predictions(train_df, test_df)
+  print('MMMMMMMMMMMMMMMMMMMMMMMM')
+  print(test_df.info())
+  print(test_df.head())
 
   evaluate(test_df)
 

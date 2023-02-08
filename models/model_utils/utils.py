@@ -38,7 +38,7 @@ def split_test_train(df):
   train = pd.DataFrame(train.drop(columns=['tid']))
   test = pd.DataFrame(test.drop(columns=['tid']))
 
-  return test.copy(), train.copy()
+  return test, train
 
 def conv_cat_num(df, col_name):
   df[col_name].replace('polluted', 1, inplace=True)

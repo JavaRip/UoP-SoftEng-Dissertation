@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.preprocessing import MinMaxScaler
 import time
 import sys
 import os
@@ -8,97 +9,22 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str, stratify, enumerate_stratas
+from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str, stratify, enumerate_stratas, get_test_mlu
 from model_utils.evaluator import evaluate
 
 def gen_predictions(train_df, test_df):
   train = train_df.copy()
   test = test_df.copy()
-  test.info()
 
-  mlu_df = train.dropna().drop(
-    columns=[
-      'Division', 
-      'District', 
-      'Upazila', 
-      'Union', 
-      'Depth', 
-      'Arsenic', 
-      'Label', 
-      'Strata'
-    ]).drop_duplicates(
-      subset='Mouza',
-    )
+  test['l'] = None
+  test['m'] = None
+  test['u'] = None
 
-  test = test.merge(
-    mlu_df,
-    on=['Mouza'],
-    how='left',
-  )
-
-  test.info()
-
-  mlu_df = train.dropna().drop(
-    columns=[
-      'Division', 
-      'District', 
-      'Upazila', 
-      'Mouza', 
-      'Depth', 
-      'Arsenic', 
-      'Label', 
-      'Strata'
-    ]).drop_duplicates(
-      subset='Union',
-    )
-
-  testna = test[test.isna().any(axis=1)].drop(columns=['m','l','u'])
-  test = test.dropna()
-
-  testna = testna.merge(
-    mlu_df,
-    on=['Union'],
-    how='left',
-  )
-
-  test = pd.concat([testna, test])
-  test.info()
-
-  mlu_df = train.dropna().drop(
-    columns=[
-      'Division', 
-      'District', 
-      'Union', 
-      'Mouza', 
-      'Depth', 
-      'Arsenic', 
-      'Label', 
-      'Strata'
-    ]).drop_duplicates(
-      subset='Upazila',
-    )
-
-  testna = test[test.isna().any(axis=1)].drop(columns=['m','l','u'])
-  test.dropna()
-
-  testna = testna.merge(
-    mlu_df,
-    on=['Upazila'],
-    how='left',
-  )
-
-  test = pd.concat([testna, test])
-  test.info()
-  return
-
-  test['m'].fillna(train['m'].mean(), inplace=True)
-  test['l'].fillna(train['l'].mean(), inplace=True)
-  test['u'].fillna(train['u'].mean(), inplace=True)
-
-  stratify(train)
-  enumerate_stratas(train)
-  stratify(test)
-  enumerate_stratas(test)
+  test = get_test_mlu(train, test, 'Mouza')
+  test = get_test_mlu(train, test, 'Union')
+  test = get_test_mlu(train, test, 'Upazila')
+  test = get_test_mlu(train, test, 'District')
+  test = get_test_mlu(train, test, 'Division')
 
   conv_cat_num(train, 'Label')
   conv_cat_num(test, 'Label')
@@ -108,11 +34,18 @@ def gen_predictions(train_df, test_df):
 
   train_X = train.drop(['Arsenic', 'Label'], axis='columns')
   train_y = train['Label']
-
   test_X = test.drop(['Arsenic', 'Label'], axis='columns')
   
   train_X = train.reindex(sorted(train_X.columns), axis=1)
   test_X = test.reindex(sorted(test_X.columns), axis=1)
+
+  train_X.reset_index(inplace=True)
+  test_X.reset_index(inplace=True)
+
+  train_X = train_X.drop(columns=['index'])
+  test_X = test_X.drop(columns=['index'])
+
+  print(train_X.head())
 
   rf_model = RandomForestClassifier(random_state=99)
   rf_model.fit(train_X, train_y)

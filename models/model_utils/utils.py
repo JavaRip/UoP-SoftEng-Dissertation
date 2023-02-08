@@ -66,3 +66,37 @@ def enumerate_stratas(df):
     df['Strata'] = np.where(df['Strata'] == stratas[x], x, df['Strata'])
 
   pd.to_numeric(df['Strata'])
+
+def get_test_mlu(train, test, level):
+  drop_cols = [
+    'Division',
+    'District',
+    'Upazila',
+    'Union',
+    'Mouza',
+    'Depth',
+    'Arsenic',
+    'Label',
+    'Strata',
+  ]
+
+  drop_cols.remove(level)
+
+  # get df containing just mlu & region name
+  mlu_df = train.dropna().drop(columns=drop_cols).drop_duplicates(subset=level)
+
+  # create df of rows containing null in test
+  testna = test[test.isna().any(axis=1)].drop(columns=['m','l','u'])
+
+  # remove rows containing na from test
+  test = test.dropna()
+
+  # get mlu values into na rows in testna
+  testna = testna.merge(
+    mlu_df,
+    on=[level],
+    how='left',
+  )
+
+  # join test rows that contained na and test
+  return pd.concat([testna, test])

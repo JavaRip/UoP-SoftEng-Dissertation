@@ -14,8 +14,9 @@ from model_utils.evaluator import evaluate
 def gen_predictions(train_df, test_df):
   train = train_df.copy()
   test = test_df.copy()
+  test.info()
 
-  mlu_df = train.drop(
+  mlu_df = train.dropna().drop(
     columns=[
       'Division', 
       'District', 
@@ -34,6 +35,61 @@ def gen_predictions(train_df, test_df):
     on=['Mouza'],
     how='left',
   )
+
+  test.info()
+
+  mlu_df = train.dropna().drop(
+    columns=[
+      'Division', 
+      'District', 
+      'Upazila', 
+      'Mouza', 
+      'Depth', 
+      'Arsenic', 
+      'Label', 
+      'Strata'
+    ]).drop_duplicates(
+      subset='Union',
+    )
+
+  testna = test[test.isna().any(axis=1)].drop(columns=['m','l','u'])
+  test = test.dropna()
+
+  testna = testna.merge(
+    mlu_df,
+    on=['Union'],
+    how='left',
+  )
+
+  test = pd.concat([testna, test])
+  test.info()
+
+  mlu_df = train.dropna().drop(
+    columns=[
+      'Division', 
+      'District', 
+      'Union', 
+      'Mouza', 
+      'Depth', 
+      'Arsenic', 
+      'Label', 
+      'Strata'
+    ]).drop_duplicates(
+      subset='Upazila',
+    )
+
+  testna = test[test.isna().any(axis=1)].drop(columns=['m','l','u'])
+  test.dropna()
+
+  testna = testna.merge(
+    mlu_df,
+    on=['Upazila'],
+    how='left',
+  )
+
+  test = pd.concat([testna, test])
+  test.info()
+  return
 
   test['m'].fillna(train['m'].mean(), inplace=True)
   test['l'].fillna(train['l'].mean(), inplace=True)

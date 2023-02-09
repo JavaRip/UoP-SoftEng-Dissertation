@@ -21,8 +21,18 @@ def gen_predictions(train_df, test_df):
   test['Prediction'] = None
 
   for div in train_df['Division'].unique():
+    print(div)
+    print('_______________________')
+
     tr_div = train[train['Division'] == div]
     te_div = test[test['Division'] == div]
+
+    # TODO get mlu from train dataset
+    # test = get_test_mlu(train, test, 'Mouza')
+    # test = get_test_mlu(train, test, 'Union')
+    # test = get_test_mlu(train, test, 'Upazila')
+    # test = get_test_mlu(train, test, 'District')
+    # test = get_test_mlu(train, test, 'Division')
 
     tt_df = append_test_train(
       te_div,
@@ -30,17 +40,18 @@ def gen_predictions(train_df, test_df):
     )
 
     impute_lower_and_median(tt_df)
+
     enumerate_stratas(tt_df)
 
     conv_cat_num(tt_df, 'Label')
-    tt_df = ohe_col(tt_df, ['Union'])
+    tt_df = ohe_col(tt_df, ['Mouza'])
 
     tt_df = tt_df.drop(
       columns=[
         'Division',
         'District',
+        'Union',
         'Upazila',
-        'Mouza',
       ]
     )
 
@@ -56,7 +67,7 @@ def gen_predictions(train_df, test_df):
     clf = MLPClassifier(
       solver='adam',
       alpha=0.0001,
-      hidden_layer_sizes=(100, 5),
+      hidden_layer_sizes=(500, 10),
       learning_rate='adaptive',
       random_state=99,
       verbose=True,
@@ -66,14 +77,16 @@ def gen_predictions(train_df, test_df):
     clf.fit(train_X, train_y)
 
     test.loc[test['Division'] == div, ['Prediction']] = clf.predict(test_X)
-    test.info()
 
   conv_cat_str(test, 'Prediction')
+  test.info()
   return test['Prediction']
 
 if __name__ == '__main__':
   train_src = './models/model8/train.csv'
   test_src ='./models/model8/test.csv'
+  # TODO get mlu from train dataset
+  # test_src ='./well_data/test.csv'
   test_out = f'./prediction_data/model8-{time.time() / 1000}.csv';
 
   train_df = pd.read_csv(train_src)

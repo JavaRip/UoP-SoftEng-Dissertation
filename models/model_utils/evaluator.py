@@ -15,7 +15,7 @@ def evaluate(df, label_col='Label', pred_col='Prediction'):
   ) 
 
   cm_display.plot()
-  plt.show()
+  # plt.show()
 
   accuracy = metrics.accuracy_score(df[label_col], df[pred_col])
   precision = metrics.precision_score(df[label_col], df[pred_col], pos_label='safe')

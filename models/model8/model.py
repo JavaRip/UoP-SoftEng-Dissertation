@@ -13,22 +13,26 @@ from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, 
 from model_utils.evaluator import evaluate
 
 def ohe_col(df, cols):
-  for col in cols:
-    enc = OneHotEncoder(handle_unknown='ignore')
-
-    col_enc_df = pd.DataFrame(enc.fit_transform(df[[col]]).toarray())
-    col_enc_df.columns = enc.get_feature_names_out([col])
-    col_enc_df.reset_index(inplace=True, drop=True)
-    df.reset_index(inplace=True, drop=True)
-    df = pd.concat([df, col_enc_df], axis=1)
-  return df
+    return pd.get_dummies(data=df, columns=cols)
 
 def gen_predictions(train_df, test_df):
-  for div in train_df['Division'].unique():
-    train = train_df[train_df['Division'] == div]
-    test = test_df[test_df['Division'] == div]
+  train = train_df.copy()
+  test = test_df.copy()
+  test['Prediction'] = None
 
-    tt_df = append_test_train(test, train)
+  print('__________________________')
+
+  for div in train_df['Division'].unique():
+    print(div)
+    print('##############')
+
+    tr_div = train[train['Division'] == div]
+    te_div = test[test['Division'] == div]
+
+    tt_df = append_test_train(
+      te_div,
+      tr_div,
+    )
 
     impute_lower_and_median(tt_df)
     enumerate_stratas(tt_df)
@@ -41,7 +45,6 @@ def gen_predictions(train_df, test_df):
         'Division',
         'District',
         'Upazila',
-        'Union',
         'Mouza',
       ]
     )
@@ -49,11 +52,11 @@ def gen_predictions(train_df, test_df):
     cat_int_enc(tt_df)
     tt_df = pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
 
-    test, train = split_test_train(tt_df)
+    te_div, tr_div = split_test_train(tt_df)
 
-    train_X = train.drop(['Arsenic', 'Label'], axis='columns')
-    train_y = train['Label']
-    test_X = test.drop(['Arsenic', 'Label'], axis='columns')
+    train_X = tr_div.drop(['Arsenic', 'Label'], axis='columns')
+    train_y = tr_div['Label']
+    test_X = te_div.drop(['Arsenic', 'Label'], axis='columns')
 
     clf = MLPClassifier(
       solver='adam',
@@ -62,17 +65,20 @@ def gen_predictions(train_df, test_df):
       learning_rate='adaptive',
       random_state=99,
       verbose=True,
-      max_iter=1
+      max_iter=5
     )
 
     clf.fit(train_X, train_y)
-    test_X['Prediction'] = clf.predict(test_X)
-    conv_cat_str(test_X, 'Prediction')
-    test_df = pd.merge(test_df, test_X['Prediction'], left_index=True, right_index=True)
-    print('||||||||||||||||||||')
-    test_df.info()
+
+    test_X.info()
+    
+    test.loc[test['Division'] == div, ['Prediction']] = clf.predict(test_X)
+    test.info()
     print(test_df.head())
 
+  print('###########################')
+  conv_cat_str(test, 'Prediction')
+  test.info()
   return test['Prediction']
 
 if __name__ == '__main__':
@@ -87,10 +93,9 @@ if __name__ == '__main__':
   test_df['Label'] = gen_labels(test_df)
 
   test_df['Prediction'] = gen_predictions(train_df, test_df)
-  print('MMMMMMMMMMMMMMMMMMMMMMMM')
-  print(test_df.info())
-  print(test_df.head())
-
+  print('-----------------------------')
+  print('-----------------------------')
+  print('-----------------------------')
   evaluate(test_df)
 
   test_df.to_csv(test_out, index=False)

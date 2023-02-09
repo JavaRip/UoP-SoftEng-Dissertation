@@ -9,7 +9,7 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, enumerate_stratas
+from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, enumerate_stratas, get_test_mlu
 from model_utils.evaluator import evaluate
 
 def ohe_col(df, cols):
@@ -18,30 +18,27 @@ def ohe_col(df, cols):
 def gen_predictions(train_df, test_df):
   train = train_df.copy()
   test = test_df.copy()
+
   test['Prediction'] = None
+  test['l'] = None
+  test['m'] = None
+  test['u'] = None
+  train = train.drop(columns=['Strata'])
+
+  test = get_test_mlu(train, test, 'Mouza')
+  test = get_test_mlu(train, test, 'Union')
+  test = get_test_mlu(train, test, 'Upazila')
+  test = get_test_mlu(train, test, 'District')
+  test = get_test_mlu(train, test, 'Division')
 
   for div in train_df['Division'].unique():
-    print(div)
-    print('_______________________')
-
     tr_div = train[train['Division'] == div]
     te_div = test[test['Division'] == div]
-
-    # TODO get mlu from train dataset
-    # test = get_test_mlu(train, test, 'Mouza')
-    # test = get_test_mlu(train, test, 'Union')
-    # test = get_test_mlu(train, test, 'Upazila')
-    # test = get_test_mlu(train, test, 'District')
-    # test = get_test_mlu(train, test, 'Division')
 
     tt_df = append_test_train(
       te_div,
       tr_div,
     )
-
-    impute_lower_and_median(tt_df)
-
-    enumerate_stratas(tt_df)
 
     conv_cat_num(tt_df, 'Label')
     tt_df = ohe_col(tt_df, ['Mouza'])
@@ -79,14 +76,11 @@ def gen_predictions(train_df, test_df):
     test.loc[test['Division'] == div, ['Prediction']] = clf.predict(test_X)
 
   conv_cat_str(test, 'Prediction')
-  test.info()
   return test['Prediction']
 
 if __name__ == '__main__':
   train_src = './models/model8/train.csv'
-  test_src ='./models/model8/test.csv'
-  # TODO get mlu from train dataset
-  # test_src ='./well_data/test.csv'
+  test_src ='./well_data/test.csv'
   test_out = f'./prediction_data/model8-{time.time() / 1000}.csv';
 
   train_df = pd.read_csv(train_src)

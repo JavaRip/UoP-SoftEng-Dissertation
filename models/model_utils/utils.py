@@ -94,7 +94,7 @@ def get_test_mlu(train, test, level):
   testna = testna.merge(
     mlu_df,
     on=[level],
-    how='left',
+    how='left'
   )
 
   # join test rows that contained na and test

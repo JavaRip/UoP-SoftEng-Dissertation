@@ -20,12 +20,7 @@ def gen_predictions(train_df, test_df):
   test = test_df.copy()
   test['Prediction'] = None
 
-  print('__________________________')
-
   for div in train_df['Division'].unique():
-    print(div)
-    print('##############')
-
     tr_div = train[train['Division'] == div]
     te_div = test[test['Division'] == div]
 
@@ -65,20 +60,15 @@ def gen_predictions(train_df, test_df):
       learning_rate='adaptive',
       random_state=99,
       verbose=True,
-      max_iter=5
+      max_iter=20
     )
 
     clf.fit(train_X, train_y)
 
-    test_X.info()
-    
     test.loc[test['Division'] == div, ['Prediction']] = clf.predict(test_X)
     test.info()
-    print(test_df.head())
 
-  print('###########################')
   conv_cat_str(test, 'Prediction')
-  test.info()
   return test['Prediction']
 
 if __name__ == '__main__':
@@ -93,9 +83,6 @@ if __name__ == '__main__':
   test_df['Label'] = gen_labels(test_df)
 
   test_df['Prediction'] = gen_predictions(train_df, test_df)
-  print('-----------------------------')
-  print('-----------------------------')
-  print('-----------------------------')
   evaluate(test_df)
 
   test_df.to_csv(test_out, index=False)

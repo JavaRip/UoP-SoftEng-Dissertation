@@ -27,8 +27,12 @@ def gen_centroids(df, gdf):
   return dfm['lon'], dfm['lat']
 
 def append_test_train(test, train):
-  test['tid'] = 1
-  train['tid'] = 0
+  test = test.assign(New_Column='tid')
+  train = train.assign(New_Column='tid')
+
+  test.loc[:, 'tid'] = 1
+  train.loc[:, 'tid'] = 0
+
   return pd.concat([test, train])
 
 def split_test_train(df):
@@ -81,7 +85,7 @@ def get_test_mlu(train, test, level):
 
   drop_cols.remove(level)
 
-  # get df containing just mlu & region name
+  # get df containing just mlu, strata & region name
   mlu_df = train.dropna().drop(columns=drop_cols).drop_duplicates(subset=level)
 
   # create df of rows containing null in test
@@ -93,9 +97,25 @@ def get_test_mlu(train, test, level):
   # get mlu values into na rows in testna
   testna = testna.merge(
     mlu_df,
-    on=[level],
-    how='left'
+    #on=[level],
+    on=['Strata', level],
+    how='left',
+  )
+
+  test = pd.concat([testna, test], ignore_index=True)
+
+  testna = test[test.isna().any(axis=1)].drop(columns=['m','l','u'])
+
+  test = test.dropna()
+
+  # get level average mlu by strata in this region LevelStrata_DataFrame
+  mlu_df = mlu_df.groupby([level, 'Strata']).mean()
+
+  testna = testna.merge(
+    mlu_df,
+    on=['Strata', level],
+    how='left',
   )
 
   # join test rows that contained na and test
-  return pd.concat([testna, test])
+  return pd.concat([testna, test], ignore_index=True)

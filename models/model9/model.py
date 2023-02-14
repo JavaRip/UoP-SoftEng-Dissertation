@@ -43,6 +43,7 @@ def gen_predictions(train_df, test_df, gdf):
     learning_rate='adaptive',
     random_state=99,
     verbose=1,
+    max_iter=1
   )
 
   clf.fit(train_X, train_y)
@@ -52,7 +53,7 @@ def gen_predictions(train_df, test_df, gdf):
 
   return test_X['Prediction']
 
-if __name__ == '__main__':
+def main():
   train_src = './well_data/train.csv'
   test_src ='./well_data/test.csv'
   test_out = f'./prediction_data/model9-{time.time() / 1000}.csv';
@@ -71,3 +72,6 @@ if __name__ == '__main__':
 
   test_df.to_csv(test_out, index=False)
   print(f'predictions written to {test_out}')
+
+if __name__ == '__main__':
+  main()

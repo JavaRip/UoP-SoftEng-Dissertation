@@ -9,7 +9,7 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str, stratify, enumerate_stratas, get_test_mlu
+from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str, stratify, enumerate_stratas, get_test_mlu, impute_lower_and_median
 from model_utils.evaluator import evaluate
 
 def gen_predictions(train_df, test_df):
@@ -19,13 +19,14 @@ def gen_predictions(train_df, test_df):
   test['l'] = None
   test['m'] = None
   test['u'] = None
-  train = train.drop(columns=['Strata'])
+  stratify(test)
 
   test = get_test_mlu(train, test, 'Mouza')
   test = get_test_mlu(train, test, 'Union')
   test = get_test_mlu(train, test, 'Upazila')
   test = get_test_mlu(train, test, 'District')
   test = get_test_mlu(train, test, 'Division')
+  impute_lower_and_median(test)
 
   conv_cat_num(train, 'Label')
   conv_cat_num(test, 'Label')
@@ -54,7 +55,7 @@ def gen_predictions(train_df, test_df):
 
   return test_X['Prediction']
 
-if __name__ == '__main__':
+def main():
   train_src = './models/model7/train.csv'
   test_src ='./well_data/test.csv'
   test_out = f'./prediction_data/model7-{time.time() / 1000}.csv';
@@ -71,3 +72,6 @@ if __name__ == '__main__':
 
   test_df.to_csv(test_out, index=False)
   print(f'predictions written to {test_out}')
+
+if __name__ == '__main__':
+  main()

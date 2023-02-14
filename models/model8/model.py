@@ -31,14 +31,11 @@ def gen_predictions(train_df, test_df):
   test = get_test_mlu(train, test, 'Upazila')
   test = get_test_mlu(train, test, 'District')
   test = get_test_mlu(train, test, 'Division')
+  impute_lower_and_median(test)
 
   test['Prediction'] = None
 
   for div in train_df['Division'].unique():
-    print(div)
-    print(train_df['Division'].unique())
-    print('############')
-
     tr_div = train[train['Division'] == div]
     te_div = test[test['Division'] == div]
 
@@ -65,36 +62,25 @@ def gen_predictions(train_df, test_df):
     train_y = tr_div['Label']
     test_X = te_div.drop(['Arsenic', 'Label'], axis='columns')
 
-    train_X.info()
-    print('AHHHHHHHHHHHHHHHHHHHHH')
-
     num_feat = len(test_X.columns)
 
     clf = MLPClassifier(
       solver='adam',
       alpha=0.0001,
-      # hidden_layer_sizes=(math.trunc(num_feat / 2), math.trunc(num_feat / 4), math.trunc(num_feat / 8)),
-      hidden_layer_sizes=(200, 5),
+      hidden_layer_sizes=(math.trunc(num_feat / 2), math.trunc(num_feat / 4), math.trunc(num_feat / 8)),
       learning_rate='adaptive',
       random_state=99,
-      verbose=True,
-      max_iter=20
+      max_iter=1
     )
 
-    print(test.info())
-    print('________________________________')
-    #print(test[test.index.duplicated()])
-    print(test.head(10))
-    print('||||||||||||||||||||||||||||||||')
     clf.fit(train_X, train_y)
 
     test.loc[test['Division'] == div, ['Prediction']] = clf.predict(test_X)
 
   conv_cat_str(test, 'Prediction')
-  print(test['Prediction'])
-  return test['Prediction']
+  return test['Prediction'].values
 
-if __name__ == '__main__':
+def main():
   train_src = './models/model8/train.csv'
   test_src ='./well_data/test.csv'
   test_out = f'./prediction_data/model8-{time.time() / 1000}.csv';
@@ -110,3 +96,6 @@ if __name__ == '__main__':
 
   test_df.to_csv(test_out, index=False)
   print(f'predictions written to {test_out}')
+
+if __name__ == '__main__':
+  main()

@@ -1,5 +1,22 @@
 import pandas as pd
 import numpy as np
+from subprocess import check_output
+import sys
+
+def gen_ia_predictions(filepath, stain_color, model):
+  cmd_arr = [
+    'node',
+    './models/model_utils/iarsenic-wrapper.js',
+    filepath,
+    stain_color,
+    model,
+  ]
+
+  stdout = check_output(cmd_arr).decode(sys.stdout.encoding).replace('\n', '')
+  df = pd.read_csv(stdout)
+  df['Prediction'].replace('highlyPolluted', 'polluted', inplace=True)
+  df['Prediction'].replace('We do not have enough data to make an estimate for your well', 'polluted', inplace=True)
+  return df['Prediction'], stdout
 
 def cat_int_enc(df):
   for header in list(df.columns.values):
@@ -10,8 +27,9 @@ def gen_labels(df):
   return np.where(df['Arsenic'] > 10, 'polluted', 'safe')
 
 def impute_lower_and_median(df):
-  df['l'].fillna((df['l'].mode()), inplace=True)
-  df['u'].fillna((df['u'].mode()), inplace=True)
+  df['m'].fillna(df['m'].median(), inplace=True)
+  df['l'].fillna(df['l'].median(), inplace=True)
+  df['u'].fillna(df['u'].median(), inplace=True)
 
 def gen_centroids(df, gdf):
   gdf['lon'] = gdf.centroid.x
@@ -27,9 +45,6 @@ def gen_centroids(df, gdf):
   return dfm['lon'], dfm['lat']
 
 def append_test_train(test, train):
-  test = test.assign(New_Column='tid')
-  train = train.assign(New_Column='tid')
-
   test.loc[:, 'tid'] = 1
   train.loc[:, 'tid'] = 0
 

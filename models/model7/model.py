@@ -11,15 +11,23 @@ sys.path.append(
 )
 from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str, stratify, enumerate_stratas, get_test_mlu, impute_lower_and_median
 from model_utils.evaluator import evaluate
+from model_utils.model5_agg_to_csv import label_agg_data, agg_data_to_df
 
 def gen_predictions(train_df, test_df):
   train = train_df.copy()
   test = test_df.copy()
 
+  m5_df = agg_data_to_df('./models/model5/model/aggregate-data/')
+  train = label_agg_data(m5_df, train)
+
+  impute_lower_and_median(train)
+
   test['l'] = None
   test['m'] = None
   test['u'] = None
+
   stratify(test)
+  test.info()
 
   test = get_test_mlu(train, test, 'Mouza')
   test = get_test_mlu(train, test, 'Union')
@@ -27,6 +35,9 @@ def gen_predictions(train_df, test_df):
   test = get_test_mlu(train, test, 'District')
   test = get_test_mlu(train, test, 'Division')
   impute_lower_and_median(test)
+
+  enumerate_stratas(test)
+  enumerate_stratas(train)
 
   conv_cat_num(train, 'Label')
   conv_cat_num(test, 'Label')
@@ -56,7 +67,7 @@ def gen_predictions(train_df, test_df):
   return test_X['Prediction']
 
 def main():
-  train_src = './models/model7/train.csv'
+  train_src = './well_data/train.csv'
   test_src ='./well_data/test.csv'
   test_out = f'./prediction_data/model7-{time.time() / 1000}.csv';
 

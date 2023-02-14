@@ -10,26 +10,19 @@ sys.path.append(
 )
 from model_utils.utils import stratify
 
-# TODO update src_out
 def main(
-  train_src='./models/model5/aggregate-data/',
-  test_src='./models/model5-trained-on-test-data/aggregate-data/',
-  train_out='./models/model7/train.csv',
-  test_out='./models/model7/test.csv',
+  train_src='./models/model5/model/aggregate-data/',
+  train_out='./well_data/model5-train.csv',
   train_label_src='./well_data/train.csv',
-  test_label_src='./well_data/test.csv'
 ):
-  train_df = agg_data_to_df(train_src)
-  label_train_df = label_agg_data(train_df, train_label_src)
+  label_df = pd.read_csv(train_label_src)
 
-  test_df = agg_data_to_df(test_src)
-  label_test_df = label_agg_data(test_df, test_label_src)
+  train_df = agg_data_to_df(train_src)
+  label_train_df = label_agg_data(train_df, label_df)
 
   label_train_df.to_csv(train_out, index=False)
-  label_test_df.to_csv(test_out, index=False)
 
-def label_agg_data(agg_df, label_src):
-  label_df = pd.read_csv(label_src)
+def label_agg_data(agg_df, label_df):
   stratify(label_df)
 
   return pd.merge(
@@ -66,11 +59,11 @@ def agg_data_to_df(agg_src):
                mou_dict = uni_dict['mouzas'][mou]
                for strata in mou_dict.keys():
                  if not 'm' in mou_dict[strata]:
-                   mou_dict[strata]['m'] = ''
+                   mou_dict[strata]['m'] = None
                  if not 'l' in mou_dict[strata]:
-                   mou_dict[strata]['l'] = ''
+                   mou_dict[strata]['l'] = None
                  if not 'u' in mou_dict[strata]:
-                   mou_dict[strata]['u'] = ''
+                   mou_dict[strata]['u'] = None
 
                  csv_arr.append([
                     div,

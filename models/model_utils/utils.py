@@ -112,7 +112,6 @@ def get_test_mlu(train, test, level):
   # get mlu values into na rows in testna
   testna = testna.merge(
     mlu_df,
-    #on=[level],
     on=['Strata', level],
     how='left',
   )

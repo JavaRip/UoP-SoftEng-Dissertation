@@ -12,6 +12,7 @@ sys.path.append(
 )
 from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, enumerate_stratas, get_test_mlu, stratify
 from model_utils.evaluator import evaluate
+from model_utils.model5_agg_to_csv import label_agg_data, agg_data_to_df
 
 def ohe_col(df, cols):
     return pd.get_dummies(data=df, columns=cols)
@@ -19,6 +20,11 @@ def ohe_col(df, cols):
 def gen_predictions(train_df, test_df):
   train = train_df.copy()
   test = test_df.copy()
+
+  m5_df = agg_data_to_df('./models/model5/model/aggregate-data/')
+  train = label_agg_data(m5_df, train)
+
+  impute_lower_and_median(train)
 
   stratify(test)
 
@@ -81,7 +87,7 @@ def gen_predictions(train_df, test_df):
   return test['Prediction'].values
 
 def main():
-  train_src = './models/model8/train.csv'
+  train_src = './well_data/train.csv'
   test_src ='./well_data/test.csv'
   test_out = f'./prediction_data/model8-{time.time() / 1000}.csv';
 

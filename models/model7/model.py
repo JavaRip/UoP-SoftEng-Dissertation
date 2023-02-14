@@ -27,7 +27,6 @@ def gen_predictions(train_df, test_df):
   test['u'] = None
 
   stratify(test)
-  test.info()
 
   test = get_test_mlu(train, test, 'Mouza')
   test = get_test_mlu(train, test, 'Union')

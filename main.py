@@ -27,24 +27,41 @@ def get_predictions(model):
 def build_ia_model(m):
   cmd_arr = [
     'mkdir',
-    f'./models/{m}/model',
+    f'./models/{m}/model/',
   ]
 
   check_output(cmd_arr)
 
-  cmd_arr = [
-    'node',
-    'node_modules/preprocessing/preprocessing/cli/produce-aggregate-data-files.js',
-    '-m',
-    f'{m}',
-    '-o',
-    f'./models/{m}/model',
-    '-p',
-    'well_data/train.csv',
-    'node_modules/preprocessing/data/mouza-names.csv',
-  ]
+  for x in [1, 2, 3, 4, 5]:
+    print(f'building {m} k{x}')
+    folds = [1, 2, 3, 4, 5]
+    folds.remove(x)
 
-  return check_output(cmd_arr).decode(sys.stdout.encoding)
+    cmd_arr = [
+      'mkdir',
+      f'./models/{m}/model/k{x}/',
+    ]
+
+    check_output(cmd_arr)
+
+    cmd_arr = [
+      'node',
+      'node_modules/preprocessing/preprocessing/cli/produce-aggregate-data-files.js',
+      '-m',
+      f'{m}',
+      '-o',
+      f'./models/{m}/model/k{x}/',
+      '-p',
+      f'./well_data/k{folds[0]}.csv',
+      f'./well_data/k{folds[1]}.csv',
+      f'./well_data/k{folds[2]}.csv',
+      f'./well_data/k{folds[3]}.csv',
+      './node_modules/preprocessing/data/mouza-names.csv',
+    ]
+
+    check_output(cmd_arr)
+
+  return
 
 def run_model(model):
   m_name = model.get_name()
@@ -81,13 +98,13 @@ def extract_ia_data():
     return check_output(cmd_arr).decode()
 
 def gen_test_train():
-  src_in = './well_data/src_data.json'
-  src_out = './well_data/src_data.csv'
-  train_out = './well_data/train.csv'
-  test_out = './well_data/test.csv'
+  if os.path.exists('./well_data/k1.csv'):
+    print('test train k split already exists')
+  else:
+    print('generating test train split…')
+    src_tt()
 
-  src_tt(src_in, src_out, train_out, test_out)
-  return 'test train split generated'
+  return
 
 def unzip_geodata():
   if os.path.exists('./geodata/'):

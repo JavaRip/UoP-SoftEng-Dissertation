@@ -29,18 +29,22 @@ def build_ia_model(m):
   cmd_arr = [
     'mkdir',
     f'./models/{m}/model',
-    ';',
+  ]
+
+  check_output(cmd_arr)
+
+  cmd_arr = [
     'node',
     'node_modules/preprocessing/preprocessing/cli/produce-aggregate-data-files.js',
     '-m',
     f'{m}',
     '-o',
-    f'./models/{m}/',
+    f'./models/{m}/model',
     '-p',
     'well_data/train.csv',
     'node_modules/preprocessing/data/mouza-names.csv',
   ]
-  
+
   return check_output(cmd_arr).decode(sys.stdout.encoding)
 
 def run_model(model):

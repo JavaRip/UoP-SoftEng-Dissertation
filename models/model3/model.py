@@ -11,7 +11,6 @@ def get_name():
   return 'm3'
 
 def main(model='model3', stain='Red', test_src='./well_data/test.csv'):
-  print('!!!!!!!!!!!!!!')
   return run_ia_model(model, stain, test_src)
   
 if __name__ == '__main__':

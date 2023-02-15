@@ -4,7 +4,6 @@ from subprocess import check_output
 import sys
 
 def run_ia_model(model, stain_color, test_src):
-  print(f'\n\n\n~~~~~~~~ MODEL {model} ~~~~~~~~\n\n\n')
   df = pd.read_csv(test_src)
 
   df['Prediction'] = gen_ia_predictions(test_src, stain_color, model)

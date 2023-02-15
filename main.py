@@ -4,6 +4,7 @@ import pandas as pd
 from subprocess import check_output
 
 from models.model_utils.evaluator import gen_eval, print_eval
+from utils.src_to_test_train import main as src_tt
 from models.model3 import model as model3
 from models.model4 import model as model4
 from models.model5 import model as model5
@@ -21,9 +22,7 @@ def get_predictions(model):
     print('prediction file found')
     return pd.read_csv(pred_path)
   else:
-    print('oh no')
-
-  return model.main()
+    return model.main()
 
 def build_ia_model(m):
   cmd_arr = [
@@ -67,13 +66,62 @@ def build_model(m):
       print(f'{m} not built, building…')
       print(build_ia_model(m))
 
+def extract_ia_data():
+  if os.path.exists('./well_data/src_data.json'):
+    return 'src data ready'
+  else:
+    print('preparing src data…')
+
+    cmd_arr = [
+      'npm',
+      'run',
+      'load-src-data',
+    ]
+
+    return check_output(cmd_arr).decode()
+
+def gen_test_train():
+  src_in = './well_data/src_data.json'
+  src_out = './well_data/src_data.csv'
+  train_out = './well_data/train.csv'
+  test_out = './well_data/test.csv'
+
+  src_tt(src_in, src_out, train_out, test_out)
+  return 'test train split generated'
+
+def unzip_geodata():
+  if os.path.exists('./geodata/'):
+    return 'geodata ready'
+  else:
+    print('unzipping geodata…')
+
+    cmd_arr = [
+      'npm',
+      'run',
+      'unzip-geodata',
+    ]
+
+    return check_output(cmd_arr).decode()
+
 if __name__ == '__main__':
-  print('______building ia models______\n')
+  print('\n______unzipping geodata______\n')
+  print(unzip_geodata())
+
+  print('\n______extracting data from iarsenic______\n')
+  print(extract_ia_data())
+
+  print('\n______extracting data from iarsenic______\n')
+  print(extract_ia_data())
+
+  print('\n______create test train split______\n')
+  print(gen_test_train())
+
+  print('\n______building ia models______\n')
   ia_models = ['model3', 'model4', 'model5']
   for m in ia_models:
     build_model(m)
 
-  print('______running models______\n')
+  print('\n______running models______\n')
   models = [model3, model4, model5, model6, model7, model8, model9]
   for m in models:
     run_model(m)

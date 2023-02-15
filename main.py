@@ -13,16 +13,15 @@ from models.model7 import model as model7
 from models.model8 import model as model8
 from models.model9 import model as model9
 
-def get_predictions(model):
+def get_predictions(model, k_fold):
   m_name = model.get_name()
-  print(m_name)
-  pred_path = f'./prediction_data/{m_name}.csv'
+  pred_path = f'./prediction_data/{m_name}-${k_fold}.csv'
 
   if os.path.exists(pred_path):
     print('prediction file found')
     return pd.read_csv(pred_path)
   else:
-    return model.main()
+    return model.main(f'./well_data/k{k_fold}.csv', k_fold)
 
 def build_ia_model(m):
   cmd_arr = [
@@ -63,13 +62,13 @@ def build_ia_model(m):
 
   return
 
-def run_model(model):
+def run_model(model, k_fold):
   m_name = model.get_name()
-  print(f'running {m_name}')
+  print(f'running {m_name} k{k_fold}')
 
-  test_out=f'./prediction_data/{m_name}.csv'
+  test_out=f'./prediction_data/{m_name}-{k_fold}.csv'
 
-  pred_df = get_predictions(model)
+  pred_df = get_predictions(model, k_fold)
   eval = gen_eval(pred_df)
   print_eval(eval)
 
@@ -127,9 +126,6 @@ if __name__ == '__main__':
   print('\n______extracting data from iarsenic______\n')
   print(extract_ia_data())
 
-  print('\n______extracting data from iarsenic______\n')
-  print(extract_ia_data())
-
   print('\n______create test train split______\n')
   print(gen_test_train())
 
@@ -141,4 +137,5 @@ if __name__ == '__main__':
   print('\n______running models______\n')
   models = [model3, model4, model5, model6, model7, model8, model9]
   for m in models:
-    run_model(m)
+    for x in [1, 2, 3, 4, 5]:
+      run_model(m, x)

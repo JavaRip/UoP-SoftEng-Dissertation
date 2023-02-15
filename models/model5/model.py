@@ -10,16 +10,14 @@ from model_utils.evaluator import gen_eval, print_eval
 def get_name():
   return 'm5'
 
-def main(model='model5', stain='Red', test_src='./well_data/test.csv'):
-  return run_ia_model(model, stain, test_src)
+def main(test_src='./well_data/test.csv', k_fold=1, stain='Red'):
+  return run_ia_model(test_src, stain, 'model5', k_fold)
   
 if __name__ == '__main__':
-  model = 'model5'
-  stain = 'Red'
-  test_src ='./well_data/test.csv'
-  outfile = f'./prediction_data/{model}-{stain}.csv'
+  test_src ='./well_data/k1.csv'
+  outfile = f'./prediction_data/model5-Red.csv'
 
-  df = main(model, stain, test_src)
+  df = main(test_src, 1, 'Red')
 
   df.to_csv(outfile, index=False)
 

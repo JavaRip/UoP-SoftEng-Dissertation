@@ -3,21 +3,22 @@ import numpy as np
 from subprocess import check_output
 import sys
 
-def run_ia_model(model, stain_color, test_src):
+def run_ia_model(test_src, stain_color, model, k_fold):
   df = pd.read_csv(test_src)
 
-  df['Prediction'] = gen_ia_predictions(test_src, stain_color, model)
+  df['Prediction'] = gen_ia_predictions(test_src, stain_color, model, k_fold)
   df['Label'] = gen_labels(df)
 
   return df
 
-def gen_ia_predictions(test_src, stain_color, model):
+def gen_ia_predictions(test_src, stain_color, model, k_fold):
   cmd_arr = [
     'node',
     './models/model_utils/iarsenic-wrapper.js',
     test_src,
     stain_color,
     model,
+    str(k_fold),
   ]
 
   stdout = check_output(cmd_arr).decode(sys.stdout.encoding).replace('\n', '')

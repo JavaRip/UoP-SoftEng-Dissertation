@@ -102,10 +102,13 @@ def main(
 
   test_df['Prediction'] = gen_predictions(train_df, test_df)
 
+  return test_df
+
+if __name__ == '__main__':
+  test_out=f'./prediction_data/model8-{time.time() / 1000}.csv',
+  test_df = main()
+
   eval = gen_eval(test_df)
   print_eval(eval)
 
   print(f'written to {test_out}')
-
-if __name__ == '__main__':
-  main()

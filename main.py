@@ -61,10 +61,10 @@ def run_model(model):
 
 def build_model(m):
   if os.path.exists(f'./models/{m}/model/'):
-      print(f'{m} model built')
+    print(f'{m} model built')
   else:
-      print(f'{m} not built, building…')
-      print(build_ia_model(m))
+    print(f'{m} not built, building…')
+    print(build_ia_model(m))
 
 def extract_ia_data():
   if os.path.exists('./well_data/src_data.json'):

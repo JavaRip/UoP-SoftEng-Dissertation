@@ -6,7 +6,7 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.evaluator import evaluate
+from model_utils.evaluator import gen_eval, print_eval 
 from model_utils.utils import gen_labels
 
 def gen_predictions(filepath, stain_color, model):
@@ -20,10 +20,11 @@ def gen_predictions(filepath, stain_color, model):
 
   stdout = check_output(cmd_arr).decode(sys.stdout.encoding).replace('\n', '')
   df = pd.read_csv(stdout)
+
   df['Prediction'].replace('highlyPolluted', 'polluted', inplace=True)
   df['Prediction'].replace('We do not have enough data to make an estimate for your well', 'polluted', inplace=True)
-  print(stdout)
-  return df['Prediction'], stdout
+
+  return df['Prediction']
 
 if __name__ == '__main__':
   stain_color = 'Red'
@@ -33,12 +34,8 @@ if __name__ == '__main__':
   df = pd.read_csv(filepath)
   df['Prediction'], outfile = gen_predictions(filepath, stain_color, model)
   df['Label'] = gen_labels(df)
-  df.info()
-  print(df.head())
-  print(df['Prediction'].unique())
-  print('--------------------------------')
-  
 
-  # df.to_csv(outfile, index=False)
-  evaluate(df)
+  eval = gen_eval(df)
+  print_eval(eval)
+
   print(f'written to {outfile}')

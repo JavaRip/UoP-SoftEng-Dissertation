@@ -1,7 +1,6 @@
 import math
 import pandas as pd
-import numpy as np
-from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.neural_network import MLPClassifier
 import time
 import sys
@@ -10,9 +9,12 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, enumerate_stratas, get_test_mlu, stratify
-from model_utils.evaluator import evaluate
+from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, get_test_mlu, stratify
+from model_utils.evaluator import gen_eval, print_eval 
 from model_utils.model5_agg_to_csv import label_agg_data, agg_data_to_df
+
+def get_name():
+  return 'm8'
 
 def ohe_col(df, cols):
     return pd.get_dummies(data=df, columns=cols)
@@ -86,10 +88,11 @@ def gen_predictions(train_df, test_df):
   conv_cat_str(test, 'Prediction')
   return test['Prediction'].values
 
-def main():
-  train_src = './well_data/train.csv'
-  test_src ='./well_data/test.csv'
-  test_out = f'./prediction_data/model8-{time.time() / 1000}.csv';
+def main(
+  train_src='./well_data/train.csv',
+  test_src='./well_data/test.csv',
+  test_out=f'./prediction_data/model8-{time.time() / 1000}.csv',
+):
 
   train_df = pd.read_csv(train_src)
   test_df = pd.read_csv(test_src)
@@ -98,10 +101,11 @@ def main():
   test_df['Label'] = gen_labels(test_df)
 
   test_df['Prediction'] = gen_predictions(train_df, test_df)
-  evaluate(test_df)
 
-  test_df.to_csv(test_out, index=False)
-  print(f'predictions written to {test_out}')
+  eval = gen_eval(test_df)
+  print_eval(eval)
+
+  print(f'written to {test_out}')
 
 if __name__ == '__main__':
   main()

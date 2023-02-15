@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import geopandas as gpd
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.neural_network import MLPClassifier
@@ -11,7 +10,10 @@ sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
 from model_utils.utils import gen_labels, gen_centroids, split_test_train, append_test_train, conv_cat_num, conv_cat_str
-from model_utils.evaluator import evaluate
+from model_utils.evaluator import gen_eval, print_eval 
+
+def get_name():
+  return 'm9'
 
 def gen_predictions(train_df, test_df, gdf):
   train = train_df.copy()
@@ -53,11 +55,11 @@ def gen_predictions(train_df, test_df, gdf):
 
   return test_X['Prediction']
 
-def main():
-  train_src = './well_data/train.csv'
-  test_src ='./well_data/test.csv'
-  test_out = f'./prediction_data/model9-{time.time() / 1000}.csv';
-  geo_src = './geodata/mou/mou-c005-s010-vw-pr.geojson'
+def main(
+  train_src='./well_data/train.csv',
+  test_src='./well_data/test.csv',
+  geo_src='./geodata/mou/mou-c005-s010-vw-pr.geojson',
+):
 
   gdf = gpd.read_file(geo_src)
   train_df = pd.read_csv(train_src)
@@ -67,11 +69,13 @@ def main():
   test_df['Label'] = gen_labels(test_df)
 
   test_df['Prediction'] = gen_predictions(train_df, test_df, gdf)
-
-  evaluate(test_df)
-
-  test_df.to_csv(test_out, index=False)
-  print(f'predictions written to {test_out}')
+  return test_df
 
 if __name__ == '__main__':
-  main()
+  test_out=f'./prediction_data/model9-{time.time() / 1000}.csv',
+  test_df = main()
+
+  eval = gen_eval(test_df)
+  print_eval(eval)
+
+  print(f'written to {test_out}')

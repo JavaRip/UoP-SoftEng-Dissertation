@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 import time
 import sys
@@ -9,7 +8,10 @@ sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
 from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str
-from model_utils.evaluator import evaluate
+from model_utils.evaluator import gen_eval, print_eval 
+
+def get_name():
+  return 'm6'
 
 def gen_predictions(train_df, test_df):
   train = train_df.copy()
@@ -25,7 +27,6 @@ def gen_predictions(train_df, test_df):
   train_y = train['Label']
 
   test_X = test.drop(['Arsenic', 'Label'], axis='columns')
-  test_y = test['Label']
 
   rf_model = RandomForestClassifier(random_state=99)
   rf_model.fit(train_X, train_y)
@@ -35,10 +36,11 @@ def gen_predictions(train_df, test_df):
 
   return test_X['Prediction']
 
-if __name__ == '__main__':
-  train_src = './well_data/train.csv'
-  test_src ='./well_data/test.csv'
-  test_out = f'./prediction_data/model6-{time.time() / 1000}.csv';
+def main(
+  train_src='./well_data/train.csv',
+  test_src='./well_data/test.csv',
+  test_out=f'./prediction_data/model6-{time.time() / 1000}.csv',
+):
 
   train_df = pd.read_csv(train_src)
   test_df = pd.read_csv(test_src) 
@@ -48,7 +50,10 @@ if __name__ == '__main__':
 
   test_df['Prediction'] = gen_predictions(train_df, test_df)
 
-  evaluate(test_df)
+  eval = gen_eval(test_df)
+  print_eval(eval)
 
-  test_df.to_csv(test_out, index=False)
-  print(f'predictions written to {test_out}')
+  print(f'written to {test_out}')
+
+if __name__ == '__main__':
+  main()

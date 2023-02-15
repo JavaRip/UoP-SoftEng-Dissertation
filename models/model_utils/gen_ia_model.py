@@ -1,18 +1,12 @@
 from subprocess import check_output
-import pandas as pd
-import numpy as np
-from sklearn.ensemble import RandomForestClassifier
-import time
 import sys
 import os
 
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, impute_lu, conv_cat_num, conv_cat_str
-from model_utils.evaluator import evaluate
 
-def gen_model(df, out_dir, model):
+def gen_model(train_src, out_dir, model):
   if not os.path.exists(out_dir):
     os.mkdir(os.path.join(out_dir))
 

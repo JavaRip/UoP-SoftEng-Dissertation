@@ -1,25 +1,29 @@
-import pandas as pd
 import sys
 import os
 
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.evaluator import evaluate
-from model_utils.utils import gen_labels, gen_ia_predictions
+from model_utils.utils import run_ia_model
+from model_utils.evaluator import gen_eval, print_eval 
 
-def main():
-  stain_color = 'Red'
-  filepath = './well_data/test.csv'
+def get_name():
+  return 'm4'
+
+def main(model='model4', stain='Red', test_src='./well_data/test.csv'):
+  return run_ia_model(model, stain, test_src)
+  
+if __name__ == '__main__':
   model = 'model4'
+  stain = 'Red'
+  test_src ='./well_data/test.csv'
+  outfile = f'./prediction_data/{model}-{stain}.csv'
 
-  df = pd.read_csv(filepath)
-  df['Prediction'], outfile = gen_ia_predictions(filepath, stain_color, model)
-  df['Label'] = gen_labels(df)
+  df = main(model, stain, test_src)
 
   df.to_csv(outfile, index=False)
-  evaluate(df)
-  print(f'written to {outfile}')
 
-if __name__ == '__main__':
-  main()
+  eval = gen_eval(df)
+  print_eval(eval)
+
+  print(f'written to {outfile}')

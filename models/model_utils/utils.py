@@ -3,20 +3,31 @@ import numpy as np
 from subprocess import check_output
 import sys
 
-def gen_ia_predictions(filepath, stain_color, model):
+def run_ia_model(model, stain_color, test_src):
+  print(f'\n\n\n~~~~~~~~ MODEL {model} ~~~~~~~~\n\n\n')
+  df = pd.read_csv(test_src)
+
+  df['Prediction'] = gen_ia_predictions(test_src, stain_color, model)
+  df['Label'] = gen_labels(df)
+
+  return df
+
+def gen_ia_predictions(test_src, stain_color, model):
   cmd_arr = [
     'node',
     './models/model_utils/iarsenic-wrapper.js',
-    filepath,
+    test_src,
     stain_color,
     model,
   ]
 
   stdout = check_output(cmd_arr).decode(sys.stdout.encoding).replace('\n', '')
   df = pd.read_csv(stdout)
+  
   df['Prediction'].replace('highlyPolluted', 'polluted', inplace=True)
   df['Prediction'].replace('We do not have enough data to make an estimate for your well', 'polluted', inplace=True)
-  return df['Prediction'], stdout
+
+  return df['Prediction']
 
 def cat_int_enc(df):
   for header in list(df.columns.values):

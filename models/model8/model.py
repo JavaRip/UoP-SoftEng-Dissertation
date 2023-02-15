@@ -1,150 +1,114 @@
+import math
 import pandas as pd
-import numpy as np
+from sklearn.preprocessing import MinMaxScaler
 from sklearn.neural_network import MLPClassifier
 import time
-from sklearn.preprocessing import OneHotEncoder
+import sys
+import os
 
+sys.path.append(
+  os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+)
+from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, get_test_mlu, stratify
+from model_utils.evaluator import gen_eval, print_eval 
+from model_utils.model5_agg_to_csv import label_agg_data, agg_data_to_df
 
-def cat_int_enc(df):
-  dfc = df.copy()
+def get_name():
+  return 'm8'
 
-  for header in list(dfc.columns.values):
-    if dfc[header].dtype == 'object':
-      dfc[header] = pd.Categorical(dfc[header]).codes
-
-  return dfc
+def ohe_col(df, cols):
+    return pd.get_dummies(data=df, columns=cols)
 
 def gen_predictions(train_df, test_df):
-  train = train_df
-  test = test_df
+  train = train_df.copy()
+  test = test_df.copy()
 
-  train['l'].fillna((train['l'].mode()), inplace=True)
-  train['u'].fillna((train['u'].mode()), inplace=True)
-  test['l'].fillna((test['l'].mode()), inplace=True)
-  test['u'].fillna((test['u'].mode()), inplace=True)
-  # TODO, make a project proposal to see if this code could literally be less dry
+  m5_df = agg_data_to_df('./models/model5/model/aggregate-data/')
+  train = label_agg_data(m5_df, train)
 
-  train['Strata'] = np.where(train['Strata'] == 's15', 1, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 's45', 2, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 's65', 3, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 's90', 4, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 's150', 5, train['Strata'])
-  train['Strata'] = np.where(train['Strata'] == 'sD', 6, train['Strata'])
-  train['Strata'] = pd.to_numeric(train['Strata'])
+  impute_lower_and_median(train)
 
-  test['Strata'] = np.where(test['Strata'] == 's15', 1, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 's45', 2, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 's65', 3, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 's90', 4, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 's150', 5, test['Strata'])
-  test['Strata'] = np.where(test['Strata'] == 'sD', 6, test['Strata'])
-  test['Strata'] = pd.to_numeric(test['Strata'])
+  stratify(test)
 
-  train['Label'] = np.where(train['Arsenic'] > 10, 'polluted', 'safe')
-  test['Label'] = np.where(test['Arsenic'] > 10, 'polluted', 'safe')
+  test['l'] = None
+  test['m'] = None
+  test['u'] = None
 
-  train_X = train.drop(['Arsenic', 'Label'], axis='columns')
-  train_y = train['Label']
+  test = get_test_mlu(train, test, 'Mouza')
+  test = get_test_mlu(train, test, 'Union')
+  test = get_test_mlu(train, test, 'Upazila')
+  test = get_test_mlu(train, test, 'District')
+  test = get_test_mlu(train, test, 'Division')
+  impute_lower_and_median(test)
 
-  test_X = test.drop(['Arsenic', 'Label'], axis='columns')
-  test_y = test['Label']
+  test['Prediction'] = None
 
-  enc = OneHotEncoder(handle_unknown='ignore')
-  test_div_enc = pd.DataFrame(enc.fit_transform(test_X[['Division']]).toarray())
-  test_div_enc.columns = enc.get_feature_names_out(['Division'])
-  test_dis_enc = pd.DataFrame(enc.fit_transform(test_X[['District']]).toarray())
-  test_dis_enc.columns = enc.get_feature_names_out(['District'])
-  test_upa_enc = pd.DataFrame(enc.fit_transform(test_X[['Upazila']]).toarray())
-  test_upa_enc.columns = enc.get_feature_names_out(['Upazila'])
-  # test_uni_enc = pd.DataFrame(enc.fit_transform(test_X[['Union']]).toarray())
-  # test_uni_enc.columns = enc.get_feature_names_out(['Union'])
-  # test_mou_enc = pd.DataFrame(enc.fit_transform(test_X[['Mouza']]).toarray())
-  # test_mou_enc.columns = enc.get_feature_names_out(['Mouza'])
+  for div in train_df['Division'].unique():
+    tr_div = train[train['Division'] == div]
+    te_div = test[test['Division'] == div]
 
-  test_X = test_X.drop(
-    columns=[
-      'Division',
-      'District',
-      'Upazila',
-      'Union',
-      'Mouza',
-    ]
-  )
+    tt_df = append_test_train(te_div, tr_div)
 
+    conv_cat_num(tt_df, 'Label')
+    tt_df = ohe_col(tt_df, ['Mouza'])
 
-  test_X = test_X.join(test_div_enc)
-  test_X = test_X.join(test_dis_enc)
-  test_X = test_X.join(test_upa_enc)
-  # test_X = test_X.join(test_uni_enc)
-  # test_X = test_X.join(test_mou_enc)
+    tt_df = tt_df.drop(
+      columns=[
+        'Division',
+        'District',
+        'Union',
+        'Upazila',
+      ]
+    )
 
-  train_div_enc = pd.DataFrame(enc.fit_transform(train_X[['Division']]).toarray())
-  train_div_enc.columns = enc.get_feature_names_out(['Division'])
-  train_dis_enc = pd.DataFrame(enc.fit_transform(train_X[['District']]).toarray())
-  train_dis_enc.columns = enc.get_feature_names_out(['District'])
-  train_upa_enc = pd.DataFrame(enc.fit_transform(train_X[['Upazila']]).toarray())
-  train_upa_enc.columns = enc.get_feature_names_out(['Upazila'])
-  # train_uni_enc = pd.DataFrame(enc.fit_transform(train_X[['Union']]).toarray())
-  # train_uni_enc.columns = enc.get_feature_names_out(['Union'])
-  # train_mou_enc = pd.DataFrame(enc.fit_transform(train_X[['Mouza']]).toarray())
-  # train_mou_enc.columns = enc.get_feature_names_out(['Mouza'])
+    cat_int_enc(tt_df)
+    tt_df = pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
 
-  train_X = train_X.drop(
-    columns=[
-      'Division',
-      'District',
-      'Upazila',
-      'Union',
-      'Mouza',
-    ]
-  )
+    te_div, tr_div = split_test_train(tt_df)
 
-  train_X = train_X.join(train_div_enc)
-  train_X = train_X.join(train_dis_enc)
-  train_X = train_X.join(train_upa_enc)
-  # train_X = train_X.join(train_uni_enc)
-  # train_X = train_X.join(train_mou_enc)
+    train_X = tr_div.drop(['Arsenic', 'Label'], axis='columns')
+    train_y = tr_div['Label']
+    test_X = te_div.drop(['Arsenic', 'Label'], axis='columns')
 
-  l_missing_cols = list(set(train_X.columns) - set(test_X.columns))
-  r_missing_cols = list(set(test_X.columns) - set(train_X.columns))
+    num_feat = len(test_X.columns)
 
-  for col in l_missing_cols:
-    test_X[col] = 0
+    clf = MLPClassifier(
+      solver='adam',
+      alpha=0.0001,
+      hidden_layer_sizes=(math.trunc(num_feat / 2), math.trunc(num_feat / 4), math.trunc(num_feat / 8)),
+      learning_rate='adaptive',
+      random_state=99,
+      max_iter=1
+    )
 
-  for col in r_missing_cols:
-    train_X[col] = 0
+    clf.fit(train_X, train_y)
 
-  train_X = cat_int_enc(train_X)
-  test_X = cat_int_enc(test_X)
+    test.loc[test['Division'] == div, ['Prediction']] = clf.predict(test_X)
 
-  train_X = train_X.reindex(sorted(train_X.columns), axis=1)
-  test_X = test_X.reindex(sorted(test_X.columns), axis=1)
+  conv_cat_str(test, 'Prediction')
+  return test['Prediction'].values
 
-  clf = MLPClassifier(
-    solver='adam',
-    alpha=0.0001,
-    hidden_layer_sizes=(250),
-    learning_rate='adaptive',
-    random_state=99
-  )
+def main(
+  train_src='./well_data/train.csv',
+  test_src='./well_data/test.csv',
+  test_out=f'./prediction_data/model8-{time.time() / 1000}.csv',
+):
 
-  clf.fit(train_X, train_y)
+  train_df = pd.read_csv(train_src)
+  test_df = pd.read_csv(test_src)
 
-  return clf.predict(test_X)
+  train_df['Label'] = gen_labels(train_df)
+  test_df['Label'] = gen_labels(test_df)
 
-def load_data(train_src, test_src):
-  return pd.read_csv(train_src), pd.read_csv(test_src)
+  test_df['Prediction'] = gen_predictions(train_df, test_df)
+
+  return test_df
 
 if __name__ == '__main__':
-  train_src = './models/model8/train.csv'
-  test_src ='./models/model8/test.csv'
-  test_out = f'./prediction_data/model8.csv';
+  test_out=f'./prediction_data/model8-{time.time() / 1000}.csv',
+  test_df = main()
 
-  train_df, test_df = load_data(train_src, test_src)
+  eval = gen_eval(test_df)
+  print_eval(eval)
 
-  predictions = gen_predictions(train_df, test_df)
-
-  test_df['predictions'] = predictions
-
-  test_df.to_csv(test_out, index=False)
-  print(f'predictions written to {test_out}')
+  print(f'written to {test_out}')

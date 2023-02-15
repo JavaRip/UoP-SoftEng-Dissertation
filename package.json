@@ -6,9 +6,7 @@
   "scripts": {
     "load-src-data": "mkdir well_data ; node node_modules/preprocessing/preprocessing/cli/csv-to-json.js -p node_modules/preprocessing/data/*.csv -o well_data/src_data.json",
     "test-train": "python utils/src_to_test_train.py well_data/src_data.json well_data/src_data.csv well_data/train.csv well_data/test.csv",
-    "unzip-geodata": "unzip geodata.zip",
-    "model5": "mkdir models/model5 ; node node_modules/preprocessing/preprocessing/cli/produce-aggregate-data-files.js -m model5 -o ./models/model5 -p well_data/train.csv node_modules/preprocessing/data/mouza-names.csv",
-    "model4": "mkdir models/model4 ; node node_modules/preprocessing/preprocessing/cli/produce-aggregate-data-files.js -m model4 -o ./models/model4 -p well_data/train.csv node_modules/preprocessing/data/mouza-names.csv"
+    "unzip-geodata": "unzip geodata.zip"
   },
   "author": "",
   "license": "ISC",

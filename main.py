@@ -2,6 +2,8 @@ import sys
 import os
 import pandas as pd
 from subprocess import check_output
+import multiprocessing
+import time
 
 from models.model_utils.evaluator import gen_eval, print_eval
 from utils.src_to_test_train import main as src_tt
@@ -23,50 +25,58 @@ def get_predictions(model, k_fold):
   else:
     return model.main(f'./well_data/k{k_fold}.csv', k_fold)
 
-def build_ia_model(m):
+def build_model(m, k_fold):
+  # create model dir (could do this in python)
+  if not os.path.exists(f'./models/{m}/model/'):
+    cmd_arr = [
+      'mkdir',
+      f'./models/{m}/model/',
+    ]
+
+    check_output(cmd_arr)
+
+  # create k fold model
+  if os.path.exists(f'./models/{m}/model/k{k_fold}'):
+    print(f'{m} k{k_fold} model built')
+  else:
+    print(f'{m} k{k_fold} not built, building…')
+    print(build_ia_model(m, k_fold))
+
+def build_ia_model(m, k_fold):
+  print(f'building {m} k{k_fold}')
+
+  folds = [1, 2, 3, 4, 5]
+  folds.remove(k_fold)
+
   cmd_arr = [
     'mkdir',
-    f'./models/{m}/model/',
+    f'./models/{m}/model/k{k_fold}/',
   ]
 
   check_output(cmd_arr)
 
-  for x in [1, 2, 3, 4, 5]:
-    print(f'building {m} k{x}')
-    folds = [1, 2, 3, 4, 5]
-    folds.remove(x)
+  cmd_arr = [
+    'node',
+    'node_modules/preprocessing/preprocessing/cli/produce-aggregate-data-files.js',
+    '-m',
+    f'{m}',
+    '-o',
+    f'./models/{m}/model/k{k_fold}/',
+    '-p',
+    f'./well_data/k{folds[0]}.csv',
+    f'./well_data/k{folds[1]}.csv',
+    f'./well_data/k{folds[2]}.csv',
+    f'./well_data/k{folds[3]}.csv',
+    './node_modules/preprocessing/data/mouza-names.csv',
+  ]
 
-    cmd_arr = [
-      'mkdir',
-      f'./models/{m}/model/k{x}/',
-    ]
-
-    check_output(cmd_arr)
-
-    cmd_arr = [
-      'node',
-      'node_modules/preprocessing/preprocessing/cli/produce-aggregate-data-files.js',
-      '-m',
-      f'{m}',
-      '-o',
-      f'./models/{m}/model/k{x}/',
-      '-p',
-      f'./well_data/k{folds[0]}.csv',
-      f'./well_data/k{folds[1]}.csv',
-      f'./well_data/k{folds[2]}.csv',
-      f'./well_data/k{folds[3]}.csv',
-      './node_modules/preprocessing/data/mouza-names.csv',
-    ]
-
-    check_output(cmd_arr)
-
-  return
+  return check_output(cmd_arr)
 
 def run_model(model, k_fold):
   m_name = model.get_name()
   print(f'running {m_name} k{k_fold}')
 
-  test_out=f'./prediction_data/{m_name}-{k_fold}.csv'
+  test_out=f'./prediction_data/{m_name}-k{k_fold}.csv'
 
   pred_df = get_predictions(model, k_fold)
   eval = gen_eval(pred_df)
@@ -74,13 +84,6 @@ def run_model(model, k_fold):
 
   pred_df.to_csv(test_out, index=False)
   print(f'predictions written to {test_out}')
-
-def build_model(m):
-  if os.path.exists(f'./models/{m}/model/'):
-    print(f'{m} model built')
-  else:
-    print(f'{m} not built, building…')
-    print(build_ia_model(m))
 
 def extract_ia_data():
   if os.path.exists('./well_data/src_data.json'):
@@ -131,11 +134,27 @@ if __name__ == '__main__':
 
   print('\n______building ia models______\n')
   ia_models = ['model3', 'model4', 'model5']
+  bj = [] # BuildJobs
+
   for m in ia_models:
-    build_model(m)
+    for x in [1, 2, 3, 4, 5]:
+      p = multiprocessing.Process(target=build_model, args=(m, x,))
+      p.start()
+      bj.append(p)
+      time.sleep(0.2) # pause so logs come out in order
+  
+  for j in bj:
+    j.join()
 
   print('\n______running models______\n')
   models = [model3, model4, model5, model6, model7, model8, model9]
+  rj = [] # RunJobs
   for m in models:
     for x in [1, 2, 3, 4, 5]:
-      run_model(m, x)
+      p = multiprocessing.Process(target=run_model, args=(m, x,))
+      p.start()
+      bj.append(p)
+      time.sleep(0.2) # pause so logs come out in order
+
+  for j in rj:
+    j.join()

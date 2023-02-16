@@ -27,21 +27,15 @@ def get_predictions(model, k_fold):
     return model.main(f'./well_data/k{k_fold}.csv', k_fold)
 
 def build_model(m, k_fold):
-  # create model dir (could do this in python)
   if not os.path.exists(f'./models/{m}/model/'):
-    cmd_arr = [
-      'mkdir',
-      f'./models/{m}/model/',
-    ]
-
-    check_output(cmd_arr)
+    os.mkdir(f'./models/{m}/model/')
 
   # create k fold model
   if os.path.exists(f'./models/{m}/model/k{k_fold}'):
     print(f'{m} k{k_fold} model built')
   else:
     print(f'{m} k{k_fold} not built, building…')
-    print(build_ia_model(m, k_fold))
+    build_ia_model(m, k_fold)
 
 def build_ia_model(m, k_fold):
   print(f'building {m} k{k_fold}')
@@ -49,12 +43,7 @@ def build_ia_model(m, k_fold):
   folds = [1, 2, 3, 4, 5]
   folds.remove(k_fold)
 
-  cmd_arr = [
-    'mkdir',
-    f'./models/{m}/model/k{k_fold}/',
-  ]
-
-  check_output(cmd_arr)
+  os.mkdir(f'./models/{m}/model/k{k_fold}/')
 
   cmd_arr = [
     'node',
@@ -101,10 +90,21 @@ def extract_ia_data():
     return check_output(cmd_arr).decode()
 
 def gen_test_train():
-  if os.path.exists('./well_data/k1.csv'):
-    print('test train k split already exists')
-  else:
-    print('generating test train split…')
+  load_tt = False
+
+  for x in [1, 2, 3, 4, 5]:
+    if os.path.exists('./well_data/k{x}.csv'):
+      print(f'k{x} split already exists')
+    else:
+      load_tt = True
+      print(f'k{x} not found, generating k folds…')
+      break
+
+  if (load_tt):
+    for f in os.listdir('./well_data/'):
+      if f.endswith('csv'):
+        os.remove(os.path.join('./well_data/', f))
+
     src_tt()
 
   return
@@ -148,7 +148,7 @@ if __name__ == '__main__':
     j.join()
 
   print('\n______running models______\n')
-  models = [model3, model4, model5, model6, model7, model8, model9]
+  models = [model3, model4, model5] #, model6, model7, model8, model9]
   rj = [] # RunJobs
   for m in models:
     for x in [1, 2, 3, 4, 5]:
@@ -156,7 +156,7 @@ if __name__ == '__main__':
       p.start()
       rj.append(p)
       time.sleep(0.2) # pause so logs come out in order
-    p.join()
+  p.join()
 
   for j in rj:
     j.join()

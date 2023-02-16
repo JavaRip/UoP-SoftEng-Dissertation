@@ -3,7 +3,7 @@ import dill
 import os
 import pandas as pd
 from subprocess import check_output
-import multiprocessing
+import multiprocess as mp 
 import time
 
 from models.model_utils.evaluator import gen_eval, print_eval
@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
   for m in ia_models:
     for x in [1, 2, 3, 4, 5]:
-      p = multiprocessing.Process(target=build_model, args=(m, x,))
+      p = mp.Process(target=build_model, args=(m, x,))
       p.start()
       bj.append(p)
       time.sleep(0.2) # pause so logs come out in order
@@ -152,7 +152,7 @@ if __name__ == '__main__':
   rj = [] # RunJobs
   for m in models:
     for x in [1, 2, 3, 4, 5]:
-      p = multiprocessing.Process(target=run_model, args=(m, x,))
+      p = mp.Process(target=run_model, args=(m, x,))
       p.start()
       rj.append(p)
       time.sleep(0.2) # pause so logs come out in order

@@ -7,18 +7,18 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str, stratify, enumerate_stratas, get_test_mlu, impute_lower_and_median
+from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str, stratify, enumerate_stratas, get_test_mlu, impute_lower_and_median, load_k_train
 from model_utils.model5_agg_to_csv import label_agg_data, agg_data_to_df
 from model_utils.evaluator import gen_eval, print_eval 
 
 def get_name():
   return 'm7'
 
-def gen_predictions(train_df, test_df):
+def gen_predictions(train_df, test_df, k_fold):
   train = train_df.copy()
   test = test_df.copy()
 
-  m5_df = agg_data_to_df('./models/model5/model/aggregate-data/')
+  m5_df = agg_data_to_df(f'./models/model5/model/k{k_fold}/aggregate-data/')
   train = label_agg_data(m5_df, train)
 
   impute_lower_and_median(train)
@@ -67,18 +67,17 @@ def gen_predictions(train_df, test_df):
   return test_X['Prediction']
 
 def main(
-  train_src='./well_data/train.csv',
-  test_src='./well_data/test.csv',
-  test_out=f'./prediction_data/model7-{time.time() / 1000}.csv',
+  test_src='./well_data/k1.csv',
+  k_fold=1,
 ):
 
-  train_df = pd.read_csv(train_src)
-  test_df = pd.read_csv(test_src)
+  train_df = load_k_train(k_fold)
+  test_df = pd.read_csv(test_src) 
 
   train_df['Label'] = gen_labels(train_df)
   test_df['Label'] = gen_labels(test_df)
 
-  test_df['Prediction'] = gen_predictions(train_df, test_df)
+  test_df['Prediction'] = gen_predictions(train_df, test_df, k_fold)
 
   return test_df
 

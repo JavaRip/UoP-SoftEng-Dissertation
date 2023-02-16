@@ -93,7 +93,7 @@ def gen_test_train():
   load_tt = False
 
   for x in [1, 2, 3, 4, 5]:
-    if os.path.exists('./well_data/k{x}.csv'):
+    if os.path.exists(f'./well_data/k{x}.csv'):
       print(f'k{x} split already exists')
     else:
       load_tt = True
@@ -142,21 +142,19 @@ if __name__ == '__main__':
       p = mp.Process(target=build_model, args=(m, x,))
       p.start()
       bj.append(p)
-      time.sleep(0.2) # pause so logs come out in order
+      time.sleep(0.05) # pause so logs come out in order
   
   for j in bj:
     j.join()
 
   print('\n______running models______\n')
-  models = [model3, model4, model5] #, model6, model7, model8, model9]
+  models = [model3, model4, model5, model6, model7, model8, model9]
   rj = [] # RunJobs
   for m in models:
     for x in [1, 2, 3, 4, 5]:
       p = mp.Process(target=run_model, args=(m, x,))
       p.start()
       rj.append(p)
-      time.sleep(0.2) # pause so logs come out in order
-  p.join()
 
   for j in rj:
     j.join()

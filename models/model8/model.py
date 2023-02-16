@@ -9,7 +9,7 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, get_test_mlu, stratify
+from model_utils.utils import cat_int_enc, gen_labels, impute_lower_and_median, conv_cat_str, conv_cat_num, append_test_train, split_test_train, get_test_mlu, stratify, load_k_train
 from model_utils.evaluator import gen_eval, print_eval 
 from model_utils.model5_agg_to_csv import label_agg_data, agg_data_to_df
 
@@ -19,11 +19,11 @@ def get_name():
 def ohe_col(df, cols):
     return pd.get_dummies(data=df, columns=cols)
 
-def gen_predictions(train_df, test_df):
+def gen_predictions(train_df, test_df, k_fold):
   train = train_df.copy()
   test = test_df.copy()
 
-  m5_df = agg_data_to_df('./models/model5/model/aggregate-data/')
+  m5_df = agg_data_to_df(f'./models/model5/model/k{k_fold}/aggregate-data/')
   train = label_agg_data(m5_df, train)
 
   impute_lower_and_median(train)
@@ -78,7 +78,7 @@ def gen_predictions(train_df, test_df):
       hidden_layer_sizes=(math.trunc(num_feat / 2), math.trunc(num_feat / 4), math.trunc(num_feat / 8)),
       learning_rate='adaptive',
       random_state=99,
-      max_iter=1
+      max_iter=100,
     )
 
     clf.fit(train_X, train_y)
@@ -89,18 +89,21 @@ def gen_predictions(train_df, test_df):
   return test['Prediction'].values
 
 def main(
-  train_src='./well_data/train.csv',
-  test_src='./well_data/test.csv',
-  test_out=f'./prediction_data/model8-{time.time() / 1000}.csv',
+  test_src='./well_data/k1.csv',
+  k_fold=1,
 ):
 
-  train_df = pd.read_csv(train_src)
-  test_df = pd.read_csv(test_src)
+  train_df = load_k_train(k_fold)
+  test_df = pd.read_csv(test_src) 
+  print('================================')
+  test_df.info()
+  train_df.info()
+  print('================================')
 
   train_df['Label'] = gen_labels(train_df)
   test_df['Label'] = gen_labels(test_df)
 
-  test_df['Prediction'] = gen_predictions(train_df, test_df)
+  test_df['Prediction'] = gen_predictions(train_df, test_df, k_fold)
 
   return test_df
 

@@ -144,3 +144,13 @@ def get_test_mlu(train, test, level):
 
   # join test rows that contained na and test
   return pd.concat([testna, test], ignore_index=True)
+
+def load_k_train(k):
+  df = pd.DataFrame()
+  for x in [1, 2, 3, 4, 5]:
+    if x == k:
+      continue
+
+    kdf = pd.read_csv(f'./well_data/k{x}.csv')
+    df = pd.concat([df, kdf])
+  return df

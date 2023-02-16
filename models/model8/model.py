@@ -95,10 +95,6 @@ def main(
 
   train_df = load_k_train(k_fold)
   test_df = pd.read_csv(test_src) 
-  print('================================')
-  test_df.info()
-  train_df.info()
-  print('================================')
 
   train_df['Label'] = gen_labels(train_df)
   test_df['Label'] = gen_labels(test_df)

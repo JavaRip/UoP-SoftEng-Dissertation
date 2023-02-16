@@ -1,4 +1,5 @@
 import sys
+import dill
 import os
 import pandas as pd
 from subprocess import check_output
@@ -153,8 +154,9 @@ if __name__ == '__main__':
     for x in [1, 2, 3, 4, 5]:
       p = multiprocessing.Process(target=run_model, args=(m, x,))
       p.start()
-      bj.append(p)
+      rj.append(p)
       time.sleep(0.2) # pause so logs come out in order
+    p.join()
 
   for j in rj:
     j.join()

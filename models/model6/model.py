@@ -7,7 +7,7 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str
+from model_utils.utils import cat_int_enc, gen_labels, conv_cat_num, conv_cat_str, load_k_train
 from model_utils.evaluator import gen_eval, print_eval 
 
 def get_name():
@@ -37,11 +37,11 @@ def gen_predictions(train_df, test_df):
   return test_X['Prediction']
 
 def main(
-  train_src='./well_data/train.csv',
-  test_src='./well_data/test.csv',
+  test_src='./well_data/k1.csv',
+  k_fold=1,
 ):
 
-  train_df = pd.read_csv(train_src)
+  train_df = load_k_train(k_fold)
   test_df = pd.read_csv(test_src) 
 
   train_df['Label'] = gen_labels(train_df)

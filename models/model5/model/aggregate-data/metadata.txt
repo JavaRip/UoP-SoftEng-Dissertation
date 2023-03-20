@@ -1,3 +1,0 @@
-// model: model5
-// generated: Wed Feb 15 2023 15:31:21 GMT+0000 (Greenwich Mean Time)
-// input data: [ well_data/train.csv, node_modules/preprocessing/data/mouza-names.csv ]

@@ -1,10 +1,11 @@
+import numpy as np
 import json
 import pandas as pd
 from sklearn.model_selection import train_test_split
 import sys
 
-def main(src_in, src_out, train_out, test_out):
-  file = open(src_in, 'r')
+def main():
+  file = open('./well_data/src_data.json', 'r')
   raw = file.read()
   data = json.loads(raw)
 
@@ -36,43 +37,18 @@ def main(src_in, src_out, train_out, test_out):
     ],
   )
 
-  df.to_csv(src_out, index=False)
+  df = df.sample(frac=1)
 
-  # TODO make this a function which you pass the well limit to & return df
+  df.to_csv('./well_data/src_data.csv', index=False)
 
-  # remove mouzas with less than 200 wells
-  # todo set with cmd args
-  # df_agg = df.groupby(df['Mouza'], as_index=False).count()
-  # df_agg['mou_count'] = df_agg['Depth']
-  # df_agg.drop(columns=['Depth'])
+  # split test train into 5 k folds
+  df_split = np.array_split(df, 5)
 
-  # df['mou_count'] = pd.merge(
-  #     df_agg[['Mouza', 'mou_count']],
-  #     df,
-  #     on='Mouza'
-  # )['mou_count']
-
-  # min_wells = 200
-  # df = df[df['mou_count'] > min_wells]
-
-  train, test = train_test_split(
-    df,
-    test_size=0.2,
-    random_state=99,
-    # stratify=df['mou'], # what to do with mouzas containing less than 1 well
-  )
-
-  train.to_csv(train_out, index=False)
-  test.to_csv(test_out, index=False)
+  df_split[0].to_csv('./well_data/k1.csv', index=False)
+  df_split[1].to_csv('./well_data/k2.csv', index=False)
+  df_split[2].to_csv('./well_data/k3.csv', index=False)
+  df_split[3].to_csv('./well_data/k4.csv', index=False)
+  df_split[4].to_csv('./well_data/k5.csv', index=False)
 
 if __name__ == '__main__':
-
-  # cli flags could be better than this
-  # cli options for min wells in mouza
-  # cli option for num rows to split (to make smaller test trains)
-  src_in = sys.argv[1]
-  src_out = sys.argv[2]
-  train_out = sys.argv[3]
-  test_out = sys.argv[4]
-
-  main(src_in, src_out, train_out, test_out)
+  main()

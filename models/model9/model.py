@@ -9,7 +9,7 @@ import os
 sys.path.append(
   os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 )
-from model_utils.utils import gen_labels, gen_centroids, split_test_train, append_test_train, conv_cat_num, conv_cat_str
+from model_utils.utils import gen_labels, gen_centroids, split_test_train, append_test_train, conv_cat_num, conv_cat_str, load_k_train
 from model_utils.evaluator import gen_eval, print_eval 
 
 def get_name():
@@ -44,8 +44,7 @@ def gen_predictions(train_df, test_df, gdf):
     hidden_layer_sizes=(50, 2),
     learning_rate='adaptive',
     random_state=99,
-    verbose=1,
-    max_iter=1
+    max_iter=100,
   )
 
   clf.fit(train_X, train_y)
@@ -56,14 +55,12 @@ def gen_predictions(train_df, test_df, gdf):
   return test_X['Prediction']
 
 def main(
-  train_src='./well_data/train.csv',
-  test_src='./well_data/test.csv',
-  geo_src='./geodata/mou/mou-c005-s010-vw-pr.geojson',
+  test_src='./well_data/k1.csv',
+  k_fold=1,
 ):
-
-  gdf = gpd.read_file(geo_src)
-  train_df = pd.read_csv(train_src)
-  test_df = pd.read_csv(test_src)
+  gdf = gpd.read_file('./geodata/mou/mou-c005-s010-vw-pr.geojson')
+  train_df = load_k_train(k_fold)
+  test_df = pd.read_csv(test_src) 
 
   train_df['Label'] = gen_labels(train_df)
   test_df['Label'] = gen_labels(test_df)

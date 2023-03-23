@@ -15,6 +15,8 @@ from models.model6 import model as model6
 from models.model7 import model as model7
 from models.model8 import model as model8
 from models.model9 import model as model9
+from models.model10 import model as model10
+from models.model11 import model as model11
 
 def get_predictions(model, k_fold, pred_path):
   if os.path.exists(pred_path):
@@ -166,7 +168,7 @@ if __name__ == '__main__':
     j.join()
 
   print('\n______running models______\n')
-  models = [model3, model4, model5, model6, model7, model8, model9]
+  models = [model3, model4, model5, model6, model7, model8, model9, model10, model11]
   rj = [] # RunJobs
   for m in models:
     for x in [1, 2, 3, 4, 5]:

@@ -18,7 +18,7 @@ from models.model9 import model as model9
 
 def get_predictions(model, k_fold):
   m_name = model.get_name()
-  pred_path = f'./prediction_data/{m_name}-${k_fold}.csv'
+  pred_path = f'./prediction_data/{m_name}-k{k_fold}.csv'
 
   if os.path.exists(pred_path):
     print('prediction file found')

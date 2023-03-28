@@ -37,6 +37,7 @@ def main():
     ],
   )
 
+  # shuffle data
   df = df.sample(frac=1)
 
   df.to_csv('./well_data/src_data.csv', index=False)

@@ -15,16 +15,33 @@ from models.model6 import model as model6
 from models.model7 import model as model7
 from models.model8 import model as model8
 from models.model9 import model as model9
+from models.model10 import model as model10
+from models.model11 import model as model11
 
-def get_predictions(model, k_fold):
-  m_name = model.get_name()
-  pred_path = f'./prediction_data/{m_name}-${k_fold}.csv'
-
+def get_predictions(model, k_fold, pred_path):
   if os.path.exists(pred_path):
-    print('prediction file found')
+    print(f'{model.get_name()}-k{k_fold} prediction file found')
     return pd.read_csv(pred_path)
   else:
     return model.main(f'./well_data/k{k_fold}.csv', k_fold)
+
+def get_eval(predictions, m_name, k_fold, eval_path):
+  if os.path.exists(eval_path):
+    print(f'{m_name}-k{k_fold} evaluation file found')
+    return pd.read_csv(eval_path)
+  else:
+    eval = gen_eval(predictions)
+    eval_df = pd.DataFrame(data={
+      'model': m_name,
+      'k': k_fold,
+      'sensitivity': eval['sensitivity'],
+      'f1': eval['f1'],
+      'accuracy': eval['accuracy'],
+      'precision': eval['precision'],
+      'specificity': eval['specificity'],
+    }, index=[0])
+
+    return eval_df 
 
 def build_model(m, k_fold):
   if not os.path.exists(f'./models/{m}/model/'):
@@ -67,13 +84,16 @@ def run_model(model, k_fold):
   print(f'running {m_name} k{k_fold}')
 
   test_out=f'./prediction_data/{m_name}-k{k_fold}.csv'
+  eval_out=f'./evaluation_data/{m_name}-k{k_fold}.csv'
 
-  pred_df = get_predictions(model, k_fold)
-  eval = gen_eval(pred_df)
-  print_eval(eval)
+  pred_df = get_predictions(model, k_fold, test_out)
+  eval_df = get_eval(pred_df, m_name, k_fold, eval_out)
 
   pred_df.to_csv(test_out, index=False)
+  eval_df.to_csv(eval_out, index=False)
+
   print(f'predictions written to {test_out}')
+  print(f'evaluation written to {eval_out}')
 
 def extract_ia_data():
   if os.path.exists('./well_data/src_data.json'):
@@ -148,7 +168,7 @@ if __name__ == '__main__':
     j.join()
 
   print('\n______running models______\n')
-  models = [model3, model4, model5, model6, model7, model8, model9]
+  models = [model3, model4, model5, model6, model7, model8, model9, model10, model11]
   rj = [] # RunJobs
   for m in models:
     for x in [1, 2, 3, 4, 5]:

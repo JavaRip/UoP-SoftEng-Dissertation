@@ -16,10 +16,10 @@ def gen_conf_mat(df, label_col='Label', pred_col='Prediction'):
 
 def gen_eval(df, label_col='Label', pred_col='Prediction'):
   accuracy = metrics.accuracy_score(df[label_col], df[pred_col])
-  precision = metrics.precision_score(df[label_col], df[pred_col], pos_label='safe')
-  sensitivity = metrics.recall_score(df[label_col], df[pred_col], pos_label='safe')
-  specificity = metrics.recall_score(df[label_col], df[pred_col], pos_label='polluted')
-  f1_score = metrics.f1_score(df[label_col], df[pred_col], pos_label='safe')
+  precision = metrics.precision_score(df[label_col], df[pred_col], pos_label='polluted')
+  sensitivity = metrics.recall_score(df[label_col], df[pred_col], pos_label='polluted')
+  specificity = metrics.recall_score(df[label_col], df[pred_col], pos_label='safe')
+  f1_score = metrics.f1_score(df[label_col], df[pred_col], pos_label='polluted')
  
   return {
     'accuracy': accuracy,

@@ -48,8 +48,8 @@ def gen_centroids(df, gdf):
 
   dfm = df.merge(
     gdf,
-    left_on=['Division', 'District', 'Upazila', 'Union', 'Mouza'],
-    right_on=['div', 'dis', 'upa', 'uni', 'mou'],
+    left_on=['Division', 'District', 'Upazila', 'Union'],
+    right_on=['div', 'dis', 'upa', 'uni'],
     how='left',
   )
 

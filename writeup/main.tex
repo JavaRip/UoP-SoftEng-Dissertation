@@ -1,0 +1,137 @@
+%%%%%%%%%%%%% You can ignore this stuff
+\documentclass[bsc]{abdnthesis}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{csquotes}
+\usepackage{minted}[linenos, breaklines]
+\usepackage{url}
+\usepackage{pdflscape}
+
+\usepackage[style=apa, backend=biber]{biblatex}
+\DefineBibliographyStrings{english}{%
+  bibliography = {References},
+}
+\addbibresource{library.bib}
+
+% This creates hyperlinks and moves the contents links to the page number for clarity
+\usepackage[linktocpage=true,hidelinks]{hyperref}	
+
+\def\subsectionautorefname{Section}
+\def\subsubsectionautorefname{Section}
+\def\sectionautorefname{Section}
+\def\chapterautorefname{Chapter}
+
+%%%%%%%%%%%%%%%%% Space for your own packages here %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Uncomment for blank lines between paragraphs rather than
+% indents
+\usepackage[parfill]{parskip}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{Using AI to Predict Bangladesh's Drinking Problem}
+\author{Kane Swartz}
+\upnumber{941226}
+
+\projecttype{Research Project}
+\school{School of Computing}
+
+%%%% In the final submission of a thesis, this should only be the year
+%%%% of submission.  However, it is useful to use \date{\today} for drafts so that
+%%%% they don't get mixed up.
+    
+\date{2023}
+
+%% It is useful to split the document up as chapters and include
+%% them.  LaTeX will sort out all the numbering and cross-referencing
+%% for you --- if you run it enough times!
+
+\begin{document}
+
+%%%% Create the title page and standard declaration.
+
+\maketitle
+\makedeclaration
+
+%%%% Then the abstract and acknowledgements
+
+\begin{abstract}
+  An expansion of the title and contraction of the thesis.
+\end{abstract}
+
+\begin{acknowledgements}
+  Much stuff borrowed from elsewhere
+\end{acknowledgements}
+
+%% please indicate whether you are happy for other students to
+%% view your project in the future
+\section*{Consent to Share}
+I consent for this project to be archived by the University Library and potentially used as an example project for future students.
+
+%%%% These are macros ( each macro is defined by \newcommand )
+%%%% These macros make cross-referencing easier, building on the
+%%%% already very useful \autoref{ref}.  You tweak them or build your own.
+
+%% \autorefp{ref}
+%% Like \autoref, but adds the page number
+%% e.g. Section 3.2.4 (p345)
+\newcommand{\autorefp}[1]{\autoref{#1} (p\pageref*{#1})}
+
+%% \autorefnp{ref}
+%% Like \autoref, but adds both the section name and page number
+% e.g. Section 3.2.4 "blah blah" (p345)
+\newcommand{\autorefnp}[1]{\autoref{#1} ``\nameref{#1}'', (p\pageref*{#1})}
+
+%% \see{ref}
+%% Handy shorthand for inserting a hyperlinked xref.
+%%   e.g. (see Section 3.2.4, p134)
+%%        (see Figure 5.1, p23)
+%%        (see Table 4.7, p999)
+\newcommand{\see}[1]{\hyperref[#1]{(see \autoref*{#1}, p\pageref*{#1})}}
+
+%% \seenamed{ref}
+%% Handy shorthand for inserting a hyperlinked xref that also includes
+%% the name of the section being referred to.
+%% (see Section 3.2.4 "blah blah", p134)
+%% (see Figure 5.1 "blah blah blah!", p23)
+%% (see Table 4.7 "blah blah blah blah blah blah", p999)
+\newcommand{\seenamed}[1]{\hyperref[#1]{(see \autoref*{#1} ``\nameref*{#1}'', p.\pageref*{#1})}}
+
+%% \bq Block Quotations.
+\newcommand{\bq}[2][]{\singlespacing \begin{quote} 
+\begin{small} ``\textit{#2}'' \end{small} #1 \end{quote} \doublespacing}
+
+%% \qq{quotation}
+%% Shortcut for doing inline quotations (with 6699 quotation marks around italic text)
+%% e.g. \qq{To be, or not to be}
+\newcommand{\qq}[1]{{\enquote{\textit{#1}}}}
+
+%%%% It should have a table of contents, but delete the other two as
+%%%% necessary.
+
+\tableofcontents
+\listoftables
+\listoffigures
+
+\include{introduction}
+\include{litreview}
+\include{methodology}
+\include{experimentdesign}
+\include{resultsandevaluation}
+\include{conclusion}
+\include{futurework}
+\include{manualrefs}
+
+%%%%%%%%%%%%%% REFERENCES SECTION
+\newpage
+\phantomsection
+\addcontentsline{toc}{chapter}{References}
+% In order to try and get a consistent format I copy and paste the INSPIRE bibtex code into my bibtex file.
+\printbibliography
+
+%%%%%%%%%%%% Include your appendices here
+
+\appendix
+
+\end{document}

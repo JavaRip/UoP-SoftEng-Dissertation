@@ -1,0 +1,82 @@
+\chapter{Literature Review}
+
+\section{Existing Work}
+
+The existing iArsenic model uses a decision tree developed by a human expert, as opposed to by a machine learning algorithm. This approach has the benefit of the output of the model being explainable and justifiable.
+
+Talk about existing works using various techniques:
+
+- geospatial mapping
+
+- Hydrogeochemical modeling
+
+- groundwater monitoring
+
+- field screening techniques such as testing wells
+
+- machine learning techniques using data gathered from methods above
+
+Explain pros and cons of each
+
+\section{The Black Box Problem}
+
+(Fleming et al 2021) states that acceptance of machine learning based approaches have faced resistance in earth \& environmental sciences due to the inability to explain how machine learning models are working and the lack of understanding of artificial intelligence within the earth \& environmental sciences field. While this is partially true in terms of the black box problem there is are numerous of examples of machine learning techniques being utilized to analyze groundwater quality. A more difficult question to answer is whether these models are less applicable in real life compared to human designed models, though in machine learning it is often asserted as common knowledge that this is the case (Guidotti et al, 2018).
+
+In machine learning, the black box problem is based on the inability to explain how a model works, or more specifically, how a model produces an output for any given input.
+
+To illustrate why this is an issue \cite{Castelvecchi2016} uses the following thought experiment. Imagine a black box machine learning model was created with a set of images of mammograms including labels indicating whether the person in the scan went on to develop breast cancer. It could happen that this model out performs human medical professionals in predicting whether someone would go on to develop breast cancer.
+
+One could argue that the benefit of this model would be that it could identify when women should have a preventative mastectomy. However, critics assert that critical decisions cannot be made without justification and that one cannot justify a decision that cannot be explained (Loyola-Gonzalez, 2019). The human doctor's opinion will always be explainable.
+
+Not all machine learning algorithms produce models considered to be black box systems. Decisions tree style models for example are powerful machine learning tools which produce models considered white box systems meaning you can analyse them to determine how they're working \parencite{Caruana2006}. Decision tree style models can be contrasted with neural network style models, the latter of which is only not considered a black box system in exceptional circumstances, due to the complex nature of neural networks.
+
+Because determining whether a drinking water source is safe or not does factor into critical decision making, it is important to explore the black box problem. The purpose of this project however, is simply to compare a the accuracy of a predictive model developed with machine learning to an existing model designed by an expert. Therefore whether a model is black box or white box will not come into consideration during model selection and design though this will be reflected on later.
+
+\section{Tool Selection}
+
+%why sci-kit learn over TensorFlow - tensorflow is primarily used for deep learning mention focus on quick prototyping to asses the potential for more complex models to be implemented (using tensorflow)
+
+\section{Model Type}
+
+The initial steps in model selection are rudimentary. Broadly speaking machine learning algorithms fall into three categories, supervised learning, unsupervised learning and reinforcement learning. Because our data set consists of structured and labelled data the appropriate choice is supervised learning.
+
+Furthermore, in order to have a comparable evaluation metric to the existing model we have to select a model with a comparable output. The existing model outputs a classification of safe, polluted or highly polluted. This indicates that we should select a classification algorithm. 
+
+In Géron A's book, Hands-On Machine Learning with Scikit-Learn (Géron, 2017), it is noted that some regression algorithms can be used for classification, and vice versa. However because the iArsenic data set is highly nominal, containing no quantitative features before feature engineering the data is not well suited to typical regression algorithms.
+
+Thus we have narrowed our algorithm search to supervised learning, classification algorithms.
+
+Rich Caruana and Alexandru Niculescu-Mizil provide a comparison of a number of supervised learning algorithms on a range of data sets and performance measures (Caruana C., Niculescu-Mizil A., 2006). We have chosen algorithms the following algorithms based on their performance and availability within the tools we have access to.
+
+The algorithms we will be basing our models on are as follows: Support Vector Machines (SVMs), K-Nearest Neighbours (KNN), Random Forests (RFs) and Decision Trees (DTs).
+
+\section{Experiment Methodology}
+
+When designing and conducting experiments with predictive models, 
+
+\subsection{Data Cleaning}
+
+\subsection{Validation}
+
+\subsection{Model Performance}
+
+\subsection{Evaluation Methods}
+
+While regression models are typically evaluated based on the difference between a predicted value and the actual value, classification models are evaluated primarily on the misclassification rate; how often the model predicts the correct class opposed to the incorrect class.
+
+The following evaluation metrics have been selected where they apply to both the machine learning model and the existing model.
+
+In a binary classifier classification accuracy can be presented as a confusion matrix to find the false positive and false negative rate among predictions. As the existing model uses multi-class classification, these classes being, safe, polluted and highly polluted, we will not be evaluating the false positive and false negative values for the model as a whole. We can however display a confusion matrix for each output class as in this way each class can be presented as a binary classification.
+
+Additionally we can evaluate the null accuracy of the model by calculating the accuracy if the model always produces the same output. This provides a good baseline from which we can determine if the model is actually producing useful outputs.
+
+We will also evaluate the misclassification rate of the models. This is a measure of how often the classifier makes an incorrect prediction.
+
+The sensitivity, a measure of how often the prediction is correct when the value is positive, the specificity, how often the prediction is correct when the value is negative will also be evaluated.
+
+%\^\^ cite this whole section with chapter 3 of hands on machine learning with scikit learn and also https://www.ritchieng.com/machine-learning-evaluate-%classification-model/ if possible
+
+- talk about managing the size of the feature space, calculate how big it could be with our dataset and how big it can reasonably be
+
+
+

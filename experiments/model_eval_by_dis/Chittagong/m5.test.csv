@@ -1,0 +1,16 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Chittagong,Chittagong,Sandwip,Rahmatpur,Rahmatpur,262.0,1.1,safe,safe
+Chittagong,Chittagong,Mirsharai,Dhum,Dhum,22.0,0.8,safe,safe
+Chittagong,Chittagong,Anowara,Roypur,Roypur,12.0,6.2,polluted,safe
+Chittagong,Chittagong,Sitakunda,Bariadyala,Dakshin Terail,13.0,196.0,polluted,polluted
+Chittagong,Chittagong,Anowara,Battali,Chapatali,36.0,1.8,polluted,safe
+Chittagong,Chittagong,Anowara,Barasat,Gobadia,46.0,2.1,polluted,safe
+Chittagong,Chittagong,Mirsharai,Dhum,Char Krishajay,216.0,0.0,safe,safe
+Chittagong,Chittagong,Banshkhali,Banshkhali Paurashava,Uttar Jaldi,225.0,1.6,safe,safe
+Chittagong,Chittagong,Mirsharai,Dhum,Char Krishajay,232.0,0.0,safe,safe
+Chittagong,Chittagong,Banshkhali,Banshkhali Paurashava,Uttar Jaldi,225.0,1.6,safe,safe
+Chittagong,Chittagong,Banshkhali,Chambal,Purba Chambal,203.0,6.0,safe,safe
+Chittagong,Chittagong,Sitakunda,Bhatiari,Bhatiari,19.0,9.7,polluted,safe
+Chittagong,Chittagong,Sandwip,Kalapania,Kalapania,212.0,0.0,safe,safe
+Chittagong,Chittagong,Mirsharai,Dhum,Char Krishajay,208.0,0.0,safe,safe
+Chittagong,Chittagong,Banshkhali,Kalipur,Palegram,38.0,2.6,safe,safe

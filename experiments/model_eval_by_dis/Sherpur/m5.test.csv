@@ -1,0 +1,11 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Mymensingh,Sherpur,Jhenaigati,Gauripur,Bangaon,37.0,46.1,polluted,polluted
+Mymensingh,Sherpur,Sherpur Sadar,Balair Char,Chak Sahabaddi (Arang,12.0,0.5,safe,safe
+Mymensingh,Sherpur,Sreebardi,Kurikahania,Indilpur,34.0,6.5,safe,safe
+Mymensingh,Sherpur,Jhenaigati,Jhenaigati,Jhenaigati,38.0,36.0,safe,polluted
+Mymensingh,Sherpur,Nalitabari,Nayabil,Andhar Para,26.0,33.2,safe,polluted
+Mymensingh,Sherpur,Nakla,Chandrakona,Basur Alga,22.0,5.2,safe,safe
+Mymensingh,Sherpur,Jhenaigati,Kangsa Dhansail,Bakakura,37.0,2.4,safe,safe
+Mymensingh,Sherpur,Sreebardi,Kakilakura,Kakilakura,14.0,0.5,safe,safe
+Mymensingh,Sherpur,Jhenaigati,Jhenaigati,Jhenaigati,11.0,19.9,safe,polluted
+Mymensingh,Sherpur,Nakla,Ganapaddi,Ganapaddi,23.0,3.3,safe,safe

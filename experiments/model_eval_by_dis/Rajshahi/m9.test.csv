@@ -1,0 +1,17 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rajshahi,Rajshahi,Godagari,Gogram,Amritapur,41.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Charghat,Charghat Paurashava,Sardah,53.0,15.7,polluted,safe
+Rajshahi,Rajshahi,Baghmara,Goalkandi,Udpara,32.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Godagari,Godagari Paurashava,Sreemantapur (Godagar,32.0,6.0,safe,polluted
+Rajshahi,Rajshahi,Godagari,Godagari,Nabagram,33.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Durgapur,Joynagar,Khidra Khalsi,35.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Godagari,Deopara,Deopara,34.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Tanore,Mundumala Paurashava,Prakashnagar,38.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Durgapur,Durgapur Paurashava,Paikartuli,37.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Mohanpur,Bakshimail,Saipara,38.0,58.2,polluted,polluted
+Rajshahi,Rajshahi,Godagari,Mohanpur,Kashimala,43.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Bagha,Manigram,Manigram,39.0,0.5,safe,polluted
+Rajshahi,Rajshahi,Paba,Hujuri Para,Sarishakuri,24.0,73.5,polluted,polluted
+Rajshahi,Rajshahi,Puthia,Belpukuria,Bhangra,32.0,21.0,polluted,polluted
+Rajshahi,Rajshahi,Bagha,Bagha Paurashava,Jot Sayesta,20.0,0.5,safe,safe
+Rajshahi,Rajshahi,Bagha,Bajubagha,Bara Chhaighati,30.0,0.5,safe,polluted

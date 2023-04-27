@@ -1,0 +1,633 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic
+Barisal,Patuakhali,Galachipa,Gazalia,Gatalia,285.0,0.0
+Barisal,Patuakhali,Mirzaganj,Mirzaganj,Mirzaganj,321.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Chhatian Para,299.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Baher Char,308.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Jahtra,306.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Pangashia,Uttar Pangashia,307.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Saplakhali,284.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Chandpur,281.0,0.0
+Barisal,Patuakhali,Bauphal,Keshabpur,Bazemahal,303.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Kismat Sreenagar,323.0,0.0
+Barisal,Patuakhali,Dashmina,Bahrampur,Bagura,316.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Kantakhali,271.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Kotkhali,305.0,0.0
+Barisal,Patuakhali,Kala Para,Paurashava,Khepupara,239.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bil Bilas,311.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Dakshin Char Biswas,280.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Chhota Dalima,250.0,0.0
+Barisal,Patuakhali,Bauphal,Kalisuri,Ponahura,304.0,0.0
+Barisal,Patuakhali,Galachipa,Kalyankalas,Banshbaria Dariabad,315.0,0.0
+Barisal,Patuakhali,Kala Para,Khaprabhanga,Ichhabpur,246.0,0.0
+Barisal,Patuakhali,Galachipa,Chalitabunia,Golbunia,273.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Madarbunia,Madarbunia,276.0,0.0
+Barisal,Patuakhali,Bauphal,Kalisuri,Chhitka,287.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Pangashia,Dakshin Pangasia,307.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Noamala,272.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Jalisha,201.0,3.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Kalaraja,320.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Char Momtaj,264.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Durgapur,293.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Kantakhali,276.0,0.0
+Barisal,Patuakhali,Galachipa,Amkhola,Bhangra,270.0,0.0
+Barisal,Patuakhali,Bauphal,Kalaiya,Karpurkati,296.0,0.0
+Barisal,Patuakhali,Mirzaganj,Deuli Subidkhali,Ranipur,280.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Madarbunia,Dakshin Birajala,256.0,0.0
+Barisal,Patuakhali,Kala Para,Lalua,Nishanbaria,283.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Auliapur,Pacha Koralia,274.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Dhandi,321.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bil Bilas,302.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Char Momtaj,273.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Char Chapli,297.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bil Bilas,262.0,0.0
+Barisal,Patuakhali,Galachipa,Kalyankalas,Kalyankalas,329.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Kashipur,256.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Atashkhali,301.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Lohalia,Pajakhali Hazara,268.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chhota Baisdia,281.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Purba Alipur,328.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Ichadi Joar,283.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Tungibaria,233.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Gabbunia,248.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Itabaria,283.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Badurtala,272.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Lohalia,Lohalia,314.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Dhaurabhanga,301.0,0.0
+Barisal,Patuakhali,Mirzaganj,Mirzaganj,Mirzaganj,277.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Atkhali,308.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chhota Baisdia,294.0,0.0
+Barisal,Patuakhali,Kala Para,Dhankhali,Niachhuakhali,315.0,0.0
+Barisal,Patuakhali,Mirzaganj,Mirzaganj,Bhikakhali,282.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Dhandi,274.0,0.0
+Barisal,Patuakhali,Galachipa,Ratandi Taltali,Ulania Ratandi,312.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,293.0,0.0
+Barisal,Patuakhali,Galachipa,Ratandi Taltali,Ratandi Taltali,293.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Purba Golkhali,281.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Krokmahal,276.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Majhgram,309.0,0.0
+Barisal,Patuakhali,Dashmina,Betagi Sankipura,Shertaluk Betagi,312.0,0.0
+Barisal,Patuakhali,Kala Para,Khaprabhanga,Ichhabpur,237.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bauphal,305.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Lohalia,Pajakhali Hazara,273.0,0.0
+Barisal,Patuakhali,Galachipa,Amkhola,Bhangra,304.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi,274.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Sabupur,317.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Arazi Rajganj,263.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Chhota Bighai,Chhota Bighai,276.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Adabaria,287.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Badurtala,232.0,0.0
+Barisal,Patuakhali,Kala Para,Dalbuganj,Dalbuganj,237.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),275.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Laukati,Dheukhali,262.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chhota Baisdia,301.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Kazir Haola,291.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Bamnikati,299.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Saula,268.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Sabupur,320.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Pakdal,296.0,0.0
+Barisal,Patuakhali,Bauphal,Kalaiya,Saula,248.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bil Bilas,311.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Auliapur,Bara Auliapur,281.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Sabupur,284.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Ichad Char,267.0,0.0
+Barisal,Patuakhali,Galachipa,Ratandi Taltali,Ratandi Taltali,270.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Noamala,280.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Karkhana,295.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Lakshmipur,288.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Dakshin Char Biswas,233.0,0.0
+Barisal,Patuakhali,Bauphal,Dhulia,Uttar Hosnabad,318.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Bahir Gazalia,265.0,0.0
+Barisal,Patuakhali,Dashmina,Bahrampur,Uttar Adampur,323.0,0.0
+Barisal,Patuakhali,Kala Para,Mithaganj,Tegachhia,263.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Char Chapli,243.0,0.0
+Barisal,Patuakhali,Kala Para,Chakamaiya,Chakamaya Nishanbaria,252.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Dakshin Tulatali,281.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Bhuria,273.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Chhota Char Kajal,243.0,0.0
+Barisal,Patuakhali,Dashmina,Rangopaldi,Dakshin Rangopaldi,309.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Boalia,287.0,0.0
+Barisal,Patuakhali,Bauphal,Surjyamani,Indrakul,269.0,0.0
+Barisal,Patuakhali,Galachipa,Ratandi Taltali,Ulania Ratandi,309.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Atkhali,254.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Patukhali,284.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Dhulasar,285.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Nutan Sreenagar,324.0,0.0
+Barisal,Patuakhali,Kala Para,Dhankhali,Londa,288.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bauphal,253.0,0.0
+Barisal,Patuakhali,Bauphal,Kalisuri,Chhitka,298.0,0.0
+Barisal,Patuakhali,Kala Para,Dalbuganj,Manasatali,237.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bil Bilas,264.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Marichbunia,287.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Chandrailer Char,314.0,0.0
+Barisal,Patuakhali,Galachipa,Bakulbaria,Guabaria,255.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Nijbat Kajal,302.0,0.0
+Barisal,Patuakhali,Galachipa,Amkhola,Chingaria,277.0,0.0
+Barisal,Patuakhali,Dashmina,Betagi Sankipura,Machuakhali,272.0,0.5
+Barisal,Patuakhali,Galachipa,Dakua,Galachipa,279.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Chandrailer Char,265.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Atkhali,281.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Bara Bighai,Titkata,330.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Char Maishadi,281.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Lakshmipur,298.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Dakshin Amragachhia,271.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kalikapur,Purba Hetalia,276.0,0.0
+Barisal,Patuakhali,Kala Para,Khaprabhanga,Nizampur,306.0,0.0
+Barisal,Patuakhali,Bauphal,Surjyamani,Kalikapur,316.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Bamnikati,293.0,0.0
+Barisal,Patuakhali,Dashmina,Bahrampur,Bagura,288.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Kashipur,300.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Kismat Rampur,324.0,0.0
+Barisal,Patuakhali,Bauphal,Kalaiya,Saula,281.0,0.0
+Barisal,Patuakhali,Dashmina,Banshbaria,Char Hosnabad,325.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Pangashia,Naldoani,266.0,0.0
+Barisal,Patuakhali,Mirzaganj,Deuli Subidkhali,Dhanmanik Chatra,276.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chhota Baisdia,301.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Pangashia,Uttar Pangashia,317.0,0.0
+Barisal,Patuakhali,Kala Para,Mithaganj,Tegachhia,295.0,0.0
+Barisal,Patuakhali,Bauphal,Surjyamani,Goaliabagha,262.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Dakshin Chandkhali,287.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Subidkhali,277.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Char Lakshmi Aliascha,278.0,0.0
+Barisal,Patuakhali,Kala Para,Dhankhali,Patua,242.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Paschim Alipur,322.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Sreenagar,280.0,0.0
+Barisal,Patuakhali,Dashmina,Banshbaria,Char Hosnabad,280.0,0.0
+Barisal,Patuakhali,Kala Para,Nilganj,Nilganj,284.0,0.0
+Barisal,Patuakhali,Bauphal,Madanpura,Chandapara,319.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Kotkhali,276.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Chhatrakanda,246.0,0.0
+Barisal,Patuakhali,Kala Para,Paurashava,Khepupara,266.0,1.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Jhatibunia,334.0,0.0
+Barisal,Patuakhali,Bauphal,Surjyamani,Saneshwar,311.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Lohalia,Idrakpur,269.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Chandpur,276.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Badurtala,277.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bil Bilas,268.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Itabaria,283.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Kanchi Para,280.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Badurtala,288.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,220.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Rajnagar,295.0,0.0
+Barisal,Patuakhali,Bauphal,Keshabpur,Bharpasha,240.0,0.0
+Barisal,Patuakhali,Mirzaganj,Majidbari,Majidbari,273.0,0.0
+Barisal,Patuakhali,Galachipa,Panpatty,Uttar Panpatty,289.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Auliapur,Pacha Koralia,278.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Sehakati,291.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Amlibaria,269.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Lohalia,Pajakhali Hazara,273.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Badarpur,Badarpur,302.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Kismat Sreenagar,321.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Subidkhali,311.0,0.5
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Bhajna Joar,277.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Dakshin Jhatibunia,267.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Jalisha,301.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Lakshmipur,290.0,0.5
+Barisal,Patuakhali,Bauphal,Noamala,Noamala,263.0,0.0
+Barisal,Patuakhali,Kala Para,Paurashava,Khepupara,247.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Dashmina,260.0,0.33
+Barisal,Patuakhali,Bauphal,Noamala,Batkajal,269.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Pangashia,Dakshin Pangasia,275.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Bara Shibar Char,300.0,0.0
+Barisal,Patuakhali,Galachipa,Panpatty,Uttar Panpatty,261.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Itabaria,292.0,0.0
+Barisal,Patuakhali,Bauphal,Kanakdia,Amirabad,293.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chhota Baisdia,302.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Chandipur,268.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Bazarghona,271.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Chandpur,258.0,0.0
+Barisal,Patuakhali,Kala Para,Lalua,Chandu Para,278.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Bajita 1St Part,308.0,0.0
+Barisal,Patuakhali,Bauphal,Madanpura,Chandapara,314.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Saidjafar,287.0,0.0
+Barisal,Patuakhali,Dashmina,Betagi Sankipura,Chinguria,290.0,0.0
+Barisal,Patuakhali,Bauphal,Surjyamani,Mitha Pukuria,309.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Angaria,303.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi Kalikapur,263.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Bajita 3Rd Part,316.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Joar Garabdi Char,297.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Pangashia,Algi,256.0,0.0
+Barisal,Patuakhali,Mirzaganj,Deuli Subidkhali,Paschim Subidkhali,316.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Chhota Bighai,Haritakibaria,270.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Atashkhali,258.0,0.0
+Barisal,Patuakhali,Mirzaganj,Mirzaganj,Bhikakhali,276.0,0.0
+Barisal,Patuakhali,Kala Para,Paurashava,Khepupara,284.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Purba Alipur,264.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Paschim Alipur,270.0,0.0
+Barisal,Patuakhali,Dashmina,Betagi Sankipura,Betagi Sankipura,311.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Bara Bighai,Bara Bighai,267.0,0.0
+Barisal,Patuakhali,Bauphal,Kalaiya,Kalalya,307.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Dakshin Tulatali,296.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Alipura,304.0,0.0
+Barisal,Patuakhali,Galachipa,Paurashava,Dakua,258.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Auliapur,Chhota Auliapur,279.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Dakshin Dharandi,273.0,0.0
+Barisal,Patuakhali,Mirzaganj,Mirzaganj,Piprakhali,279.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,231.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Khalishakhali,277.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Uttar Dharandi,278.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Bara Dalima,300.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Phulkhali,264.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Chhota Bighai,Chhota Bighai,312.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Haridebpur,267.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Madarbunia,Pakshia,274.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Marichbunia,274.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Tungibaria,245.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Atkhali,273.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Jogir Haola,240.0,0.0
+Barisal,Patuakhali,Bauphal,Dhulia,Uttar Hosnabad,293.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bauphal,270.0,0.0
+Barisal,Patuakhali,Kala Para,Baliatali,Chhota Baliatali,287.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Alipura,268.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Naluabagi,301.0,0.0
+Barisal,Patuakhali,Bauphal,Daspara,Khajurbaria,220.0,0.0
+Barisal,Patuakhali,Bauphal,Kalaiya,Kalalya,302.0,0.0
+Barisal,Patuakhali,Bauphal,Daspara,Bahir Daspara,286.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Joar Garabdi Char,297.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Dashmina,293.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Sutabaria,289.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Dashmina,297.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Laukati,Par Kartikpasha,241.0,0.2
+Barisal,Patuakhali,Bauphal,Noamala,Noamala,266.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Chhota Dalima,287.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Noamala,285.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Sehakati,284.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Khalishakhali,291.0,0.0
+Barisal,Patuakhali,Kala Para,Dalbuganj,Harendrapur Khaprabhanga,272.0,0.0
+Barisal,Patuakhali,Mirzaganj,Majidbari,Chalitabunia,279.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Bajita 4Th Part,316.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi,272.0,0.0
+Barisal,Patuakhali,Mirzaganj,Majidbari,Kotbar Char,282.0,0.0
+Barisal,Patuakhali,Kala Para,Chakamaiya,Chakamaya Nishanbaria,308.0,5.9
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Sehakati,326.0,0.0
+Barisal,Patuakhali,Mirzaganj,Majidbari,Chalitabunia,271.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Chhota Shibar Char,307.0,0.0
+Barisal,Patuakhali,Bauphal,Dhulia,Dhulia,285.0,0.0
+Barisal,Patuakhali,Galachipa,Panpatty,Geramarddan,249.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Lebukhali,308.0,0.11
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Dakshin Tulatali,295.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Chhota Bighai,Haritakibaria,269.0,0.0
+Barisal,Patuakhali,Mirzaganj,Deuli Subidkhali,Paschim Subidkhali,319.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chhota Baisdia,298.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Itbaria,287.0,0.0
+Barisal,Patuakhali,Galachipa,Panpatty,Uttar Panpatty,265.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Sreerampur,312.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Mahasradhi,275.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Baultali,281.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Pangashia,Dakshin Pangasia,275.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Kismat Chhailabunia,312.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Uttar Muradia,312.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Amlibaria,311.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),289.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Bajita 3Rd Part,312.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Kismat Chhailabunia,285.0,0.0
+Barisal,Patuakhali,Galachipa,Chalitabunia,Golbunia,295.0,0.0
+Barisal,Patuakhali,Galachipa,Kalyankalas,Kalagachhia,304.0,0.0
+Barisal,Patuakhali,Mirzaganj,Deuli Subidkhali,Paschim Subidkhali,320.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Uttar Muradia,281.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Purba Jainkati,258.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Lakshmipur,279.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Dhulasar,270.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Lakshmipur,274.0,0.0
+Barisal,Patuakhali,Mirzaganj,Majidbari,Kotbar Char,286.0,0.0
+Barisal,Patuakhali,Dashmina,Banshbaria,Banshbaria,305.0,0.0
+Barisal,Patuakhali,Mirzaganj,Deuli Subidkhali,Deuli,312.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Bara Bighai,Bara Bighai,288.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Bara Bighai,Bara Bighai,269.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Auliapur,Chhota Auliapur,274.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Badarpur,Gabua,278.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Bara Bighai,Paschim Kewabania,268.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Char Wadel,277.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Jhatibunia,328.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Purba Alipur,286.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Gosinga,263.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Kotkhali,252.0,0.0
+Barisal,Patuakhali,Dashmina,Rangopaldi,Jautha,259.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Rajakhali,311.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Bajita 4Th Part,288.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Kanchi Para,259.0,0.0
+Barisal,Patuakhali,Kala Para,Paurashava,Khepupara,234.0,0.0
+Barisal,Patuakhali,Bauphal,Daspara,Khajurbaria,269.0,0.0
+Barisal,Patuakhali,Galachipa,Chalitabunia,Chalitabunia,241.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Rajnagar,302.0,0.0
+Barisal,Patuakhali,Mirzaganj,Mirzaganj,Mirzaganj,323.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Chaita,323.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Laukati,Maukaran,243.0,0.0
+Barisal,Patuakhali,Galachipa,Chalitabunia,Marajangi,243.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Nazirpur Taterkati,332.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi,268.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Amlibaria,294.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Madarbunia,Chalitabunia,276.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Kartikpasha,290.0,0.0
+Barisal,Patuakhali,Bauphal,Kalaiya,Kalalya,276.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kalikapur,Pasairbunia,342.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Auliapur,Chhota Auliapur,284.0,0.0
+Barisal,Patuakhali,Mirzaganj,Majidbari,Kotbar Char,280.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Noamala,288.0,0.0
+Barisal,Patuakhali,Dashmina,Betagi Sankipura,Kharija Betagi,271.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Char Agasti,296.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Baultali,286.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Dakshin Muradia,325.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Jahtra,306.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,285.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Jalisha,296.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chatlakhali,294.0,0.0
+Barisal,Patuakhali,Bauphal,Surjyamani,Indrakul,304.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Char Kapalbera,313.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Gilabania,289.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Bhangora,279.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Bhajna Joar,288.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Gosinga,302.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Naluabagi,298.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Kanchi Para,313.0,0.0
+Barisal,Patuakhali,Galachipa,Kalyankalas,Banshbaria Dariabad,322.0,0.0
+Barisal,Patuakhali,Bauphal,Dhulia,Chandkati,276.0,0.0
+Barisal,Patuakhali,Kala Para,Baliatali,Lemu Para,281.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Maida,279.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Char Momtaj,241.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Sreerampur,284.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Marichbunia,272.0,0.0
+Barisal,Patuakhali,Mirzaganj,Deuli Subidkhali,Paschim Subidkhali,304.0,0.0
+Barisal,Patuakhali,Bauphal,Keshabpur,Mominpur,333.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Chhota Shibar Char,299.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Bhajna Joar,275.0,0.0
+Barisal,Patuakhali,Bauphal,Keshabpur,Keshabpur,284.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Chhota Bighai,Bhajna,277.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Badurtala,278.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Adabaria,305.0,0.0
+Barisal,Patuakhali,Bauphal,Keshabpur,Mominpur,309.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Haridrakhali,288.0,0.0
+Barisal,Patuakhali,Bauphal,Dhulia,Dhulia,279.0,0.0
+Barisal,Patuakhali,Galachipa,Amkhola,Bauria Chariani,242.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Bajita 3Rd Part,296.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Batkajal,296.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Jhatibunia,318.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Sarikkhali,275.0,0.5
+Barisal,Patuakhali,Bauphal,Nazirpur,Chhayhisya Taterkati,275.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Madhabkhali,274.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Amragachhia,274.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi,245.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chhota Baisdia,270.0,0.0
+Barisal,Patuakhali,Kala Para,Baliatali,Chhota Baliatali,293.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Tungibaria,237.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Badarpur,Khalisakhali,281.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Amragachhia,318.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Char Maishadi,277.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Naya Bhanguni,294.0,0.0
+Barisal,Patuakhali,Galachipa,Chalitabunia,Chalitabunia,299.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),320.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Batkajal,248.0,0.0
+Barisal,Patuakhali,Kala Para,Dalbuganj,Harendrapur Khaprabhanga,287.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Pardakua,264.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Marichbunia,272.0,0.0
+Barisal,Patuakhali,Bauphal,Daspara,Khajurbaria,284.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Krishnapur,271.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Arazi Rajganj,274.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Bhuria,278.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi,312.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Kismat Chhailabunia,290.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Bara Gabua,287.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Pukurjana,289.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Amlibaria,335.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,302.0,0.0
+Barisal,Patuakhali,Bauphal,Kalaiya,Karpurkati,288.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Damki Satani,306.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kalikapur,Purba Sarikkhali,273.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Banajora,294.0,0.0
+Barisal,Patuakhali,Mirzaganj,Karabunia,Gabua,288.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi,267.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),333.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kalikapur,Purba Hetalia,273.0,0.5
+Barisal,Patuakhali,Dashmina,Betagi Sankipura,Betagi Sankipura,294.0,0.0
+Barisal,Patuakhali,Bauphal,Daspara,Daspara,320.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Bajita 3Rd Part,319.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Chandrailer Char,286.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Itbaria,233.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Dhulasar,290.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Kaukhali,302.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Haridebpur,272.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Chandpur,317.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kalikapur,Purba Hetalia,273.0,0.0
+Barisal,Patuakhali,Mirzaganj,Karabunia,Kakrabunia,273.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,238.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Sreerampur,244.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Arajbegi,293.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Amragachhia,281.0,0.0
+Barisal,Patuakhali,Dashmina,Bahrampur,Uttar Adampur,290.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Chandpur,286.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Lohalia,Kuripaika,292.0,0.0
+Barisal,Patuakhali,Mirzaganj,Karabunia,Kewabunia,317.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),326.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Uttar Chaita,314.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Badurtala,283.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Sreerampur,313.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Haridebpur,268.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Chhailabunia,277.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Adabaria,271.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Madhabpur (Part),292.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Barunbaria,272.0,0.0
+Barisal,Patuakhali,Kala Para,Dhankhali,Londa,275.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Bazarghona,274.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Alipura,268.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Madhabpur (Part),255.0,0.0
+Barisal,Patuakhali,Kala Para,Chakamaiya,Chakamaiya,277.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Purba Golkhali,273.0,0.0
+Barisal,Patuakhali,Dashmina,Betagi Sankipura,Betagi Sankipura,323.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Jauta,283.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,286.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Char Gabbunia,281.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Dashmina,271.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Purba Golkhali,270.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Char Jainkati,274.0,0.0
+Barisal,Patuakhali,Bauphal,Kanakdia,Bihpasha,300.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Lakshmipur,287.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Ichadi Joar,272.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Bara Char Kajal,272.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Purba Alipur,329.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Mirmadan,256.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Dakshin Muradia,270.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Auliapur,Uttar Badura,274.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Atashkhali,302.0,0.0
+Barisal,Patuakhali,Galachipa,Bara Baisdia,Dakshin Tulatali,288.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Badurtala,242.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Ichadi Joar,283.0,5.8
+Barisal,Patuakhali,Mirzaganj,Karabunia,Gazipura,316.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Santoshdi,307.0,0.0
+Barisal,Patuakhali,Dashmina,Bahrampur,Bagura,283.0,6.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Kartikpasha,302.0,0.0
+Barisal,Patuakhali,Bauphal,Adabaria,Atashkhali,272.0,0.0
+Barisal,Patuakhali,Bauphal,Kalisuri,Ponahura,289.0,0.0
+Barisal,Patuakhali,Kala Para,Lalua,Lalua,284.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Subidkhali,267.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Angaria,Angaria,310.0,0.0
+Barisal,Patuakhali,Dashmina,Bahrampur,Bagura,292.0,0.0
+Barisal,Patuakhali,Kala Para,Chakamaiya,Anipara,285.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),274.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Haridrakhali,269.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Dakshin Dharandi,269.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Tiakhali,247.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,294.0,0.0
+Barisal,Patuakhali,Bauphal,Kalisuri,Singrakati,308.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Pukurjana,284.0,0.0
+Barisal,Patuakhali,Bauphal,Madanpura,Medanpura,260.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Sutabaria,289.0,0.0
+Barisal,Patuakhali,Kala Para,Nilganj,Hajipur,293.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Lebukhali,305.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Itabaria,292.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Itabaria,Sarikkhali,272.0,0.0
+Barisal,Patuakhali,Mirzaganj,Karabunia,Kakrabunia,323.0,0.0
+Barisal,Patuakhali,Kala Para,Paurashava,Khepupara,237.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Bhar Char,242.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Uttar Dharandi,296.0,0.0
+Barisal,Patuakhali,Galachipa,Amkhola,Amkhola,323.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Bara Bighai,Bara Bighai,261.0,0.0
+Barisal,Patuakhali,Mirzaganj,Mirzaganj,Mirzaganj,281.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Kotkhali,302.0,0.0
+Barisal,Patuakhali,Bauphal,Kalaiya,Kalalya,308.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Char Chapli,284.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Dashmina,309.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kalikapur,Purba Hetalia,273.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Dumki,258.0,0.0
+Barisal,Patuakhali,Bauphal,Madanpura,Chandapara,241.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Balaibunia,247.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Rajakhali,310.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Chatlakhali,272.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Tilla,299.0,0.0
+Barisal,Patuakhali,Mirzaganj,Karabunia,Kakrabunia,317.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Kartikpasha,246.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Bara Bighai,Paschim Kewabania,267.0,0.0
+Barisal,Patuakhali,Bauphal,Madanpura,Ram Lakshman Hawla,288.0,0.0
+Barisal,Patuakhali,Bauphal,Surjyamani,Goaliabagha,320.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Gosinga,301.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Alipura,299.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bauphal,316.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Haridevpur Char,260.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Samudafat,304.0,0.0
+Barisal,Patuakhali,Dashmina,Dashmina,Dashmina,296.0,0.0
+Barisal,Patuakhali,Kala Para,Khaprabhanga,Shibbaria,241.0,0.0
+Barisal,Patuakhali,Kala Para,Dhankhali,Panch Jaina,293.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Alipura,302.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Marichbunia,281.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Batkajal,302.0,0.0
+Barisal,Patuakhali,Bauphal,Kanakdia,Kanakdia,256.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),286.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Char Chapli,261.0,0.0
+Barisal,Patuakhali,Kala Para,Nilganj,Nilganj,271.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Lebukhali,308.0,0.0
+Barisal,Patuakhali,Galachipa,Kalyankalas,Banshbaria Dariabad,319.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,304.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Rajnagar,298.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Dumki,318.0,0.0
+Barisal,Patuakhali,Kala Para,Lalua,Chandu Para,284.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Saplakhali,288.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Roy Taterkati,275.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Badarpur,Badarpur,270.0,0.0
+Barisal,Patuakhali,Kala Para,Lalua,Madhu Para,280.0,0.0
+Barisal,Patuakhali,Galachipa,Ratandi Taltali,Manikchand,294.0,0.0
+Barisal,Patuakhali,Kala Para,Dalbuganj,Dalbuganj,281.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Pankhali,264.0,0.0
+Barisal,Patuakhali,Dashmina,Rangopaldi,Dakshin Rangopaldi,309.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,290.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Ichadi Joar,259.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Tiakhali,286.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),272.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Dakshin Jhatibunia,311.0,0.0
+Barisal,Patuakhali,Kala Para,Dalbuganj,Harendrapur Khaprabhanga,240.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi,272.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Purba Alipur,256.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Laukati,Jamura,289.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Nazirpur Taterkati,299.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Baultali,238.0,0.0
+Barisal,Patuakhali,Galachipa,Chiknikandi,Kachua,311.0,0.0
+Barisal,Patuakhali,Galachipa,Ratandi Taltali,Ulania Ratandi,278.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Nijbat Kajal,294.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal,Jauta,275.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Dakshin Dharandi,277.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Auliapur,Purba Auliapur,284.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Chhota Dalima,268.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Uttar Char Biswas,282.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Amarkhali,224.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Chhatrakanda,309.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Chaita,312.0,0.0
+Barisal,Patuakhali,Bauphal,Kalisuri,Dakshin Kabirkati,268.0,0.0
+Barisal,Patuakhali,Bauphal,Nazirpur,Chhota Dalima,284.0,0.0
+Barisal,Patuakhali,Mirzaganj,Mirzaganj,Bhajna Mondharkhali,308.0,0.5
+Barisal,Patuakhali,Patuakhali Sadar,Laukati,Dheukhali,275.0,0.0
+Barisal,Patuakhali,Dashmina,Banshbaria,Gachhani,293.0,0.0
+Barisal,Patuakhali,Kala Para,Dhankhali,Patua,290.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Haridevpur Char,315.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Phulkhali,315.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Khalishakhali,232.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Uttar Char Biswas,227.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Bara Shibar Char,273.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Karkhana,294.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kalikapur,Purba Sarikkhali,339.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Purba Alipur,278.0,0.5
+Barisal,Patuakhali,Patuakhali Sadar,Kalikapur,Ballabhpur,275.0,0.0
+Barisal,Patuakhali,Mirzaganj,Majidbari,Majidbari,273.0,0.0
+Barisal,Patuakhali,Galachipa,Gazalia,Haridebpur,261.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Uttar Muradia,283.0,0.0
+Barisal,Patuakhali,Galachipa,Bakulbaria,Patabunia,256.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Pardakua,262.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Dakshin Dharandi,284.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Bazarghona,343.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Madarbunia,Kuralia,272.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Bahermauza,294.0,0.0
+Barisal,Patuakhali,Kala Para,Khaprabhanga,Shibbaria,293.0,0.0
+Barisal,Patuakhali,Bauphal,Noamala,Nijbat Kajal,266.0,0.0
+Barisal,Patuakhali,Kala Para,Dalbuganj,Dalbuganj,250.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Rampur,276.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Sehakati,288.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Laukati,Par Kartikpasha,275.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Hoglabunia,262.0,0.0
+Barisal,Patuakhali,Kala Para,Nilganj,Nilganj,279.0,0.0
+Barisal,Patuakhali,Galachipa,Panpatty,Geramarddan,270.0,0.0
+Barisal,Patuakhali,Galachipa,Panpatty,Uttar Panpatty,294.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Chhota Bighai,Tushkhali,289.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Lebukhali,Lebukhali,315.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Bhayla,262.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,244.0,0.0
+Barisal,Patuakhali,Galachipa,Chhota Baisdia,Tilla,293.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Badurtala,278.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Keshabpur (Part),276.0,0.0
+Barisal,Patuakhali,Galachipa,Char Kajal,Bara Char Kajal,264.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Kanchi Para,277.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Muradia,Joar Garabdi Char,305.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi Kalikapur,272.0,0.0
+Barisal,Patuakhali,Mirzaganj,Karabunia,Gazipura,290.0,0.0
+Barisal,Patuakhali,Kala Para,Khaprabhanga,Shibbaria,291.0,0.0
+Barisal,Patuakhali,Kala Para,Baliatali,Lemu Para,290.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,277.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Madarbunia,Dakshin Birajala,272.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,9.0,17.4
+Barisal,Patuakhali,Dashmina,Rangopaldi,Dakshin Rangopaldi,317.0,0.0
+Barisal,Patuakhali,Galachipa,Dakua,Phulkhali,255.0,0.0
+Barisal,Patuakhali,Kala Para,Paurashava,Khepupara,284.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Dakshin Amragachhia,232.0,0.0
+Barisal,Patuakhali,Mirzaganj,Madhabkhali,Rampur,321.0,0.0
+Barisal,Patuakhali,Kala Para,Dhulasar,Dhulasar,284.0,0.0
+Barisal,Patuakhali,Dashmina,Bahrampur,Bahrampur,286.0,0.0
+Barisal,Patuakhali,Dumki (Patuakhali Sadar),Pangashia,Dakshin Pangasia,282.0,0.0
+Barisal,Patuakhali,Galachipa,Golkhali,Suhari (2Nd Part),236.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Kamalapur,Dakshin Dharandi,285.0,0.0
+Barisal,Patuakhali,Kala Para,Lata Chapli,Lata Chapli,251.0,0.0
+Barisal,Patuakhali,Kala Para,Khaprabhanga,Shibbaria,292.0,0.0
+Barisal,Patuakhali,Kala Para,Tiakhali,Tiakhali,280.0,0.0
+Barisal,Patuakhali,Galachipa,Rangabali,Char Momtaj,277.0,0.0
+Barisal,Patuakhali,Galachipa,Galachipa,Ratandi Kalikapur,268.0,0.0
+Barisal,Patuakhali,Mirzaganj,Amragachhia,Uttar Amragachhia,325.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Marichbunia,Marichbunia,274.0,0.0
+Barisal,Patuakhali,Galachipa,Ratandi Taltali,Ulania Ratandi,247.0,0.0
+Barisal,Patuakhali,Kala Para,Dhankhali,Niachhuakhali,294.0,0.0
+Barisal,Patuakhali,Dashmina,Rangopaldi,Uttar Rangopaldi,318.0,0.0
+Barisal,Patuakhali,Bauphal,Baga,Banajora,259.0,0.0
+Barisal,Patuakhali,Kala Para,Paurashava,Khepupara,287.0,0.0
+Barisal,Patuakhali,Dashmina,Alipur,Chandpur,297.0,0.0
+Barisal,Patuakhali,Bauphal,Kanchi Para,Pakdal,293.0,0.0
+Barisal,Patuakhali,Bauphal,Daspara,Khajurbaria,313.0,0.0
+Barisal,Patuakhali,Bauphal,Bauphal Paurashava,Bauphal,264.0,0.0
+Barisal,Patuakhali,Galachipa,Kalyankalas,Kalyankalas,309.0,0.0
+Barisal,Patuakhali,Dashmina,Banshbaria,Banshbaria,313.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Jainkati,Sehakati,292.0,0.0
+Barisal,Patuakhali,Bauphal,Keshabpur,Bazemahal,297.0,0.0
+Barisal,Patuakhali,Bauphal,Madanpura,Dwipasha,299.0,0.0
+Barisal,Patuakhali,Patuakhali Sadar,Bara Bighai,Dakshin Bighai,280.0,0.0

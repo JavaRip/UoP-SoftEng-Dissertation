@@ -1,0 +1,11 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rajshahi,Natore,Baraigram,Gopalpur,Astik Para,38.0,0.5,safe,safe
+Rajshahi,Natore,Lalpur,Lalpur,Lalpur,43.0,0.5,safe,safe
+Rajshahi,Natore,Natore Sadar,Chhatni,Raghunathpur,26.0,2.1,safe,safe
+Rajshahi,Natore,Baraigram,Baraigram Paurashava,Jalanda,39.0,0.5,safe,safe
+Rajshahi,Natore,Natore Sadar,Bipra Belgharia,Bipra Belgharia,23.0,0.5,safe,safe
+Rajshahi,Natore,Bagati Para,Fhaguradiar,Salkona,34.0,0.5,safe,safe
+Rajshahi,Natore,Lalpur,Ishwardi,Gauripur,43.0,0.5,safe,safe
+Rajshahi,Natore,Baraigram,Nagar,Panchbaria,34.0,0.5,safe,safe
+Rajshahi,Natore,Baraigram,Banpara Paurashava,Banpara,39.0,0.5,safe,safe
+Rajshahi,Natore,Singra,Italy,Gangar Baria,17.0,0.5,safe,safe

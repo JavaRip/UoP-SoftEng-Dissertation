@@ -1,0 +1,13 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Chittagong,Cox'S Bazar,Chakaria,Dulahazara,Dulahazara,46.0,0.6,safe,safe
+Chittagong,Cox'S Bazar,Ukhia,Raja Palong,Uhala Palong,164.0,6.0,safe,safe
+Chittagong,Cox'S Bazar,Maheshkhali,Hoanak,Hariarchhara,270.0,0.5,safe,safe
+Chittagong,Cox'S Bazar,Maheshkhali,Hoanak,Hoanak,41.0,0.5,safe,safe
+Chittagong,Cox'S Bazar,Chakaria,Badarkhali,Badarkhali Ghona,183.0,1.0,safe,safe
+Chittagong,Cox'S Bazar,Teknaf,Nhilla,Madhya Nhilla,203.0,0.5,safe,safe
+Chittagong,Cox'S Bazar,Ukhia,Jalia Palong,Inani,9.0,5.7,safe,safe
+Chittagong,Cox'S Bazar,Ukhia,Haldia Palong,Rumkha Palong,13.0,0.5,safe,safe
+Chittagong,Cox'S Bazar,Pekua,Pekua,Mehernama,243.0,0.5,safe,safe
+Chittagong,Cox'S Bazar,Ramu,Dakshin Mithachhar,Dakshin Mithachhari,43.0,0.5,safe,safe
+Chittagong,Cox'S Bazar,Pekua,Pekua,Mehernama,243.0,0.5,safe,safe
+Chittagong,Cox'S Bazar,Cox'S Bazar Sadar,Bharuakhali,Bharuakhali,212.0,1.0,safe,safe

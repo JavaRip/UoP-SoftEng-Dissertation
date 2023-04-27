@@ -1,0 +1,22 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Chittagong,Chandpur,Faridganj,Purba Char Dukhia,Alunia,246.0,0.0,safe,safe
+Chittagong,Chandpur,Matlab,Farajikandi,Chhota Charkalia,19.0,579.0,polluted,safe
+Chittagong,Chandpur,Kachua,Karaia,Sreerampur,183.0,0.1,safe,safe
+Chittagong,Chandpur,Haim Char,Char Bhairabi,Char Bhairabi,256.0,0.0,safe,safe
+Chittagong,Chandpur,Kachua,Kadla,Koa,22.0,51.3,polluted,safe
+Chittagong,Chandpur,Faridganj,Faridganj Paurashava,Faridganj,251.0,1.0,safe,safe
+Chittagong,Chandpur,Haim Char,Char Bhairabi,Char Bhairabi,247.0,0.0,safe,safe
+Chittagong,Chandpur,Hajiganj,Dakshin Gandharbap,Dhatra Shibpur,209.0,0.0,safe,safe
+Chittagong,Chandpur,Kachua,Uttar Kachua,Ujani,22.0,234.0,polluted,safe
+Chittagong,Chandpur,Haim Char,Char Bhairabi,Char Bhairabi,25.0,203.0,polluted,polluted
+Chittagong,Chandpur,Chandpur Sadar,Rampur,Rampur,216.0,0.5,safe,safe
+Chittagong,Chandpur,Faridganj,Purba Gupti,Narikeltala,18.0,123.0,polluted,safe
+Chittagong,Chandpur,Shahrasti,Dakshin Roysree,Bernaia,274.0,3.0,safe,safe
+Chittagong,Chandpur,Hajiganj,Hajiganj,Alipur,24.0,434.0,polluted,polluted
+Chittagong,Chandpur,Haim Char,Char Bhairabi,Char Bhairabi,234.0,0.0,safe,safe
+Chittagong,Chandpur,Hajiganj,Hajiganj,Subidpur,26.0,205.0,polluted,polluted
+Chittagong,Chandpur,Shahrasti,Dakshin Meher,Nij Mehar,23.0,1090.0,polluted,polluted
+Chittagong,Chandpur,Hajiganj,Paschim Barkul,Randhanimura,23.0,586.0,polluted,polluted
+Chittagong,Chandpur,Haim Char,Uttar Algi Durgapu,Uttar Algi,209.0,0.5,safe,safe
+Chittagong,Chandpur,Shahrasti,Uttar Suchi Para,Suchi Para,23.0,233.0,polluted,polluted
+Chittagong,Chandpur,Faridganj,Dakshin Faridganj,Harni,223.0,4.0,safe,safe

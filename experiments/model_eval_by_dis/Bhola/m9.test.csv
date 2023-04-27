@@ -1,0 +1,1070 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Barisal,Bhola,Bhola Sadar,Rajapur,Udaypur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Char Kumaria,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Bagir Char,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,61.0,125.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Chhifali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,9.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,294.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Potka,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),285.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Chandra Prasad,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,198.1,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Char Lamchhi Dighaldi,295.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,298.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,286.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Char Titia,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,310.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Kishoreganj,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,263.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Chhota Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Lej Chhakina,32.0,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Char Ananda Tritiyakh,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Lengatia,231.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,297.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,289.6,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,9.1,125.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,317.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dariram Shankar,294.1,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,297.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Sekma,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kazirabad,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,283.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,13.7,125.0,polluted,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kazirabad,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,18.3,50.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,286.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,320.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,341.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Kunja Patti,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,249.9,50.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Chand Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Maheshkhali,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,256.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Chand Char,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Fatemabad,24.4,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,294.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,291.1,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Mautupi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Saha Mandur,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Char Lamchhi Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,286.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,274.3,0.0,safe,safe
+Barisal,Bhola,Daulatkhan,Char Khalifa,Char Didarullah,297.0,1.7,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,289.6,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Jamirlata (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,291.1,0.0,safe,safe
+Barisal,Bhola,Daulatkhan,Medua,Medua Baikunthapur,315.0,0.2,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Chand Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dariram Shankar,294.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),266.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,291.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Saha Mandur,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Lej Chhakina,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Kishoreganj,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Bagir Char,295.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Char Pata,262.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dariram Shankar,300.2,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Potka,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,13.7,60.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,12.2,90.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,10.7,125.0,polluted,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,274.3,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,335.3,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,262.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Gazi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,265.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,289.6,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),228.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Char Titia,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,295.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,50.0,polluted,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,36.6,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,262.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dariram Shankar,281.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Kalikanagar,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Char Lamchhi Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Sitaram,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,329.2,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Saha Mandur,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,48.8,200.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Medua,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,289.6,10.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Char Titia,297.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,281.9,25.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,36.6,100.0,polluted,polluted
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Potka,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),271.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Saha Mandur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Char Lalmohan,9.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kumarkhali,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Char Lalmohan,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,295.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,9.1,25.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,271.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Saidabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,281.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Saha Mandur,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,292.0,0.8,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,265.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,298.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,289.6,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Farazganj,283.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Debir Char,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Fatemabad,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,15.2,300.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,9.1,125.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Peshker Hawla,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Kalikanagar,300.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,350.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Saidabad,30.5,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,304.8,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Hajipur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,286.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Maheshkhali,30.5,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,320.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,213.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,291.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,243.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Char Pata,307.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,280.4,25.0,polluted,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,281.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kachhapia,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,265.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,297.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Dakshin Rajapur,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,213.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Manasa,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Annada Prasad,278.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,277.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),18.3,100.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Kali Kirti,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,277.4,0.0,safe,safe
+Barisal,Bhola,Tazumuddin,Chandpur,Aralia,253.0,0.5,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Debir Char,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,291.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Chhifali,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,189.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Char Mollaji,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Chandpur,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Kunja Patti,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),277.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kundar Hawla,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,292.6,0.0,safe,safe
+Barisal,Bhola,Burhanuddin,Tabgi,Tabgi,313.0,0.18,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Fatemabad,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,228.6,125.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ganeshpura,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),271.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Manasa,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,295.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,9.1,25.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Peshker Hawla,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,268.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,291.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Annada Prasad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),15.2,100.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),18.3,50.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,283.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,310.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,298.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Peshker Hawla,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kumarkhali,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,320.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Debir Char,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,295.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,274.3,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,289.6,10.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,286.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,297.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Debir Char,38.1,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Chhifali,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Burhanuddin,Tabgi,Dalalpur,322.0,0.5,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,61.0,500.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,310.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Char Ananda Tritiyakh,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,13.7,10.0,safe,safe
+Barisal,Bhola,Manpura,Hajirhat,Char Jatin,219.0,0.5,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Bagir Char,295.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Lengatia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kachhapia,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),294.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Chandra Prasad,350.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,265.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),12.2,200.0,polluted,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kachhapia,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,320.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Bauria,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Jazira Majidpur,262.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Char Lalmohan,228.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Gazaria,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Chandpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Rujina,137.2,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),277.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,9.1,125.0,polluted,safe
+Barisal,Bhola,Lalmohan,Farazganj,Farazganj,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,283.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Lej Chhakina,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,268.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,61.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Char Kumaria,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Lengatia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kumarkhali,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,332.0,2.3,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Burhanuddin,Bara Manika,Dakshin Batamara,172.0,1.2,safe,polluted
+Barisal,Bhola,Lalmohan,Farazganj,Asali Lalmohan,289.6,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dariram Shankar,297.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Kanthali (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,291.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ganeshpura,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,295.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Peshker Hawla,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Char Lalmohan,353.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,286.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,54.9,250.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Maheshkhali,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Daia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Jamirlata (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,9.1,25.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Tumchar,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,295.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),281.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,50.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Char Pata,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Bauria,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kachhapia,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Annada Prasad,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,310.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Chandpur,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Tumchar,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Farazganj,283.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Fatemabad,27.4,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Mabulla,12.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,219.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),91.4,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Tazumuddin,Shambhupur,Golakpura,300.0,0.11,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,13.7,250.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dariram Shankar,297.2,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,274.3,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Farazganj,Kishoreganj,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,268.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,73.2,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,294.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Chhifali,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,243.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,268.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,312.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,27.4,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Badarpur,Debir Char,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,243.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Manasa,30.5,60.0,polluted,polluted
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Kunja Patti,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,295.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dariram Shankar,297.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Chhakina,243.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Kachia,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Badarpur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,266.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,301.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,342.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,320.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,273.0,0.5,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,278.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,36.6,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Rajapur,Ganeshpura,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,341.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,320.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Farazganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),9.1,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,291.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Chhifali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Kalikanagar,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,61.0,200.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Bagir Char,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,282.0,0.8,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,298.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Kandarpapur,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Mautupi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,312.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,262.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,294.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Chandpur,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Mautupi,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,298.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Bheduria,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,9.1,250.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,262.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Char Illisha,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Sekma,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Lengatia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Saha Mandur,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Annada Prasad,318.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,289.6,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,9.1,60.0,polluted,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,307.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Hajipur,10.7,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,256.0,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Saidabad,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,189.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Kunja Patti,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,219.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Sultani Santoshp,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Khusia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,251.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,42.7,125.0,polluted,polluted
+Barisal,Bhola,Lalmohan,Lord Hardinje,Saidabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,256.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Mautupi,12.2,25.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,262.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Sitaram,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,167.6,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,310.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,228.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,259.1,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,15.2,50.0,polluted,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Bheduria,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Farazganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Bauria,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Kali Kirti,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,13.7,50.0,polluted,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,268.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,286.5,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,262.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,295.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,286.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,277.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Char Lamchhi Dighaldi,281.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,9.1,25.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),36.6,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,286.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Farazganj,283.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,9.1,100.0,polluted,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,248.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,266.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,310.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,30.5,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,189.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Chandra Prasad,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),265.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,281.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Kunja Patti,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Bagir Char,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kazirabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Fatemabad,61.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Annada Prasad,278.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),262.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,312.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Annada Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),286.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Debir Char,310.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Farazganj,283.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Chand Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,327.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,219.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Chand Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dariram Shankar,297.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Char Ananda Tritiyakh,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ganeshpura,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Dakshin Rajapur,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,297.2,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,350.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Kachia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Sitaram,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Kishoreganj,36.6,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,10.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,9.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,283.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Chand Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,12.2,250.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,12.2,100.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Char Kumaria,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Daia,243.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Fatemabad,256.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Char Titia,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kundar Hawla,347.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Jazira Majidpur,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,292.6,10.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Kalikanagar,298.7,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,67.1,100.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Fatemabad,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,304.0,0.6,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Tazumuddin,Chandpur,Keamulla,285.0,3.84,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Lengatia,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Manasa,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Chand Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Kali Kirti,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Chatila,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Mautupi,323.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Chandpur,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,260.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Char Ananda Tritiyakh,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,249.9,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,219.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kazirabad,274.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Maheshkhali,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Potka,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,12.2,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Bhabanipur,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Char Lalmohan,298.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,335.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Chhitali,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,12.2,100.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),9.1,60.0,polluted,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,294.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,285.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Royerabad,248.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kazirabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Saidabad,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,312.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Saha Mandur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kazirabad,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,289.6,50.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Chandpur,350.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Peshker Hawla,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,9.1,60.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Guli,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,320.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),262.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Char Titia,365.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Joygopi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,281.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Purba Char Kali,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Bhuta,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Kachukhali,205.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Gazi,295.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,243.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Kishoreganj,243.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Char Ananda Tritiyakh,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,9.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Kachhapia,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,304.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Farazganj,277.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Shyampur,289.6,10.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Chhota Algi (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),268.2,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,289.6,45.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,289.6,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Lord Hardinje,Char Lord Hardinje,295.7,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,243.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Taraganj,310.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Bhedaria,30.5,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Samaia,Bara Char Samaia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,189.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Bheduria,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Sitaram,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),292.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Char Hajipur,28.7,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kala Chand Char,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,225.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,292.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Badarpur,Bagir Char,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,294.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Jamirlata (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Kumarkhali,335.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Purba Char Illisha,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Char Lengatia,288.0,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Farazganj,Maheshkhali,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,365.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Purba Char Umed,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Bapta (Part),12.2,400.0,polluted,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,274.3,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Roychand,24.4,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Paschim Char Kali,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Chandra Prasad,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Chandra Prasad,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Balur Char,30.5,0.0,safe,polluted
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Sachia,12.2,10.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),259.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Meherganj,36.6,50.0,polluted,polluted
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Purba Char Shibpur,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Kachia,Saha Mandur,280.4,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Gupta Munshi,286.5,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Dhali Gaurnagar,Dhali Gaurnagar,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Bairagia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Alinagar,Rohita,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Char Noabad (Part),289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Dhania,286.0,1.1,safe,safe
+Barisal,Bhola,Lalmohan,Lalmohan,Munshir Hawla,280.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Paschim Char Umed,249.9,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Char Shibpur,Char Ratanpur,289.6,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Kalma,30.5,0.0,safe,polluted
+Barisal,Bhola,Lalmohan,Kalma,Kalma,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Balia,243.8,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,9.1,100.0,polluted,safe
+Barisal,Bhola,Lalmohan,Char Bhuta,Hariganj,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Rajapur,Ramdaspur,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Kanainagar,312.4,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Gazaria,189.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Uttar Dighaldi,Uttar Dighaldi,298.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,298.7,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Paschim Char Umed,Pangashia,289.6,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dhania,Nabipur (Part),262.1,0.0,safe,safe
+Barisal,Bhola,Lalmohan,Ramganj,Ramganj,283.5,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Dakshin Dighaldi,Dakshin Koralia,274.3,45.0,polluted,safe
+Barisal,Bhola,Lalmohan,Kalma,Char Lakshmi,259.1,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhelu Miah,Char Chandra Prasad,320.0,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bhedaria,Char Ramesh,304.8,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Illisha,Murad Chhabulla,274.3,0.0,safe,safe
+Barisal,Bhola,Bhola Sadar,Bapta,Jamirlata (Part),304.8,0.0,safe,safe

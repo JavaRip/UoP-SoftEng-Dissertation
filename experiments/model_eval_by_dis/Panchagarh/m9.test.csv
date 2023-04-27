@@ -1,0 +1,7 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rangpur,Panchagarh,Debiganj,Pamuli,Hedayetpur,18.0,0.5,safe,safe
+Rangpur,Panchagarh,Debiganj,Chilahati,Bhaulaganj,23.0,0.5,safe,polluted
+Rangpur,Panchagarh,Atwari,Balarampur,Lakshmidwar,24.0,0.8,safe,polluted
+Rangpur,Panchagarh,Debiganj,Sonahar Mallikadah,Sonahar,22.0,0.5,safe,safe
+Rangpur,Panchagarh,Debiganj,Tepriganj,Tepriganj,22.0,33.8,polluted,safe
+Rangpur,Panchagarh,Tentulia,Buraburi,Sardar Para,23.0,0.5,safe,polluted

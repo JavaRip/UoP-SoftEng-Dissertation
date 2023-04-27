@@ -1,0 +1,9 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rajshahi,Joypurhat,Khetlal,Alampur,Shibpur,22.0,1.2,safe,safe
+Rajshahi,Joypurhat,Khetlal,Khetlal,Khetlal (Part-2),25.0,0.8,safe,polluted
+Rajshahi,Joypurhat,Joypurhat Sadar,Jamalpur,Sahapur,25.0,0.5,safe,polluted
+Rajshahi,Joypurhat,Joypurhat Sadar,Bambu,Hanail Bambu,25.0,1.6,safe,polluted
+Rajshahi,Joypurhat,Kalai,Zindarpur,Atahar,25.0,0.8,safe,polluted
+Rajshahi,Joypurhat,Kalai,Kalai,Kathail,25.0,7.7,safe,polluted
+Rajshahi,Joypurhat,Kalai,Kalai,Kalai,64.0,0.9,safe,safe
+Rajshahi,Joypurhat,Joypurhat Sadar,Bhadsa,Kandi,25.0,0.5,safe,polluted

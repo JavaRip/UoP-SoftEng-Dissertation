@@ -1,0 +1,15 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Dhaka,Narsingdi,Manohardi,Ekduaria,Kuripaika,28.0,53.4,polluted,polluted
+Dhaka,Narsingdi,Manohardi,Bara Chapa,Bir Maijdia,198.0,3.0,safe,safe
+Dhaka,Narsingdi,Roypura,Palashtali,Methikanda,21.0,284.0,polluted,polluted
+Dhaka,Narsingdi,Shibpur,Putia,Karardi,31.0,52.4,polluted,polluted
+Dhaka,Narsingdi,Belabo,Amlaba,Ujilaba (Char Meghna),45.0,1.3,safe,safe
+Dhaka,Narsingdi,Shibpur,Ayubpur,Ghasirdia,229.0,0.0,safe,safe
+Dhaka,Narsingdi,Roypura,Chandpur,Majher Char,23.0,43.1,polluted,polluted
+Dhaka,Narsingdi,Belabo,Belabo,Belabo,50.0,1.9,safe,safe
+Dhaka,Narsingdi,Manohardi,Shukundi,Balu Para,215.0,0.5,safe,safe
+Dhaka,Narsingdi,Roypura,Uttar Bakharnagar,Uttar Bakharnagar,22.0,1.4,polluted,safe
+Dhaka,Narsingdi,Shibpur,Chak Radha,Baraigaon,51.0,0.7,safe,safe
+Dhaka,Narsingdi,Manohardi,Bara Chapa,Chanditala,41.0,1.1,polluted,safe
+Dhaka,Narsingdi,Shibpur,Ayubpur,Ghasirdia,229.0,0.0,safe,safe
+Dhaka,Narsingdi,Belabo,Binyabaid,Char Bhagbar,46.0,6.3,safe,safe

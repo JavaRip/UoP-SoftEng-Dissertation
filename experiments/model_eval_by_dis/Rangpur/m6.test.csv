@@ -1,0 +1,18 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rangpur,Rangpur,Mitha Pukur,Bara Hazratpur,Sadhur Para,30.0,0.5,safe,polluted
+Rangpur,Rangpur,Mitha Pukur,Chengmari,Mamuder Para,33.0,0.5,safe,polluted
+Rangpur,Rangpur,Pirgachha,Kandi,Teani Maniram,20.0,15.6,polluted,polluted
+Rangpur,Rangpur,Mitha Pukur,Durgapur,Chandni Chandpur,29.0,0.5,safe,polluted
+Rangpur,Rangpur,Mitha Pukur,Mayenpur,Genar Para,29.0,0.5,safe,polluted
+Rangpur,Rangpur,Badarganj,Madhupur,Santoshpur,26.0,0.5,safe,polluted
+Rangpur,Rangpur,Badarganj,Gopinathpur,Khiar Para,30.0,0.5,safe,polluted
+Rangpur,Rangpur,Mitha Pukur,Emadpur,Emadpur,20.0,14.1,polluted,polluted
+Rangpur,Rangpur,Taraganj,Sayar,Faridabad,30.0,0.5,safe,polluted
+Rangpur,Rangpur,Pirgachha,Parul,Jagatpur,18.0,0.5,safe,polluted
+Rangpur,Rangpur,Mitha Pukur,Balarhat,Buzruk Jhalai,52.0,16.3,polluted,polluted
+Rangpur,Rangpur,Rangpur Sadar,Tamphat,Khurda Tamphat,13.0,0.5,safe,polluted
+Rangpur,Rangpur,Gangachara,Khaleya,Lalchandpur,11.0,0.6,safe,polluted
+Rangpur,Rangpur,Mitha Pukur,Pairaband,Joyrampur Anwar,24.0,17.0,polluted,polluted
+Rangpur,Rangpur,Taraganj,Hariarkuti,Kismat Menanagar,24.0,0.5,safe,polluted
+Rangpur,Rangpur,Pirganj,Panchgachha,Dasmauza Sahapur,45.0,36.0,polluted,polluted
+Rangpur,Rangpur,Gangachara,Khaleya,Lalchandpur,27.0,14.5,polluted,polluted

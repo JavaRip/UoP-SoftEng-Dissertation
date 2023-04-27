@@ -1,0 +1,22 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Dhaka,Kishoreganj,Hossainpur,Araibaria,Dhekia,62.0,1.6,safe,safe
+Dhaka,Kishoreganj,Karimganj,Sutar Para,Uttar Ganeshpur,77.0,21.6,polluted,safe
+Dhaka,Kishoreganj,Itna,Badla,Barshikura,66.0,81.4,polluted,polluted
+Dhaka,Kishoreganj,Itna,Elongjuri,Kaktengar,73.0,5.4,safe,safe
+Dhaka,Kishoreganj,Hossainpur,Sahedal,Rahimpur,80.0,0.5,safe,safe
+Dhaka,Kishoreganj,Katiadi,Banagram,Banagram,59.0,0.5,safe,safe
+Dhaka,Kishoreganj,Bajitpur,Pirijpur,Duaigaon,69.0,18.7,polluted,polluted
+Dhaka,Kishoreganj,Nikli,Karpasha,Saharmul,76.0,94.8,polluted,polluted
+Dhaka,Kishoreganj,Bhairab,Kalika Prasad,Akbarnagar,18.0,160.0,polluted,safe
+Dhaka,Kishoreganj,Itna,Baribari,Kayra Telni,74.0,9.4,safe,safe
+Dhaka,Kishoreganj,Mithamain,Gopedighi,Alua,69.0,27.4,polluted,polluted
+Dhaka,Kishoreganj,Hossainpur,Gobindapur,Lakhuhati,21.0,195.0,polluted,polluted
+Dhaka,Kishoreganj,Karimganj,Gundhar,Kadim Majhihati,78.0,26.1,polluted,polluted
+Dhaka,Kishoreganj,Bhairab,Kalika Prasad,Akbarnagar,78.0,11.6,polluted,polluted
+Dhaka,Kishoreganj,Tarail,Jawar,Chhanati,32.0,31.6,polluted,safe
+Dhaka,Kishoreganj,Katiadi,Katiadi Paurashava,Bhog Para,104.0,1.0,safe,safe
+Dhaka,Kishoreganj,Pakundia,Barudia,Kandarpadi,72.0,0.5,safe,safe
+Dhaka,Kishoreganj,Karimganj,Karimganj,Karimganj,72.0,54.0,polluted,polluted
+Dhaka,Kishoreganj,Karimganj,Karimganj,Karimganj,101.0,92.0,polluted,safe
+Dhaka,Kishoreganj,Mithamain,Ghagra,Daingaon,76.0,11.4,polluted,polluted
+Dhaka,Kishoreganj,Katiadi,Katiadi Paurashava,Bhog Para,22.0,0.5,safe,polluted

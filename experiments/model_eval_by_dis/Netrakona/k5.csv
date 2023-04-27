@@ -1,0 +1,2885 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,32.0,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,85.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,19.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,70.1,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,21.3,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,82.3,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,51.8,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Chhayasi,22.9,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,97.5,45.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,65.5,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,88.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,59.4,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,61.0,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,61.0,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kismatara,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,48.8,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Paikura,53.3,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sutia Para,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,62.5,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jiakhara,76.2,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,15.2,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,9.1,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Uttar Sukhari,16.8,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,243.8,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,29.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,60.0
+Mymensingh,Netrakona,Atpara,Baniajan,Chhayasi,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,53.3,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,50.3,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,21.3,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Balarampur,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,54.9,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,53.3,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,48.8,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,76.2,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,79.2,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Mastafapur,61.0,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Daudpur,97.5,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,57.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,91.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,64.0,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,22.9,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Abpasha,18.3,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,12.2,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,21.3,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Bijoypur,70.1,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,57.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,82.3,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Kapashatia,29.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nagergati,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,10.7,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,30.5,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,33.5,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Mangalsree,72.5,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,65.5,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,29.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,61.9,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,56.4,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Nanderchati,85.3,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Kapashatia,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Purba Kaniail,25.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,82.3,125.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,57.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Sagrakhai,18.3,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,18.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,30.5,25.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,106.7,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,13.4,250.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,35.1,100.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,82.3,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,61.0,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,19.8,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Balli,91.4,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Mymensingh Saitkahan,25.9,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,48.8,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,9.1,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Loneswar,68.6,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,57.9,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,59.4,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,48.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,54.9,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Haripur,64.0,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,67.0,0.5
+Mymensingh,Netrakona,Atpara,Sarmaisa,Aina Debipur,76.2,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Durgasram,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,48.8,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,56.4,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,39.6,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Karunia,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,25.9,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,45.7,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Nanderchati,22.9,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,73.2,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Ikratia,59.4,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,15.2,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,91.4,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,24.4,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bayraura,82.3,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,12.2,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,18.3,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,83.8,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,32.0,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Nandarnagar,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,56.4,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Palashkandi,57.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,13.7,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Hararkandi Hatila,97.5,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,36.6,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,54.9,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,9.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Gaburgachh,76.2,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,24.4,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bangaon,228.6,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,24.4,60.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,48.8,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,18.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Banagram,53.3,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,30.5,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,25.9,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kona Para,67.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,82.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,51.8,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,32.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,29.0,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sutia Para,62.5,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Ratra,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,67.1,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,45.7,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,10.7,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,106.7,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,91.4,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Bishnupur,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,79.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Tilakpur,10.7,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,21.3,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,222.5,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,29.0,250.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,21.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,21.9,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,35.1,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,45.7,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Chaitati,22.9,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,29.0,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,106.7,300.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,16.8,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,54.9,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,19.8,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,57.9,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,67.1,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,15.2,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,76.2,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,24.4,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,57.9,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,86.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,88.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,59.4,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Dhansira Chhenadahar,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Naya Para,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,97.5,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Sirbir,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,71.6,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Palashkandi,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,18.3,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,13.7,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,50.3,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,59.4,100.0
+Mymensingh,Netrakona,Atpara,Sukhari,Debasree,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Balichanda,67.1,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,88.4,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Chaitati,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,85.3,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,59.4,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Amati,21.3,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bahadurpur,73.5,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,48.8,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,15.2,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,21.3,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Ranigaon,29.0,60.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Hayatpur,114.3,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,70.1,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Jogir Nagua,67.1,45.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,19.8,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,15.2,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,18.3,125.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,85.3,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Lohargaon,30.5,45.0
+Mymensingh,Netrakona,Atpara,Duaz,Ramkrishnapur,67.1,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,86.9,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Jogir Nagua,67.1,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,67.1,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Balli,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,59.4,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Amati,21.3,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narayanpur,15.2,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,11.6,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,57.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,91.4,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,25.6,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,59.4,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,18.3,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,25.9,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,15.2,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,48.8,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bandakatuari,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,36.6,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dashal,10.7,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Loneswar,30.5,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,67.1,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,54.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Gachikhai,137.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,115.8,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,35.1,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,16.8,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,61.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,70.1,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,68.6,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,85.3,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,59.4,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,9.1,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Hararkandi Hatila,109.7,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,39.6,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Phulbaria,27.4,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,83.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,62.5,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,19.8,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bijoypur,42.7,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,64.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Adaura,61.0,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,45.7,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Satashi,54.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,88.4,90.0
+Mymensingh,Netrakona,Atpara,Teligati,Gourinagar,85.3,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,38.1,300.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,42.7,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,54.9,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Gandharbapur,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,82.3,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Tatirkona,91.4,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Thausal Para,19.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,9.8,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,22.9,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,18.3,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Mangalsree,79.2,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Pathra,106.7,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,16.8,45.0
+Mymensingh,Netrakona,Purbadhala,Dhala Mulgaon,Jamdhala,64.0,44.6
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,67.7,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Sitarampur,83.8,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,59.4,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,32.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Balli,80.8,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,35.1,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,64.0,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,18.3,45.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,114.3,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,57.9,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,88.4,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,15.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,91.4,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,50.3,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Mymensingh Saitkahan,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,30.5,100.0
+Mymensingh,Netrakona,Atpara,Sukhari,Mangalsree,83.8,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,62.5,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Thausal Para,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,42.7,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,56.4,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,61.0,200.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,18.3,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,24.4,75.0
+Mymensingh,Netrakona,Atpara,Sukhari,Nij Tarachapuri,79.2,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Charia,67.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,114.3,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,24.4,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,22.9,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,12.2,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Juktidahar,54.9,100.0
+Mymensingh,Netrakona,Kalmakanda,Kailati,Kailati,70.0,2.1
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kachuadahar,51.8,45.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,54.9,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,33.5,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,27.4,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Ranigaon,29.0,60.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,74.7,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,73.2,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,18.3,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,85.3,250.0
+Mymensingh,Netrakona,Atpara,Sukhari,Uttar Sukhari,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,62.5,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,74.7,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,54.9,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,85.3,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,57.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,53.3,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,82.3,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Baratali,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,48.8,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,9.1,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,61.0,50.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,106.7,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,30.5,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Palashkandi,55.5,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,79.2,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,10.7,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dashal,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Baraikandi,48.8,250.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,80.8,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,13.7,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,91.4,250.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,76.2,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Sonajor,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,32.0,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,36.6,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,30.5,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,54.9,45.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,54.9,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Uttar Sukhari,76.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,79.2,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Nilkantapur,99.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,45.0
+Mymensingh,Netrakona,Atpara,Teligati,Bade Baratali,25.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,16.8,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,213.4,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,32.0,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,91.4,250.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,65.5,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,36.6,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,70.1,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,79.2,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,59.4,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kerankhala,51.8,100.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Shibpur,76.2,250.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Balli,91.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,70.1,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,69.5,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,56.4,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,18.3,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,97.5,100.0
+Mymensingh,Netrakona,Atpara,Sukhari,Nij Tarachapuri,121.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,57.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Baghatia,106.7,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,45.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Majhiali,51.8,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bijoypur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,91.4,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Purba Kaniail,32.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,100.6,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,50.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,38.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jadabpur,22.9,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,21.3,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,9.1,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,106.7,300.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Balichanda,56.4,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,22.9,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Sirbir,53.3,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,146.3,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Kapashatia,176.8,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,76.2,75.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,51.8,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,15.2,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jiakhara,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,41.1,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,9.1,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kismatara,67.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,70.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,51.8,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Purba Hatiar,54.9,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,21.3,250.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,48.8,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,21.3,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Madal,70.1,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bhabanipur (Debdwar),36.6,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,53.3,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,59.4,75.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,19.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Gabhina,29.0,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,27.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Adampur,91.4,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,21.3,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Purba Kaniail,25.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Patharia,64.0,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,27.4,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Madal,61.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kona Para,24.4,125.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,83.8,25.0
+Mymensingh,Netrakona,Mohanganj,Baratali Banihari,Uttar Jagadishpur,85.0,0.9
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,29.0,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Bamandi,24.4,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,59.4,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,32.0,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,96.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Baghatia,106.7,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,36.6,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,57.9,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,91.4,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,45.7,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,103.6,45.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,59.4,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,68.6,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Chhayasi,16.8,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,29.0,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,64.0,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreepur,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,70.1,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,27.4,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Tilakpur,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,13.7,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Bijoypur,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,80.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Thausal Para,13.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,83.8,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Suterpur,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,16.8,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Baraikandi,53.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,47.2,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,56.4,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,82.3,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,62.5,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,27.4,0.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,74.7,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,36.6,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,62.5,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kutubpur,22.9,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Debthali,11.3,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,77.7,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,91.4,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Shibpur,73.2,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,22.9,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,85.3,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,51.8,75.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Sirbir,36.6,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,27.4,250.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,54.9,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,76.2,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narachatal,67.1,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,10.7,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,13.7,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Aina Debipur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,32.6,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,62.5,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Ishwarkhola,88.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,62.5,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,27.4,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,21.3,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Gati Para,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Kapashatia,54.9,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,18.3,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Lohargaon,9.1,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Thapnarganti,36.6,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Naya Para,59.4,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Purba Hatiar,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nagergati,56.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,64.0,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,45.7,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,62.5,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,61.0,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,79.2,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,79.2,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Juktidahar,48.8,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,25.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,89.9,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Pepulnari,51.8,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Garma,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Meladahar,36.6,45.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Satashi,56.4,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Ramsid,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,75.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Ramsid,25.9,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Meladahar,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,106.7,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Sitarampur,76.2,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jalalpur,27.4,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,24.4,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Garma,65.0,0.5
+Mymensingh,Netrakona,Atpara,Loneshwar,Narayanpur,76.2,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Sitarampur,25.9,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,64.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,25.9,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Sirbir,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Purba Kaniail,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,32.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,22.9,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,24.4,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,112.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Gandaber,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,71.6,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,85.3,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nagergati,82.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kachuadahar,51.8,250.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,48.8,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,27.4,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Jogir Nagua,21.3,500.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,64.0,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Paikura,48.8,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,91.4,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,37.2,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,39.6,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,21.3,250.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,18.3,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,97.5,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,68.6,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,21.3,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Karunia,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Paharpur,27.4,60.0
+Mymensingh,Netrakona,Atpara,Sukhari,Mangalsree,86.9,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,79.2,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Haripur,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,10.7,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,70.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,12.2,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,54.9,75.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sreedharpur,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,18.3,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,118.9,60.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,91.4,60.0
+Mymensingh,Netrakona,Madan,Fatehpur,Dakshin Hasanpur,75.0,54.9
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,61.0,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Bhabanipur,22.9,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,59.4,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,97.5,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kutubpur,60.0,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,64.0,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,64.0,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Loneswar,53.3,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Hatia,106.7,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Paschim Hatiar,57.9,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,15.2,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Bishnupur,59.4,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,45.7,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Baraikandi,51.8,250.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,57.9,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,73.2,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,51.8,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Dhansira Chhenadahar,19.8,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Chaitati,36.6,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,25.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,105.2,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Purba Hatiar,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,10.7,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,57.9,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Paharpur,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,13.7,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Gandaber,27.4,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Manisha,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,48.8,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,41.1,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Sonajor,51.8,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,83.8,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,85.3,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kaniail,31.7,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,62.5,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,85.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Nandarnagar,32.0,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreepur,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Majhiali,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,18.3,75.0
+Mymensingh,Netrakona,Atpara,Baniajan,Paharpur,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,61.0,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,30.5,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Loneswar,73.2,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Kahetura,85.3,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,24.4,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Kharas,21.3,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,32.0,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,29.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,74.7,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Diara,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhurbhuria,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,53.9,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nagergati,51.8,100.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,44.2,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,64.0,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Kamalasram,25.9,60.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Kalyanpur,91.4,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,53.6,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,85.3,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Nischintapur,59.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,56.4,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Roynagar,61.0,45.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,62.5,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,73.2,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Nagarsingha,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,25.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,25.9,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,18.3,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Uttar Sukhari,61.0,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,30.5,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,12.2,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Hararkandi Hatila,106.7,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kalikabari,45.7,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,32.0,100.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,97.5,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,62.5,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,61.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,66.1,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,62.5,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,38.1,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,88.4,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,27.4,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kachhutia,67.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,10.4,45.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,24.4,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jadabpur,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,45.7,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Majhiali,51.8,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Meladahar,12.2,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,51.8,60.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,99.1,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Tatirkona,79.2,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,18.3,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,97.5,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,29.0,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Pepulnari,33.5,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,61.0,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Mymensingh Saitkahan,18.3,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,16.8,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,56.4,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,68.6,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Debthali,12.2,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Sonajor,61.0,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,59.4,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Gati Para,62.5,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,71.6,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Nanderchati,36.6,250.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,21.3,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,59.4,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,65.5,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,27.4,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,48.8,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,17.4,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,61.0,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,48.8,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,68.6,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,56.4,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,12.2,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,13.7,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,22.9,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,79.2,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,61.0,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kachuadahar,21.3,45.0
+Mymensingh,Netrakona,Atpara,Teligati,Gati Para,64.0,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,51.2,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,68.6,75.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,21.3,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,79.2,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,22.9,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,21.3,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Madal,18.3,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,37.2,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,32.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,85.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,25.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,18.3,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Chandpur,106.7,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,137.2,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Narasinghpur,82.3,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Balli,97.5,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,59.4,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,44.2,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Gaburgachh,89.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,10.1,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,33.5,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,29.0,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,62.5,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kona Para,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,15.2,45.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,85.3,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Itakhola,54.9,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,93.0,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,16.8,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Chaitati,56.4,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhurbhuria,25.9,125.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,29.0,125.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Kharchaki,64.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,78.6,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,57.9,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,64.0,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,91.4,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Narapatikhila,57.9,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Patharia,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,57.9,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kona Para,30.5,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Palashkandi,30.5,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,30.5,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,10.7,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,12.8,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,19.8,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,52.4,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Ranigaon,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,51.8,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,11.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,73.2,50.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,105.2,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,31.1,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Uttar Sukhari,54.9,60.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,70.1,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,10.7,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Sitarampur,45.7,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,62.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,16.8,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,29.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Madal,67.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,12.2,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Gandaber,76.2,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,59.4,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,19.8,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mirzapur,18.3,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Mymensingh Saitkahan,15.2,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,13.7,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Purba Hatiar,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Chaitati,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,57.9,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Hatia,106.7,75.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Majhiali,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,62.5,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,19.8,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,61.0,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,274.3,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,97.5,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Phulbaria,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,67.1,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,18.3,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,59.4,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,65.5,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,61.0,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,137.2,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,19.8,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,22.9,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nagergati,10.1,45.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,106.7,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Gaburgachh,67.1,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Debasree,74.7,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,99.1,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,76.2,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Aina Debipur,24.4,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Pathra,78.0,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,22.9,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,57.9,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Ikratia,36.6,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Satashi,85.3,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,76.2,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Durgasram,79.2,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,13.7,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Patharia,33.5,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Debasree,67.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,11.6,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Patharia,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bayraura,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,10.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,53.3,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,59.4,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Chaitati,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,18.3,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,10.7,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,91.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,109.7,125.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,128.0,60.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,36.6,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Patharia,97.5,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mirzapur,67.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,29.0,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narayanpur,18.3,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,49.4,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,62.5,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,13.7,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,25.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,65.5,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,57.9,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,30.5,50.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Ballabhpur,137.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,21.3,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dashal,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,94.5,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,54.9,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,73.2,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,27.4,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,61.0,50.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,22.9,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narachatal,25.9,60.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,70.1,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kaniail,39.6,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,21.3,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,48.8,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,59.4,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,59.4,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Khala Para,85.3,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Haripur,65.5,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,33.5,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Amura,88.4,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bayraura,79.2,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,33.5,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,70.1,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,56.4,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,12.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Debthali,9.8,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Gati Para,61.0,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Ikratia,65.5,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Itakhola,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,25.9,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Gabhina,50.3,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,36.6,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Lohargaon,22.9,90.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,28.0,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,64.0,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,24.4,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,57.9,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,67.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Kalyanpur,91.4,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,48.8,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,85.3,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,24.4,175.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,54.9,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Maheswarkhila,54.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,44.2,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,21.3,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,106.7,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,19.8,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,57.9,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,32.0,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,57.9,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,63.1,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,22.9,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Paikura,48.8,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,16.8,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Balarampur,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Thausal Para,22.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dashal,9.1,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kutubpur,67.1,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,11.6,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,36.6,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Gati Para,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,12.2,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,84.4,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,53.3,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,62.5,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,45.7,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Gohaliakanda,25.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Majhiali,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,9.1,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila Para,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,9.8,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Patharia,44.2,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,59.4,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,91.4,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,51.8,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,19.8,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,76.2,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,25.0
+Mymensingh,Netrakona,Madan,Chandgaon,Chandgaon,83.0,67.7
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,61.0,50.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,61.0,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,83.8,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,54.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Baghatia,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,32.0,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,30.5,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,54.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,50.3,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Bijoypur,36.6,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,76.2,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,79.2,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,32.0,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,35.1,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,61.0,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,36.6,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Palashkandi,29.0,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Dhansira Chhenadahar,56.4,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Ramsid,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,57.9,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,76.2,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Suterpur,57.9,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,64.0,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,64.0,75.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,30.5,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,27.4,125.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,68.6,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Madal,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,77.7,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,32.0,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,53.9,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,82.3,250.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,50.6,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Sirbir,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Lohargaon,41.1,100.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Bijoypur,77.7,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,27.4,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Nanderchati,62.5,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,111.3,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Kamalasram,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,32.0,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,65.5,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,33.5,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,29.0,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,67.1,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Balichanda,58.5,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,27.4,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Ikratia,67.1,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jadabpur,64.0,0.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Hayatpur,86.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kachuadahar,52.4,90.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,25.9,250.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,9.8,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,56.4,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Itakhola,62.5,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,77.7,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,32.0,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,54.9,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,45.7,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,30.5,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,21.3,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,25.9,60.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Baghatia,106.7,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,65.5,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,79.2,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,35.1,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,50.3,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Paharpur,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,12.2,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,85.3,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Jogir Nagua,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,72.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dashal,22.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,45.7,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,64.0,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,27.4,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Abpasha,18.3,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Deotukan,73.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,42.7,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,91.4,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,51.8,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Nanderchati,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,19.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,51.8,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Satashi,25.9,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Tatirkona,54.9,75.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,88.4,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,29.0,60.0
+Mymensingh,Netrakona,Atpara,Sukhari,Hatia,97.5,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,51.8,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,36.6,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,36.6,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,70.1,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,21.3,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,59.4,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,100.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Hayatpur,83.8,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bandakatuari,42.7,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,64.0,75.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,33.5,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,56.4,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,59.4,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,243.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,57.9,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rajapur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,9.1,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Ramsid,22.9,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,82.3,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,21.3,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,54.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Kalyanpur,182.9,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,38.1,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,51.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,14.3,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,73.2,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,82.3,125.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,57.9,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Chhayasi,35.1,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Ragjor,45.7,45.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Aina Debipur,12.2,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,32.0,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,82.3,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,19.8,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,59.4,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,77.7,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Diara,22.9,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,57.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Shibpur,73.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,24.4,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,32.0,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,10.7,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Abpasha,97.5,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,36.6,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,85.3,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Jogir Nagua,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Nandarnagar,35.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,43.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,59.4,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,83.8,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,22.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jiakhara,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,93.0,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Nischintapur,59.4,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,36.6,25.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,137.2,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Bade Baratali,62.5,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Thausal Para,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,16.8,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,33.5,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,64.0,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,9.1,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,47.9,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,70.1,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,36.6,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,48.8,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,82.3,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Ranigaon,29.0,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,71.6,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,77.7,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bausha,91.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,289.6,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,76.2,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,27.4,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Teliganti,67.1,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,62.5,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,25.9,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,68.6,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,62.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,25.9,45.0
+Mymensingh,Netrakona,Atpara,Teligati,Bade Baratali,25.9,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,18.3,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,12.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,30.5,0.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Sagrakhai,80.8,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,21.3,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,44.2,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,51.8,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,54.9,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Bishnupur,80.8,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,35.1,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Kapashatia,51.8,100.0
+Mymensingh,Netrakona,Atpara,Sukhari,Ponara Kahania Badeur,82.3,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bangaon,59.4,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,24.4,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,76.2,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,10.1,10.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Shibpur,141.7,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,70.1,25.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,121.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,45.7,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Bijoypur,91.4,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,67.1,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Gohaliakanda,10.4,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Ranigaon,29.0,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Baniaganti,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,21.3,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,76.2,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,25.9,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,90.0
+Mymensingh,Netrakona,Atpara,Duaz,Jogir Nagua,70.1,45.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,57.9,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narayanpur,57.9,75.0
+Mymensingh,Netrakona,Atpara,Sukhari,Nij Tarachapuri,94.5,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,48.8,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,33.5,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,67.1,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Bijoypur,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Dewsingha,57.9,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Alipur,27.4,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Nagarsingha,54.9,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,61.0,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,65.5,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,51.8,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Narasinghpur,82.3,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,22.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,16.8,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Bade Baratali,25.9,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,57.9,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,59.4,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Uttar Chasha Para,67.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,61.0,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,27.4,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Diara,71.6,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,57.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,12.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,10.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,30.5,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,29.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,13.1,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,39.6,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Majhiali,32.3,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,64.0,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Ichhail,27.4,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,62.5,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kalikabari,18.3,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,25.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,106.7,10.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Bijoypur,79.2,250.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila Para,62.5,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,88.4,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,27.4,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,73.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,12.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,82.9,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,54.9,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,64.0,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,24.4,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,53.3,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,51.8,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,59.4,10.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Sagrakhai,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,32.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,21.3,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Satashi,47.2,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreepur,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kaniail,59.4,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,59.4,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Shasankandi,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,96.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Suterpur,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,19.8,100.0
+Mymensingh,Netrakona,Atpara,Sukhari,Narapatikhila,51.8,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,51.8,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,9.1,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Durgasram,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,10.7,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,82.3,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,61.0,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,19.8,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,73.2,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.8,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,13.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,70.1,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila Para,30.5,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Kamalasram,70.1,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Hatia,33.5,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,88.4,250.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,76.2,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,59.4,0.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Ballabhpur,74.7,60.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,22.9,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,21.3,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,57.9,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,61.0,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,25.9,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,67.1,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kachhutia,61.0,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,9.8,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,69.5,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Banagram,38.4,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,21.3,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,30.5,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,13.7,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,54.9,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jadabpur,51.8,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,45.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Lohargaon,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,48.8,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,54.9,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Ramsid,61.0,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kutubpur,67.1,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,18.3,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,29.0,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,29.0,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,80.8,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,21.3,125.0
+Mymensingh,Netrakona,Atpara,Duaz,Garma,57.9,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,70.1,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Nij Tarachapuri,76.2,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Shialdi,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,54.3,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,16.8,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,67.1,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Sonajor,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Deotukan,73.2,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,36.6,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,85.3,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,32.0,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,53.3,25.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Amanipur,76.2,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,100.6,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,26.2,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,76.2,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,56.4,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,61.0,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bangaon,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,62.5,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,65.5,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Baratali,36.6,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,53.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Debthali,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,13.7,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Nandarnagar,35.1,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Bade Baratali,25.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,30.5,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,64.0,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,36.6,100.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,77.7,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Diara,67.1,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,36.6,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bahadurpur,85.3,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,80.8,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,13.7,0.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Ballabhpur,71.6,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Nilkantapur,67.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Sirbir,13.7,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Bamandi,25.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Nandarnagar,36.6,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Kharas,21.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,32.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,42.7,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,45.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,56.4,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,36.6,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,52.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,56.4,75.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Pepulnari,27.4,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,25.9,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,67.1,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bhabanipur (Debdwar),91.4,75.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,21.3,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,147.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,48.8,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Ramsid,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,10.7,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Gopalpur,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,57.9,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,54.9,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,18.3,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,36.6,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Banagram,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Munshi Para,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Haripur,64.0,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Juktidahar,51.8,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,76.2,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,27.4,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,57.9,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Narasinghpur,82.3,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,19.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Deotukan,54.9,50.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,21.3,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,70.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Purba Hatiar,62.5,50.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,243.8,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,61.0,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,73.2,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,18.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Amura,36.6,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,64.0,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Kachharpur,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,65.5,25.0
+Mymensingh,Netrakona,Netrokona Sadar,Dakshin Bishiura,Dapunia,66.0,0.5
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Kadirpur,73.2,125.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Lakshmipur,61.0,75.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,30.5,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,25.9,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Meladahar,19.8,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Lohargaon,29.0,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Hatia,36.6,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Bishnupur,22.9,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narayanpur,76.8,10.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,121.9,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Satashi,22.9,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Gandaber,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,22.9,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,50.3,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,64.0,100.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Shibpur,73.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Kharas,33.5,25.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Jogimara,97.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Kharas,25.9,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,33.5,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,45.7,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Nischintapur,42.7,500.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,29.0,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sutia Para,62.5,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,29.0,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,88.4,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,67.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,36.6,125.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,61.0,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,67.1,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,36.6,50.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,237.7,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,9.1,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,33.5,50.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Adaura,1.0,34.7
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,16.8,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bhabanipur (Debdwar),91.4,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,64.0,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,57.9,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Kamalasram,65.5,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,29.0,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,48.8,100.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,91.4,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,13.7,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Paschim Hatiar,64.0,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,35.1,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,97.5,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,82.3,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dashal,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,19.8,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,12.2,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,59.4,25.0
+Mymensingh,Netrakona,Kalmakanda,Lengura,Shibpur,41.0,60.1
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Kadirpur,114.3,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Gohaliakanda,86.9,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Purba Kaniail,32.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,35.1,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,13.7,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Mastafapur,45.7,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Purba Hatiar,57.9,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Sonajor,76.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,88.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Shibpur,18.3,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,57.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Nazirpur Muradpur,76.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,57.9,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Tatirkona,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,16.8,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,85.3,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,18.3,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,54.9,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,27.4,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kachhutia,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Balichanda,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,32.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kona Para,29.0,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,57.9,75.0
+Mymensingh,Netrakona,Atpara,Sukhari,Khala Para,91.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Balichanda,57.9,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Ramkrishnapur,45.7,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,82.3,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Ranigaon,18.3,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Nij Tarachapuri,76.2,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,79.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kerankhala,27.4,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Purba Hatiar,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,75.0
+Mymensingh,Netrakona,Atpara,Sonai,Chasha Para Piajkandi,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,56.4,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Purba Hatiar,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,67.1,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,30.5,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Gandaber,73.2,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,45.7,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,18.3,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,112.8,125.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Meladahar,25.9,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,54.9,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,79.9,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,85.3,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,79.2,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,33.5,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,12.2,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,54.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Baghatia,106.7,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,48.8,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Debthali,9.8,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Balarampur,30.5,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Paikdi,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,16.8,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,65.5,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,29.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Patharia,85.3,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Makimpur Mura,80.8,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,91.4,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,73.2,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,45.7,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,27.4,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,76.2,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,9.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Lakshmindarganti,67.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,85.3,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,68.6,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Amati,22.9,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Majhiali,45.7,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,59.4,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Lohachura,48.8,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jadabpur,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Dewsingha,59.4,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Teliganti,33.5,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kachuadahar,52.4,45.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,30.5,75.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Purba Kaniail,38.1,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,189.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,16.8,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Sitarampur,22.9,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,19.8,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,30.5,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,22.9,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,76.2,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,76.2,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,61.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,70.1,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,45.7,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,21.3,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,54.9,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Balli,80.8,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,54.9,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,36.6,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,91.4,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,56.4,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Shasankandi,59.4,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,64.0,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,64.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,61.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,22.9,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Bade Baratali,22.9,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,76.2,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,56.4,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,21.3,100.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Gachikhai,121.9,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,13.7,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,85.3,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,82.3,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,76.2,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Suterpur,22.9,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,91.4,250.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Chak Jagannathpur,121.9,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Karunia,51.2,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,59.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,64.0,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kismatara,12.2,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,64.0,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Phulbaria,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,9.1,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,56.4,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sreedharpur,79.2,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Baratali,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,19.8,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,76.2,125.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,68.6,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,62.5,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,56.4,75.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Kapashatia,59.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,82.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,75.0
+Mymensingh,Netrakona,Atpara,Baniajan,Kamtala,65.5,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,73.2,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,36.6,75.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Kapashatia,33.5,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kachhutia,21.3,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,21.3,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,21.3,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,64.0,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,88.4,45.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kutubpur,24.4,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,56.4,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghagra,18.3,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Balarampur,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,82.3,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kismatara,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,42.7,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,62.5,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,57.9,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,18.3,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Garma,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,35.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,85.3,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Gandaber,70.1,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,44.2,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,65.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,13.7,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,54.9,100.0
+Mymensingh,Netrakona,Atpara,Sukhari,Narapatikhila,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,65.5,75.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,70.1,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,85.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kaniail,30.5,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,79.2,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,65.5,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mansurpur,41.1,250.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,22.9,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Tatirkona,79.2,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,36.6,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,35.1,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,9.1,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,57.9,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Diara,67.1,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,53.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,16.8,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,137.2,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,76.2,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Balarampur,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,50.3,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,54.9,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,73.2,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,106.7,60.0
+Mymensingh,Netrakona,Atpara,Sukhari,Debasree,76.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Hayatpur,114.3,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Meladahar,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Lakshmipur,76.2,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,22.9,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Haripur,67.1,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,70.1,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,30.5,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,97.5,125.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,67.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,36.6,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,18.3,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Nandarnagar,32.0,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,9.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,64.0,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,32.0,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,63.1,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Shasankandi,61.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,85.3,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,18.3,60.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,18.3,250.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Pepulnari,57.9,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,67.1,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,63.4,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,22.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,68.0,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Palashkandi,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,91.4,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,61.0,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,91.4,50.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Chandpur,144.8,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nagergati,56.4,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narayanpur,64.0,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,27.4,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Kamarganti,24.4,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,88.4,250.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,16.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,59.4,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,91.4,90.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,52.4,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.8,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kona Para,105.2,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,29.0,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,67.1,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,39.6,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,88.4,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,76.2,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,61.0,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,32.9,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,57.9,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,18.3,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,41.1,75.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Narasinghpur,109.0,28.2
+Mymensingh,Netrakona,Durgapur,Bakaljora,Nagarsingha,61.0,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Krishnapur,85.3,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,68.6,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,59.4,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Hararkandi Hatila,195.1,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,21.3,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,146.3,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,25.9,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Balichanda,39.6,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,27.4,60.0
+Mymensingh,Netrakona,Atpara,Baniajan,Gaburgachh,91.4,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,59.4,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bandakatuari,53.3,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,47.2,10.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Amanipur,106.7,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Gopalpur,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,51.8,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,59.4,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Lohachura,33.5,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,67.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,85.3,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,24.4,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kachhutia,24.4,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,36.6,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Loneswar,25.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,19.8,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,38.1,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,18.3,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Abpasha,16.8,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ganipur,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Amura,91.4,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,71.6,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,59.4,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Munshi Para,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Patharia,48.8,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,59.4,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mirzapur,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,54.9,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,91.4,90.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Nagarsingha,82.3,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,64.0,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Aina Debipur,67.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bangaon,57.9,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,9.1,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Saidpur,15.2,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,73.2,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,57.9,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,78.0,37.6
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Gaburgachh,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,79.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,29.0,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,9.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,29.0,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,73.2,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,67.1,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,57.9,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,40.2,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,48.8,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Lohachura,19.8,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,79.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,106.7,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,57.9,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,76.2,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,64.0,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Balarampur,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Kharas,21.3,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,64.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Gohaliakanda,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,62.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,82.3,250.0
+Mymensingh,Netrakona,Atpara,Teligati,Amati,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,19.8,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Pabiakhali,27.4,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,76.2,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,45.7,60.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,61.0,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,50.3,75.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Karunia,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,18.3,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,27.4,125.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,70.1,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,30.5,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,29.0,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,76.2,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Uttar Sukhari,64.0,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Charia,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,59.4,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,36.6,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Jogir Nagua,70.1,45.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Deotukan,53.3,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,13.7,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,64.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Habibpur,25.9,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,29.0,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,57.9,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,30.5,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Aina Debipur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,14.6,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,19.8,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,61.0,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,62.5,10.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Adampur,91.4,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,70.1,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,38.7,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,59.4,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Kachharpur,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,32.0,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,22.9,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,22.9,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,61.6,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Diara,64.0,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,30.5,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,16.8,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,10.7,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,51.8,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,61.0,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,9.1,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,82.3,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,39.6,250.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,53.3,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,15.2,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,73.2,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,44.2,250.0
+Mymensingh,Netrakona,Atpara,Baniajan,Chhayasi,22.9,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,21.3,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,67.1,0.0
+Mymensingh,Netrakona,Mohanganj,Baratali Banihari,Barunka,178.0,126.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,50.3,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,48.8,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,27.4,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,56.4,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,39.6,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Satashi,41.1,50.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Baghatia,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,67.1,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,48.8,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,50.3,100.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Narasinghpur,80.8,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Manisha,67.1,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Mansurpur,27.4,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Nij Tarachapuri,94.5,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,68.6,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Narapatikhila,97.5,60.0
+Mymensingh,Netrakona,Atpara,Sukhari,Debasree,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,24.4,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Uttar Sukhari,61.0,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,82.3,125.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jadabpur,25.9,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,29.0,60.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,137.2,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,67.1,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,27.4,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,15.2,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kaupur,79.2,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,51.8,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,21.3,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,67.1,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,15.2,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Banagram,50.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,22.9,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narayanpur,228.6,45.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,53.6,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kalikabari,36.6,10.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Durlabhpur,91.4,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Sirbir,51.8,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Kutubpur,82.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,82.3,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,65.5,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,21.3,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,15.2,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,38.1,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,59.4,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,61.0,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,106.7,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,30.5,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,56.4,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,25.9,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,67.1,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Bishnupur,22.9,125.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,30.5,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,21.3,100.0
+Mymensingh,Netrakona,Mohanganj,Suair,Kolpatak Ballabhpur,101.0,31.7
+Mymensingh,Netrakona,Atpara,Sukhari,Debasree,79.2,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Haripur,59.4,60.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Chandpur,106.7,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Singpur,85.0,47.3
+Mymensingh,Netrakona,Durgapur,Bakaljora,Kharchaki,64.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,114.3,10.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,106.7,90.0
+Mymensingh,Netrakona,Atpara,Teligati,Amati,22.9,60.0
+Mymensingh,Netrakona,Atpara,Duaz,Gopalpur,61.0,45.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jadabpur,54.9,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,27.4,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,27.4,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Ratra,71.0,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Paikura,36.6,250.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,61.0,60.0
+Mymensingh,Netrakona,Barhatta,Asma,Chhota Kailati,76.0,10.9
+Mymensingh,Netrakona,Durgapur,Bakaljora,Balichanda,57.9,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,74.7,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,37.5,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Baraikandi,48.8,250.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,82.3,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,57.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,90.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,61.0,10.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,91.4,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,82.3,60.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,36.6,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Banagram,54.9,100.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Amanipur,112.8,60.0
+Mymensingh,Netrakona,Atpara,Baniajan,Paharpur,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,33.5,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Duaz,67.1,25.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,82.3,60.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Lakshmindarganti,68.6,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,61.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,76.2,125.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Naya Para,68.6,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,41.1,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Munshi Para,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,82.3,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,21.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,18.3,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,57.9,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Lohargaon,27.4,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Baratali,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,42.7,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Basankona,61.0,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,12.2,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,18.3,125.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Telunjia,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,92.4,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,39.6,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,76.2,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,22.9,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,18.3,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,32.0,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,53.3,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Manisha,82.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,61.0,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Kahetura,73.2,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,33.5,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sutia Para,76.2,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Khala Para,91.4,75.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,16.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,54.9,45.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,46.6,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Munshi Para,39.6,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,11.0,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Balli,80.8,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,12.2,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,13.7,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,76.2,100.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,105.2,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Nanderchati,32.0,500.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,86.9,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Banagram,60.4,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,21.3,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,18.3,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Loneswar,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,85.3,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,56.4,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,27.4,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,36.6,60.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Ranigaon,64.0,60.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,42.7,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,15.8,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Ramsid,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,25.9,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Tatirkona,79.2,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Juktidahar,51.8,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,64.0,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Gabhina,30.5,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,106.7,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Kutubpur,91.4,25.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Chak Jagannathpur,76.2,90.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,35.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,21.3,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,41.1,50.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,66.1,90.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,64.6,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,33.5,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Basati,83.8,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,18.3,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,32.0,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,22.9,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nagergati,57.9,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Charia,67.1,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ganipur,54.9,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Khala Para,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,64.0,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,54.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Chandpur,114.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,21.3,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Swalpa Sonai,21.3,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,10.7,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,58.8,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Pabiakhali,57.9,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,121.9,60.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Makimpur Mura,59.4,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Shyampur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Paikura,62.5,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Meladahar,51.8,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,10.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jiakhara,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,46.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,53.3,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,36.6,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,79.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,24.4,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,64.0,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,22.9,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,21.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Tatirkona,137.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,56.4,10.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Ballabhpur,103.6,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Alipur,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,39.6,45.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,36.6,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Munshi Para,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bayraura,70.1,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Chaitati,27.4,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,59.4,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Uttar Sankarpur,79.2,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,10.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Chak Jagannathpur,80.8,90.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,250.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,25.9,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Baraikandi,54.9,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kaupur,22.9,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Chasha Para Piajkandi,73.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Basankona,61.0,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,22.9,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Maheswarkhila,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,36.6,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Gaburgachh,68.6,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,33.5,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,76.2,75.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,97.5,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,64.0,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Ranigaon,25.9,60.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,114.3,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,29.0,25.0
+Mymensingh,Netrakona,Madan,Madan,Bri-Barikandi,78.0,154.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,33.5,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,68.6,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,48.8,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Paharpur,88.4,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,48.8,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,51.8,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,91.4,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Phulpur,54.9,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Ramkrishnapur,73.2,25.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,137.2,60.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,85.3,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Shyampur,13.7,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,12.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,21.3,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Madhabpur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,21.3,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,51.8,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,67.1,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,64.0,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Amanipur,106.7,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,100.6,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,45.7,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,18.3,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,16.8,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,58.5,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,27.4,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,85.3,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,70.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,80.8,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Tatirkona,82.3,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,88.4,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,70.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Juktidahar,56.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,54.9,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,83.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,53.3,75.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,62.5,25.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,77.7,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,52.4,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bandakatuari,27.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,97.5,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,15.2,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,45.7,125.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,61.0,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Nazirpur Muradpur,88.4,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Sonajor,57.9,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,22.9,100.0
+Mymensingh,Netrakona,Atpara,Sukhari,Mangalsree,70.1,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,57.9,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,45.7,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,53.3,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Shasankandi,61.0,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kaupur,24.4,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,70.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,54.9,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,21.3,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,48.8,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Aina Debipur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,56.4,60.0
+Mymensingh,Netrakona,Atpara,Baniajan,Paharpur,62.5,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Utrail,16.8,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kachhutia,22.9,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Suterpur,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Pepulnari,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,51.8,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,61.0,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Ichhail,27.4,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Amanipur,222.5,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,27.4,125.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,22.9,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,96.0,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,29.0,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,71.6,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,13.4,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,74.7,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Bijoypur,36.6,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Charia,21.3,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Munshi Para,35.1,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,56.4,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Itakhola,76.2,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Ikratia,51.8,60.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bausha,82.3,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kakrakanda,48.8,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,61.0,50.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Sagrakhai,106.7,25.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,18.3,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,12.2,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,69.5,250.0
+Mymensingh,Netrakona,Atpara,Duaz,Ikratia,61.0,0.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Kalyanpur,106.7,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,73.2,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,10.7,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kerankhala,51.8,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,82.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,57.9,100.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila Para,67.1,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Kamtala,73.2,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,41.1,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Sabajpur,30.5,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,70.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,59.4,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,21.3,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,36.6,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,32.0,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,54.9,10.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Gopalasram Madhuakhal,62.5,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bhaurtala Nagua,73.2,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,35.1,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Abpasha,16.8,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,30.5,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,32.0,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,67.1,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,53.6,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreepur,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,18.3,250.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Aina Debipur,21.9,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,67.1,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,54.9,0.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Amanipur,91.4,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kaniail,50.3,100.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Balli,128.0,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Fechia,36.6,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,29.0,250.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Bara Batta,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Khalisa Para,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,59.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,114.3,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Sitarampur,61.0,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Gabhina,18.3,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,64.0,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Gourinagar,64.0,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,56.4,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,19.8,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Nawabpur,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,49.4,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Noagaon,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Jhanjail,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,30.5,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naliakanda,45.7,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Meladahar,27.4,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,91.4,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,48.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,67.1,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,65.5,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,76.2,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bausha,82.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Mau,91.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Balichanda,54.9,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,62.5,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Mugarhata,57.9,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Hararkandi Hatila,91.4,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,29.0,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,22.9,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Mymensingh Saitkahan,15.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,32.0,25.0
+Mymensingh,Netrakona,Atpara,Sukhari,Sonajor,51.8,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Chakua,70.1,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Kapashatia,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Gabhina,50.3,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,51.8,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,103.6,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Munshi Para,48.8,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Paschim Hatiar,65.5,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,61.0,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kaupur,22.9,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Nij Tenga,85.3,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Debasree,68.6,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,45.7,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,30.5,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,85.3,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,45.7,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Tilakpur,21.9,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,12.2,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Kaniail,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,62.5,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Mendipur,82.3,60.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,111.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dashal,29.0,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,76.2,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreerampur,61.0,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,11.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Haripur,65.5,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,48.8,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,21.3,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,19.8,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,259.1,45.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,21.9,25.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,50.3,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Sreepur,64.0,10.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,59.4,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Kismatara,22.9,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,53.3,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,39.6,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,52.4,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bhuligaon,18.3,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,56.4,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,68.6,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,21.3,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Paharpur,27.4,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Nanderchati,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bhernakanda,36.0,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,18.3,50.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,62.8,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,32.0,75.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,18.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Satashi,61.0,50.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Khaliajuri,137.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kachuadahar,51.8,90.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,86.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Saluakanda,67.1,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Kadim Paharpur,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,10.4,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Lohachura,45.7,100.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Indrapur,47.2,100.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Sirbir,54.9,0.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,22.9,60.0
+Mymensingh,Netrakona,Atpara,Teligati,Ramsid,22.9,50.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,68.6,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Bania Para,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Bandakatuari,33.5,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Dhansira Chhenadahar,42.7,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,21.3,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,36.6,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Loneswar,48.8,25.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Ghiduari,61.0,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,83.8,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,50.3,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Debthali,10.7,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,79.0,125.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,33.5,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Noapara,32.6,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,64.0,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,36.6,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Daulatpur Ramchandrap,25.9,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,25.9,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Barai Para,48.8,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Telachi,32.0,0.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bhabanipur (Debdwar),91.4,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,39.6,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,54.9,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,32.0,60.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,13.7,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,32.0,250.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Baraiund,44.2,100.0
+Mymensingh,Netrakona,Atpara,Duaz,Rabiarganti,64.0,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,21.3,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,30.5,100.0
+Mymensingh,Netrakona,Atpara,Sonai,Guatala,35.1,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,22.9,25.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Nazirpur Muradpur,73.2,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Ikratia,27.4,60.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Atla,33.5,25.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baheratali,13.7,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,22.9,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,54.9,125.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Pathra,85.3,60.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Gohaliakanda,83.8,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sutia Para,76.2,25.0
+Mymensingh,Netrakona,Atpara,Teligati,Bijoypur,57.9,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Noapara,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Karunia,30.5,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Sarmaisa,21.3,60.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,99.1,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,11.6,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Khala Para,27.4,125.0
+Mymensingh,Netrakona,Khaliajuri,Nagar,Tatia,70.1,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Charikhal,9.1,100.0
+Mymensingh,Netrakona,Atpara,Baniajan,Kamtala,22.9,90.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Lakshmipur,30.5,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,49.7,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Chasha Para Piajkandi,76.2,0.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila,68.6,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Makrail,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ketra,68.6,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nilakhali,36.6,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,50.3,50.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Saldigha,106.7,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,62.5,25.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Satgaon,67.1,60.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,32.0,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,64.0,50.0
+Mymensingh,Netrakona,Atpara,Sukhari,Debasree,76.2,0.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,35.1,50.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Chandrakona Mayanagar,27.4,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Bausha,82.3,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jalsuka,22.9,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Pokhalgaon,68.6,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,27.4,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Juktidahar,13.7,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kachhutia,61.0,60.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Jagannathpur,61.0,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Arapara,18.3,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,22.9,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Kanika,10.7,50.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,76.2,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakairgara,65.5,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,27.4,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Narayanpur,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,50.3,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,50.3,100.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Suterpur,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paschim Kona Para,54.9,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Chhayasi,54.9,10.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Krishnapur,91.4,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Roynagar,64.0,45.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Banagram,85.3,75.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,76.2,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dakshin Bhabanipur,18.3,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,29.0,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gabhauta,76.2,50.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Jadabpur,25.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,32.0,10.0
+Mymensingh,Netrakona,Atpara,Teligati,Amati,71.6,10.0
+Mymensingh,Netrakona,Atpara,Sukhari,Mangalsree,67.1,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Alampur,36.6,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Khila Para,30.5,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Bhadua,56.4,75.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Madhuakona,27.4,25.0
+Mymensingh,Netrakona,Atpara,Baniajan,Mobarakpur,24.4,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Bakaljora,57.9,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Goakandia,30.5,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,54.9,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,51.8,50.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Naya Para,59.4,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kaupur,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Char Kuriadahar,57.9,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Maij Para,48.8,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Garaund,39.6,100.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,76.2,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Kamalasram,64.0,50.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Kachuadahar,57.9,90.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,50.3,100.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Panchkahania,10.7,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,76.2,10.0
+Mymensingh,Netrakona,Khaliajuri,Khaliajuri,Chandpur,106.7,25.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Kaupur,70.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Gandaber,70.1,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Banagram,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Baramari,33.5,100.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Nagergati,56.4,100.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Asadpur,106.7,25.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreeram Pasha,304.8,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Sreeramkhila,54.9,25.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Dakshin Lakshmipur,76.2,50.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Nurpur Boali,106.7,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Lohachura,36.0,100.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Kharas,21.3,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Panchgaj,76.2,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Mangalsidha,36.6,250.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Gojirkona,61.0,10.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Baraikandi,12.2,0.0
+Mymensingh,Netrakona,Durgapur,Kullagora,Naljora,13.7,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,24.4,50.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Ramnagar,56.4,50.0
+Mymensingh,Netrakona,Atpara,Teligati,Bijoypur,67.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,18.3,25.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,36.6,10.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Paik Para,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Charia Maskanda,25.9,10.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon,15.2,60.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Lepsia,114.3,60.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Dakshinail,9.1,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Bhartoshi,15.2,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Farang Para,13.7,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Dashal,10.7,0.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Chhota Katuri,59.4,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dubrajpur,24.4,0.0
+Mymensingh,Netrakona,Khaliajuri,Mendipur,Ichhapur,30.5,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rameswarpur,18.3,60.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,54.9,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,76.2,10.0
+Mymensingh,Netrakona,Atpara,Sarmaisa,Rupchanpur,29.0,125.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Hariaund,21.3,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Kharas,27.4,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,9.1,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Gridan Tenga,54.9,60.0
+Mymensingh,Netrakona,Khaliajuri,Chakua,Ranichapur,64.0,250.0
+Mymensingh,Netrakona,Atpara,Sukhari,Dakshin Sukhari,97.5,100.0
+Mymensingh,Netrakona,Atpara,Teligati,Palgaon,61.0,50.0
+Mymensingh,Netrakona,Atpara,Loneshwar,Deogaon Gobindapur,64.0,10.0
+Mymensingh,Netrakona,Atpara,Baniajan,Itakhola,18.9,50.0
+Mymensingh,Netrakona,Atpara,Sonai,Phulbaria,85.3,0.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Bhabanipur,9.1,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur,Menkifanda,10.7,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Sreepur Charigatia,67.1,0.0
+Mymensingh,Netrakona,Durgapur,Kakairgara,Kakuriakanda,70.7,25.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,15.2,10.0
+Mymensingh,Netrakona,Khaliajuri,Krishnapur,Nazirpur Muradpur,85.3,10.0
+Mymensingh,Netrakona,Atpara,Duaz,Kailang,57.9,0.0
+Mymensingh,Netrakona,Atpara,Baniajan,Baniajan,53.3,250.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,13.7,10.0
+Mymensingh,Netrakona,Durgapur,Durgapur Paurashava,Durgapur,33.5,10.0
+Mymensingh,Netrakona,Durgapur,Gaokandia,Dakshin Sankarpur,59.4,50.0
+Mymensingh,Netrakona,Durgapur,Birisiri,Bagua,21.3,0.0
+Mymensingh,Netrakona,Atpara,Teligati,Swalpa Mangalsidha,57.9,25.0
+Mymensingh,Netrakona,Durgapur,Chandigarh,Sakhaia Chandigar,27.4,0.0
+Mymensingh,Netrakona,Atpara,Duaz,Sabhar Para,57.9,0.0
+Mymensingh,Netrakona,Atpara,Sonai,Mallikpur Sonai,22.9,100.0
+Mymensingh,Netrakona,Durgapur,Bakaljora,Charigaon Para,62.5,25.0

@@ -1,0 +1,367 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Barisal,Barguna,Amtali,Chowra,Chandra,287.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bibichini,Phultala,275.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Ayla Patakata,Porakata,303.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Bhora,268.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi,Uttar Bholanathpur,273.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Barguna,Banshbania,285.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bibichini,Desantarkati,313.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,288.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Kalagachhia,284.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Fakirkhali,287.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Ayla Patakata,Itabaria,283.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Arpangashia,Arpangashia,282.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Adabaria,284.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Ayla Patakata,Itabaria,276.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Dhalua,Dalbhanga,283.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Chandra,286.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Pancha Koralia,Chandkhali,285.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Ramna,Ghopkhali,271.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Nishanbaria,Bara Nishanbaria Chak,304.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Ramna,Kholpatua,275.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Haridrabaria,284.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,280.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi,Ranipur,270.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Ramna,Ramna,275.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Khajurtala,287.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Nishanbaria,Chhota Nishanbaria Chak,286.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Gera Mardan,267.0,0.5,safe,safe
+Barisal,Barguna,Betagi,Mokamia,Kismat Chhota Mokamia,265.0,1.6,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Chhota Gaurichanna,268.0,64.4,polluted,safe
+Barisal,Barguna,Betagi,Hosnabad,Hosnabad,273.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Hosnabad,Hosnabad,278.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Haldia,283.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Gudighata,269.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,309.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Badarkhali,276.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Baoalkar,276.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Madartali,274.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Kalmegha,274.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,281.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Dakshin Taktabunia,294.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,284.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Nijamtali,272.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,280.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Chhanbania,277.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,284.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi,Ranipur,270.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Dakshin Kalikabari,270.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Mokamia,Kaialghata,281.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Bara Gaurichana,285.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Dhalua,Khajura,275.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Khajurtala,286.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Amtali,271.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Lemua (Part),281.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Khekuani,277.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Burirkhal,275.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Mokamia,Machhuakhali,264.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,288.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Nishanbaria,Bara Nishanbaria Chak,252.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,277.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bibichini,Desantarkati,264.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Chalabhanga,269.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kanthaltali,Kalibari (Part),281.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Karaibaria,Jharakhali,288.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Lemua (Part),279.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Dakshin Taktabunia,279.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Amtali,277.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Arpangashia,Tarikata,289.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Mokamia,Karuna Joar,266.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Ayla Patakata,Itabaria,290.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Gera Mardan,271.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Bamna,276.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Atharagashia,Atharagashia,277.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Nishanbaria,Chhota Nishanbaria Chak,307.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Haridrabaria,284.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Amtali,271.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Mokamia,Karuna,270.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,285.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,289.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,M.Baliatali,Orbania,278.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,276.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,266.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Kakchira,272.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,241.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Bain Chutki,285.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bukabunia,Purba Chalitabunia,273.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Kanthalia,289.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Bara Gaurichana,281.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Hosnabad,Hosnabad,275.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,183.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,266.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,277.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Napitkhali,286.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Kalmegha,270.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,305.0,0.89,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Bain Chutki,274.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Badarkhali,326.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Sonakhali,270.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Kaunia,320.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Kukua,Dakshin Chunakhali,278.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Ghutabachha,277.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Pancha Koralia,Chandkhali,338.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,289.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Charakhali,261.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,314.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Patakata,300.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Burirkhal,280.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Sonatala,281.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Phuljhuri,283.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,290.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Gulishakhali,286.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Khekuani,273.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Kalmegha,276.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Dakshin Taktabunia,281.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,272.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Arpangashia,Ghopkhali,290.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Lemua (Part),277.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Khajurtala,273.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Madartali,282.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Ramna,Kholpatua,274.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Lemua (Part),272.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Sarishamuri,276.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Mokamia,Jhingabaria,287.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Char Charak Gachhia,277.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bibichini,Phultala,276.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,278.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Gudighata,273.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Nachna Para,286.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Hosnabad,Hosnabad,270.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Nishanbaria,Bara Nishanbaria Chak,246.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Kumrakhali,279.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Chhota Gaurichanna,278.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Bain Chutki,279.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Balaibania,271.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Kalagachhia,281.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Sonauta,279.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Gera Mardan,259.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Hosnabad,Meher Gazi,267.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Barabagi,Barabagi,301.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Amtali,282.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Arpangashia,Ghopkhali,295.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Kalagachhia,282.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Char Charak Gachhia,284.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Kukua,Paschim Chunakhali,268.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Uttar Raogha,279.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Tulsibaria,277.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Dakshin Kalikabari,275.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Haridrabaria,273.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Sonatala,294.0,0.01,safe,safe
+Barisal,Barguna,Amtali,Chowra,Ghotkhali,280.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,289.0,6.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Tepura,298.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Khajurtala,288.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bukabunia,Bara Jadabpur,269.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Hosnabad,Anar Jalisa,313.0,0.03,safe,safe
+Barisal,Barguna,Amtali,Arpangashia,Tarikata,333.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Khekuani,276.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Burirkhal,277.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bukabunia,Joynagar,271.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Chhota Labangola,288.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Paurashava,Patharghata,12.0,11.0,polluted,safe
+Barisal,Barguna,Amtali,Chowra,Chandra,291.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Purba Chila,280.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Kalmegha,310.0,0.5,safe,safe
+Barisal,Barguna,Amtali,Haldia,Dakshin Taktabunia,280.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Atharagashia,Gazipur,278.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,M.Baliatali,Rokshachandi,282.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Baoalkar,282.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Barguna,Helibania,281.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Phuljhuri,275.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Tulsibaria,282.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,286.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bibichini,Phultala,273.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,292.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Barguna,Helibania,287.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Ghutabachha,274.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,271.0,0.0,safe,polluted
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,292.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Bhora,265.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Dhushkhali,272.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Tentulbaria,276.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Sarishamuri,267.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Naltona,Naltona,288.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,271.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Burirkhal,278.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Kakchira,268.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Kukua,Krishnanagar,280.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,284.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Barguna,Potkakhali,279.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Patakata,280.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Pujakhola,288.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Bara Patharghata,285.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Atharagashia,Sakharia,273.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,270.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Nachna Para,283.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Balaibania,269.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Nishanbaria,Bara Nishanbaria Chak,307.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Pancha Koralia,Pancha Koralia,282.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Ramna,Balaibunia,280.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,288.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,276.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Ghotkhali,282.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Ayla Patakata,Porakata,284.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,291.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Shafipur,263.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Keorabunia,288.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Uttar Taktabunia,286.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Lemua (Part),280.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Chhanbania,268.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Khajurtala,286.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Badarkhali,321.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Keorabunia,283.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Chhota Gaurichanna,277.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bibichini,Gabua Putiakhali,268.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Kalagachhia,268.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Chhota Gaurichanna,281.0,0.01,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Bhora,271.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Purba Chila,271.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Bara Gaurichana,276.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Kumrakhali,282.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Gudighata,280.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Bara Patharghata,278.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Chhota Gaurichanna,278.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Burirkhal,272.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Ayla Patakata,Porakata,283.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Chhota Labangola,284.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Atharagashia,Sonakhali,254.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Ghotkhali,288.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Karaibaria,Gendamara,284.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Barguna,Potkakhali,275.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Chalabhanga,280.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Tentulbaria,281.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kanthaltali,Kalibari (Part),275.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Atharagashia,Gazipur,285.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Karaibaria,Karaibaria,283.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Sonauta,277.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Tulsibaria,281.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Baoalkar,279.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Hosnabad,Dakshin Hosnabad,281.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,314.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Napitkhali,304.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,285.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,284.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Nilganj,283.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Atharagashia,Sonakhali,282.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Chhanbania,285.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Dhalua,Dalbhanga,293.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Kaunia,275.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Arpangashia,Tarikata,312.0,1.9,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,312.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Badnikhali,261.0,0.5,safe,safe
+Barisal,Barguna,Betagi,Kazirabad,Kazirabad,268.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Ramna,Ghopkhali,277.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Atharagashia,Sakharia,284.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Pancha Koralia,Pancha Koralia,296.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bukabunia,Latabaria,304.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Burirkhal,281.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chhota Bagi,Gabtali,294.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Ramna,Balaibunia,276.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Gera Mardan,262.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Sarishamuri,272.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Burirkhal,275.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Mokamia,Hat Mokamia,303.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Chowra,283.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,275.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Chowra,280.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Kaunia,262.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,280.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Napitkhali,287.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Bara Gaurichana,290.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi,Khantakata Lakshmipur,279.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Gojkhali,326.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Dhalua,Dhalua,282.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,284.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Adabaria,276.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chhota Bagi,Gabtali,296.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,286.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Arpangashia,Ghopkhali,290.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Chowra,279.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Karaibaria,Gendamara,282.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,282.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Bhora,270.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Gudighata,279.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Betagi,316.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Chhanbania,269.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Haridrabaria,277.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bukabunia,Bara Jadabpur,263.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi,Khantakata Lakshmipur,260.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Barabagi,Barabagi,297.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bukabunia,Bukabunia,271.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bukabunia,Bukabunia,260.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Tentulbaria,282.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Chhanbania,285.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Dhalua,Dalbhanga,280.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Kazirabad,Kazirabad,275.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Haldia,277.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Chhanbania,275.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,288.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Bhora,278.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Gilatali,279.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Dhalua,Khajura,279.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi,Keorabania,263.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,M.Baliatali,Nimtali Azizabad,278.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Lemua (Part),278.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Haridrabaria,283.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Nishanbaria,Bara Nishanbaria Chak,297.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Char Charak Gachhia,287.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Dauatala,273.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,M.Baliatali,Rokshachandi,352.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Pancha Koralia,Pancha Koralia,285.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chhota Bagi,Gabtali,294.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Sonakhali,266.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Ghotkhali,282.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Badarkhali,281.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Amtali,291.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kakchira,Rupdon,175.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,277.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Bara Gaurichana,283.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Kalagachhia,289.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,291.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Gulisakhali,Kalagachhia,291.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi Paurashava,Basanda Bholanathpur,260.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Haldia,290.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Badarkhali,Gulishakhali,278.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Bura Mazumdar,274.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Pancha Koralia,Pancha Koralia,286.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Haridrabaria,279.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Haridrabaria,286.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Kalmegha,267.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Bara Labangola,278.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Dhalua,Khajura,286.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Kulair Char,288.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Chhota Nachna Para,291.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Kalmegha,Chhanbania,271.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Hosnabad,Dakshin Hosnabad,272.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Sarikkhali,Sarikkhali,281.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Phuljhury,Chhota Gaurichanna,281.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Ramna,Golaghata Karaitala,275.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Dakshin Kalikabari,278.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Dakshin Taktabunia,288.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Napitkhali,285.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi,Keorabania,255.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Kalikabari,276.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Keorabunia,Haridrabaria,281.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Dakshin Karuna,309.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Chandra,282.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Sarishamuri,323.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Sonakhali,260.0,0.0,safe,safe
+Barisal,Barguna,Patharghata,Raihanpur,Raihanpur,288.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Patakata,278.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Uttar Tiakhali,277.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Gaurichanna,Khajurtala,287.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Barabagi,Barabagi,293.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chowra,Chowra,281.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Atharagashia,Sakharia,274.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Chhota Bagi,Char Para,290.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Bamna,Amtali,267.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Chalabhanga,285.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Haldia,Kulair Char,300.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Betagi,Keorabania,308.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Nishanbaria,Chhota Nishanbaria Chak,299.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Bura Mazumdar,Badnikhali,273.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Gabtali,275.0,0.0,safe,safe
+Barisal,Barguna,Barguna Sadar,Burir Char,Bara Labangola,287.0,0.0,safe,safe
+Barisal,Barguna,Amtali,Amtali,Nachna Para,284.0,0.0,safe,safe
+Barisal,Barguna,Bamna,Dauatala,Bhaijora,274.0,0.0,safe,safe
+Barisal,Barguna,Betagi,Sarishamuri,Bhora,270.0,0.0,safe,safe

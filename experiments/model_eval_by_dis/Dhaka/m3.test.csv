@@ -1,0 +1,16 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Dhaka,Dhaka,Keraniganj,Taranagar,Chhota Monoharia,76.0,0.5,safe,safe
+Dhaka,Dhaka,Nawabganj,Barrah,Dakshin Chaukighata,56.0,262.0,safe,polluted
+Dhaka,Dhaka,Nawabganj,Churain,Bara Gobindapur,172.0,10.0,safe,safe
+Dhaka,Dhaka,Nawabganj,Sholla,Singara,155.0,10.0,safe,safe
+Dhaka,Dhaka,Keraniganj,Kalatia,Fatenagar,25.0,43.3,safe,polluted
+Dhaka,Dhaka,Savar,Banagram,Baliarpur,43.0,0.5,safe,safe
+Dhaka,Dhaka,Nawabganj,Agla,Purbapara,201.0,4.0,safe,safe
+Dhaka,Dhaka,Dhamrai,Nannar,Nannar,38.0,107.0,safe,polluted
+Dhaka,Dhaka,Nawabganj,Barrah,Bara Bahra,168.0,0.0,safe,safe
+Dhaka,Dhaka,Dhamrai,Sombhag,Depasai,71.0,3.6,safe,safe
+Dhaka,Dhaka,Dhamrai,Sanora,Mahishasi,55.0,29.9,safe,polluted
+Dhaka,Dhaka,Dhamrai,Kushura,Nabagram,53.0,5.9,safe,safe
+Dhaka,Dhaka,Dohar,Nayabari,Dakshin Bahra,65.0,11.7,safe,polluted
+Dhaka,Dhaka,Keraniganj,Ruhitpur,Mugar Char,85.0,0.5,safe,safe
+Dhaka,Dhaka,Nawabganj,Jantrail,Chhota Gobindapur,197.0,2.0,safe,safe

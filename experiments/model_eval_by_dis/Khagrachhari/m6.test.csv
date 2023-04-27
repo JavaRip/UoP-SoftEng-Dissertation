@@ -1,0 +1,4 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Chittagong,Khagrachhari,Matiranga,Beimar,Guimara,272.0,0.0,safe,safe
+Chittagong,Khagrachhari,Mahalchhari,Maschhari,Lamuchhari,272.0,0.0,safe,safe
+Chittagong,Khagrachhari,Dighinala,Dighinala,Dighinala,155.0,0.5,safe,safe

@@ -1,0 +1,26 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rajshahi,Nawabganj,Bholahat,Jambaria,Chhota Jambaria,39.0,6.0,safe,safe
+Rajshahi,Nawabganj,Gomastapur,Boalia,Alampur,35.0,5.6,safe,safe
+Rajshahi,Nawabganj,Shibganj,Kansat,Shibnagar,36.0,3.9,safe,polluted
+Rajshahi,Nawabganj,Nachole,Nizampur,Bakail,45.0,6.0,safe,safe
+Rajshahi,Nawabganj,Nawabganj Sadar,Jhilim,Jhilim,43.0,6.0,safe,polluted
+Rajshahi,Nawabganj,Nawabganj Sadar,Shahjahanpur,Durlabhpur,21.0,6.0,safe,safe
+Rajshahi,Nawabganj,Nawabganj Sadar,Jhilim,Atahar,35.0,6.0,safe,polluted
+Rajshahi,Nawabganj,Gomastapur,Parbatipur,Parbatipur,49.0,6.0,safe,safe
+Rajshahi,Nawabganj,Shibganj,Manakosa,Chauka,42.0,63.9,polluted,polluted
+Rajshahi,Nawabganj,Nawabganj Sadar,Gobratala,Nadhai Krishnapur,29.0,6.0,safe,safe
+Rajshahi,Nawabganj,Shibganj,Naya Naobhanga,Pardiar,21.0,212.0,polluted,polluted
+Rajshahi,Nawabganj,Shibganj,Binodpur,Binodpur,46.0,40.5,polluted,safe
+Rajshahi,Nawabganj,Nawabganj Sadar,Gobratala,Amarak,38.0,6.0,safe,safe
+Rajshahi,Nawabganj,Shibganj,Binodpur,Kiranganj,34.0,5.5,safe,safe
+Rajshahi,Nawabganj,Nawabganj Sadar,Char Anupnagar,Anupnagar (Part-1),4.0,8.0,safe,safe
+Rajshahi,Nawabganj,Shibganj,Naya Naobhanga,Raghnathpur,30.0,0.5,safe,polluted
+Rajshahi,Nawabganj,Nawabganj Sadar,Char Anupnagar,Anupnagar (Part-1),23.0,6.0,safe,safe
+Rajshahi,Nawabganj,Nawabganj Sadar,Gobratala,Amarak,38.0,6.0,safe,polluted
+Rajshahi,Nawabganj,Shibganj,Kansat,Namo Biswhanathpur,38.0,8.9,safe,safe
+Rajshahi,Nawabganj,Shibganj,Shyampur,Sadashibpur,15.0,313.0,polluted,safe
+Rajshahi,Nawabganj,Nawabganj Sadar,Sundarpur,Kalinagar,34.0,8.0,safe,safe
+Rajshahi,Nawabganj,Nawabganj Sadar,Sundarpur,Kalinagar,34.0,8.0,safe,polluted
+Rajshahi,Nawabganj,Nawabganj Sadar,Sundarpur,Bishwanathpur,19.0,21.0,polluted,polluted
+Rajshahi,Nawabganj,Nachole,Fatehpur,Pukhuria Chandi,42.0,0.5,safe,safe
+Rajshahi,Nawabganj,Nawabganj Sadar,Jhilim,Jolahar,43.0,6.0,safe,safe

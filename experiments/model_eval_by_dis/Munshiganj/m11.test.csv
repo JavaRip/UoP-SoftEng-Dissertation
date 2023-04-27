@@ -1,0 +1,1984 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Gorakanda,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,68.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Gazaria,Bhaber Char,Satkahania,274.0,1.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,73.2,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,38.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Paschim Burdia,76.2,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,69.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Marail,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,64.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,66.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,228.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,76.2,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,67.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,83.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,75.0,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,57.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,78.0,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,35.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,41.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,51.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,91.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,67.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,64.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,36.6,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,30.5,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,57.9,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,33.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,9.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,79.2,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,27.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,45.7,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,27.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Gorakanda,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Apar,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bhogdia,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,73.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,79.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,38.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,32.0,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,71.6,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,56.7,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,39.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,41.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,58.5,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,70.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,18.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Chhatrish,44.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,24.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,228.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,68.6,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,93.0,60.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,213.4,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,61.0,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,51.8,125.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,64.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,53.6,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,42.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,56.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,68.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,57.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,18.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,61.0,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,42.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,47.2,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,27.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,61.0,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,73.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,42.7,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,51.8,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,57.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,67.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,54.9,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,78.6,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Sundisar,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,49.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,64.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Kazi Para,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Paikara,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,41.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,41.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,44.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,32.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Pingnali,54.9,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,32.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,59.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,68.6,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,39.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Jhautia,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,36.6,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,79.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,35.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,32.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,274.3,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Pingnali,53.3,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,58.5,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Hugli,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,47.5,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,76.2,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,61.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,228.6,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,67.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bhogdia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kazirgaon,47.5,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,55.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,259.1,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,21.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,37.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,36.6,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,53.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,34.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,45.7,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,49.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,27.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,64.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,56.4,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Baniagaon,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,43.3,90.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Bejgaon,Baniagaon,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,41.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,49.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,30.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,243.8,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,39.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,30.5,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,39.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,61.0,75.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,40.2,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,68.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,78.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,71.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,50.3,1500.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,91.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,91.4,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,36.6,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,38.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,91.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,67.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,42.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,65.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,76.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,35.1,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,54.9,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,79.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,24.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,75.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,246.9,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,45.7,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Brahmangaon,18.3,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,51.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,78.0,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,65.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,72.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,51.8,175.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,21.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,36.6,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,50.3,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,49.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,30.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,49.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,30.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,41.1,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,32.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,58.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,40.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,51.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,73.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,259.1,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Sundisar,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Pingnali,38.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,52.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,76.2,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kazirgaon,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,55.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,42.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,87.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,46.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,198.1,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,51.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Brahmangaon,12.8,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,47.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,83.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,69.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,51.8,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Jhautia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Jangalia,41.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Gorakanda,27.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,76.2,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,45.7,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,27.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,69.5,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Sundisar,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,39.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,20.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,41.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,21.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,272.8,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,32.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,42.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,228.6,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,198.1,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,79.2,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,51.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,41.1,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,76.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Hugli,45.7,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,18.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,73.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,9.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,47.5,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,70.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,47.2,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,93.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,48.8,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,35.1,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Baniagaon,243.8,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Jangalia,41.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,137.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,45.7,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,71.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,65.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,73.2,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Jhautia,56.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,36.6,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,76.2,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,30.5,600.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,18.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,65.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,59.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,68.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bhogdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,17.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,43.0,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,61.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,68.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,24.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,43.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bhogdia,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,44.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,71.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,65.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,36.6,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,73.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,76.2,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,65.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Marail,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Tongibari,Panchgaon,Mandra,20.0,212.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,38.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,83.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,137.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,32.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,74.7,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,77.7,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,33.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,64.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,68.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Apar,36.6,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,47.5,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,69.5,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,76.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,45.7,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,24.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,52.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,42.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Hugli,45.7,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Pingnali,30.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Sundisar,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Paschim Burdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Paschim Burdia,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,9.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Baniagaon,245.4,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,45.7,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,21.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,65.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Rautgaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Jangalia,83.8,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,232.0,3.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,67.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,38.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,39.6,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,304.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,50.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,82.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,50.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,78.0,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,70.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,71.6,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,57.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,82.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,49.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,47.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,40.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,35.1,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,87.2,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,365.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,21.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,73.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,27.4,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,41.1,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,51.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,24.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,62.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Jangalia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,61.0,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Paikara,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,41.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,61.0,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,61.0,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Pingnali,228.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Maliranka,85.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,42.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,243.8,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,67.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,61.0,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Subharia,67.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,59.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,71.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,44.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,70.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,24.4,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,30.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,50.3,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,15.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,19.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Silgaon,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,32.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,66.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,56.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,243.8,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,62.5,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,56.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,219.5,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,63.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,49.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,59.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,79.9,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,49.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,39.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Sundisar,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,35.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kazirgaon,38.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,18.3,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,39.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,61.0,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,91.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,49.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,272.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,52.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,53.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,25.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Gazaria,Baluakandi,Ramnatherkandi,21.0,312.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,91.4,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,91.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,59.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,82.3,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,54.9,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,33.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,76.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,49.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,30.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Maliranka,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,48.8,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,54.9,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,67.1,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,64.0,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,121.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,36.6,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,43.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,68.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,65.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,73.2,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,42.7,90.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,71.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,36.6,600.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,52.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,61.0,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,30.5,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,62.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,24.4,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,80.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,53.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,18.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,27.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,35.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,30.5,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,86.9,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,67.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,79.9,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,56.7,600.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Sreenagar,Sholaghar,Keutkhali,56.0,130.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,57.9,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,61.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,47.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,82.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,24.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,36.6,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,70.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,76.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,32.0,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,36.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,91.4,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,73.8,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,79.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Sundisar,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,69.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,54.9,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,39.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,228.6,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,50.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,88.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,54.9,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,36.6,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,61.0,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,41.1,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,34.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,65.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,33.5,300.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,57.9,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,79.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,54.9,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Marail,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,33.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,24.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,54.9,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,52.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,46.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Malni,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,61.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Maliranka,52.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,30.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,44.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,54.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,71.6,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,50.3,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,60.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,137.2,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,46.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,47.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,53.3,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,65.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,62.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,68.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,62.5,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,59.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,41.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,42.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,52.4,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,30.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,67.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,67.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,39.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,44.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Chhatrish,52.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,48.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,30.5,1700.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,21.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,44.2,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,137.2,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,102.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Malni,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,11.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Rautgaon,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,67.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,67.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,82.3,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Chhatrish,53.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,274.3,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,65.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Hugli,41.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Hugli,38.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Gorakanda,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Apar,9.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,43.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,42.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,30.5,1700.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,55.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,79.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,76.2,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,18.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,61.0,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,91.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,67.1,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,48.8,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,43.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,57.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,83.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,51.8,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,57.9,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,271.3,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,274.3,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,97.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Gazaria,Hossaindi,Kandargaon (Sakirgaon,268.0,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,55.2,60.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Gaodia,Paschim Burdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,32.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,21.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,27.4,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,55.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,53.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,75.3,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,243.8,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Kazi Para,41.5,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,76.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,80.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Jhautia,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,41.1,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,44.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Baniagaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,24.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,64.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,50.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Jangalia,38.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,42.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Kazi Para,41.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,54.9,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,53.3,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Silgaon,78.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,600.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,36.6,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,33.5,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,25.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,82.3,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,44.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,49.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,198.1,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,83.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,259.1,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,41.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,185.9,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,35.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,61.0,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,52.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,64.0,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Maliranka,49.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,53.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,56.7,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,51.8,75.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,42.7,125.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,253.0,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,79.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,33.5,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,78.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,76.2,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,45.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,52.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,53.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,62.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,32.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,53.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,56.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Maliranka,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Jangalia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,58.5,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,27.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,274.3,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kazirgaon,243.8,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,45.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,44.5,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Jangalia,41.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Maliranka,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,60.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,213.4,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,62.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,65.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,76.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,25.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Apar,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,70.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,87.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,53.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,198.1,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,46.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,39.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,51.8,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,44.2,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,66.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,48.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,55.5,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,38.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,39.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Malni,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Sundisar,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,53.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,68.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Serajdikhan,Malkhanagar,Fursail,77.0,253.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,27.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,58.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,35.1,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,67.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,81.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Tongibari,Arial,Kurmira,52.0,216.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Gazaria,Tenger Char,Nijgaon,244.0,1.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kazirgaon,38.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kazirgaon,38.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Jhautia,50.3,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,38.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,228.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,51.8,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,218.0,3.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,62.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,56.7,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,51.8,500.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,47.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Paikara,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,228.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,73.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,21.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,85.3,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,33.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,73.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,49.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,79.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,45.7,125.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,48.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Berikhola,47.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,76.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,83.8,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,85.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,35.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,41.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,47.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,75.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,76.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,25.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Maliranka,40.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,40.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,47.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,274.3,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Malni,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,50.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,67.1,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Kazi Para,44.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,38.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.6,125.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,30.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,33.5,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,49.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,65.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,53.3,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,76.2,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,298.7,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,56.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,61.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,79.2,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.8,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,47.5,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,76.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,54.9,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,70.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,67.1,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,39.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,44.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,67.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,70.7,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,47.5,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,48.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,213.4,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,62.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,73.2,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kurigaon,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,27.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,18.3,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,68.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,61.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Subharia,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,44.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,32.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Berikhola,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khetar Para,47.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Berikhola,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,51.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,48.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,35.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Maijgaon,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,18.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Subharia,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,25.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,80.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,39.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,33.5,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,51.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Phalpakair,41.1,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,75.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,79.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Gorakanda,36.6,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,66.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,47.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,55.5,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,70.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,60.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,18.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,46.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,44.2,300.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,45.7,175.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,67.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,68.6,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Hugli,75.0,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,56.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Dakshin Haldia,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,49.4,90.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,52.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Haridia,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,73.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,65.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,61.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Naopara,30.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,78.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,51.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Marail,167.6,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,41.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,35.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,137.2,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Atigaon,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,68.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,91.4,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,41.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,41.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,83.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,59.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Jhautia,21.3,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,64.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,41.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Jhautia,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,73.2,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.3,60.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,13.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,41.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,56.4,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kazirgaon,47.5,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Chhatrish,57.0,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Paschim Burdia,91.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,47.2,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,87.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,36.6,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,52.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Maliranka,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dhararhat,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kazirgaon,41.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Ranigaon,213.4,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,87.2,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,67.1,45.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,58.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Basira,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,54.9,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,67.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,42.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,33.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,71.3,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,50.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Ghasbhog,27.4,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,24.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,70.1,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Jhautia,238.0,2.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,51.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,70.1,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,30.5,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Mitusar,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bara Fulkuchi,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Pakhidia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,59.4,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,76.2,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Jangalia,36.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,68.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Gorakanda,41.1,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,47.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Uttar Haldia,59.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,70.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Paschim Burdia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kanaksar,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Malni,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,79.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Pingnali,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Paikara,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,79.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,243.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,250.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,56.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,51.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Kalikata,79.2,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,24.4,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Malni,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,61.0,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,73.2,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bharakar,25.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,61.0,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Satgharia,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,73.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Dakshin Medini Mandal,73.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Wari,85.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,51.8,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,70.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Dhair Para,34.1,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,67.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,57.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,80.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Serajdikhan,Balur Char,Char Baktabali,215.0,0.5,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,54.9,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Sinherhati,72.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khala Para,76.2,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,48.8,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Bansemanta,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Dhuligaon,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,54.9,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,76.2,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Pingnali,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Paikara,46.0,274.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,61.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bhogdia,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,64.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Kalurgaon,36.6,25.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Paikara,48.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,56.7,125.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Baultali,Purba Naopara,50.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Raskati,24.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,53.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gholtali,61.0,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Apar,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,400.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,54.9,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,85.3,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,61.0,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Kararbagh,36.6,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Dhitpur,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,45.7,125.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,39.6,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Dahari,42.7,600.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,64.0,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha Mandra,53.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,47.5,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,45.7,100.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Baultali,Dakshin Charigaon,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,48.8,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,47.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kandi Para,52.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,76.2,60.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,67.1,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Berikhola,36.6,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,76.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Baultali,76.2,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,48.5,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Pingnali,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,73.2,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,39.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nainakanda,51.8,100.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Kazir Pagla,69.5,50.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Kahetara,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,30.5,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Bansdia,45.7,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,39.3,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Kharia,213.4,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,45.7,300.0,polluted,safe
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,54.9,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Shimulia,53.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Surpara,49.1,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Masadgaon,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Bankaij,83.8,0.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,36.6,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Palgaon,48.8,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,243.8,10.0,safe,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Mamud Patti,56.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Baultali,Paysa,45.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Bejgaon,Bara Bejgaon,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Gaodia,45.7,200.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Lohajang Teotia,Bara Naopara,54.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kumarbhog,Uttar Kumarbhog,45.7,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Jasaldia,57.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kanaksar,Nagerhat,36.6,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Khidir Para,50.3,90.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Kalma,Kalma,42.7,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Khidir Para,Malni,52.4,300.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Haldia,Mauchha,68.9,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Gaodia,Purba Burdia,51.8,125.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,48.8,60.0,polluted,polluted
+Dhaka,Munshiganj,Lohajang,Medini Mandal,Uttar Medini Mandal,53.3,60.0,polluted,polluted

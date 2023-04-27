@@ -1,0 +1,16 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rangpur,Kurigram,Kurigram Sadar,Belgachha,Nilkantha,21.0,10.9,polluted,polluted
+Rangpur,Kurigram,Phulbari,Shimulbari,Taluk Shimulbari,13.0,0.5,safe,polluted
+Rangpur,Kurigram,Raumari,Jadur Char,Komarbhangi,31.0,4.7,safe,polluted
+Rangpur,Kurigram,Nageshwari,Paurashava,Paschim Nageshwari,13.0,0.5,safe,polluted
+Rangpur,Kurigram,Char Rajibpur,Mohanganj,Naya Char,31.0,37.4,polluted,polluted
+Rangpur,Kurigram,Char Rajibpur,Kodailkati,Sajai,13.0,0.7,safe,polluted
+Rangpur,Kurigram,Rajarhat,Chhinai,Garukrishna,18.0,5.3,safe,polluted
+Rangpur,Kurigram,Ulipur,Daldalia,Uttar Daldalia,14.0,5.7,safe,polluted
+Rangpur,Kurigram,Ulipur,Tabakpur,Bamna Chhara,55.0,14.3,polluted,polluted
+Rangpur,Kurigram,Rajarhat,Omar Majid,Taluk Subal,14.0,420.0,polluted,polluted
+Rangpur,Kurigram,Bhurungamari,Pathardubi,Phulkumar,23.0,10.3,polluted,polluted
+Rangpur,Kurigram,Char Rajibpur,Kodailkati,Sajai,30.0,31.2,polluted,polluted
+Rangpur,Kurigram,Char Rajibpur,Char Rajibpur,Char Rajibpur,19.0,1.1,safe,polluted
+Rangpur,Kurigram,Phulbari,Kashipur,Azoatari,15.0,2.5,safe,polluted
+Rangpur,Kurigram,Chilmari,Thanahat,Bajra Tabakpur,23.0,13.6,polluted,polluted

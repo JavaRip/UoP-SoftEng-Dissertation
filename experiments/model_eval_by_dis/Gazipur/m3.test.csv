@@ -1,0 +1,9 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Dhaka,Gazipur,Kaliganj,Jamalpur,Jamalpur,64.0,2.1,safe,safe
+Dhaka,Gazipur,Kapasia,Karihata,Pakiaba,48.0,0.5,safe,safe
+Dhaka,Gazipur,Sreepur,Gazipur,Gazipur,59.0,8.5,safe,safe
+Dhaka,Gazipur,Kaliganj,Kaliganj,Baligaon,49.0,0.5,safe,safe
+Dhaka,Gazipur,Sreepur,Gazipur,Banshbari,46.0,0.5,safe,safe
+Dhaka,Gazipur,Gazipur Sadar,Basan,Chandna (Part),66.0,0.5,safe,safe
+Dhaka,Gazipur,Sreepur,Rajabari,Rajabari,53.0,0.5,safe,safe
+Dhaka,Gazipur,Gazipur Sadar,Mirzapur,Painsail,49.0,0.5,safe,safe

@@ -1,0 +1,291 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Khulna,Khulna,Phultala,Damodar,Damodar,262.0,0.36,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Harintani,18.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Kailashganj-2,13.7,0.0,safe,safe
+Khulna,Khulna,Dighalia,Gazirhat,Kaibartaganti,238.0,20.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,33.5,250.0,polluted,polluted
+Khulna,Khulna,Dacope,Kailasganj,Dhopadihi,36.6,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,19.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,24.4,10.0,safe,polluted
+Khulna,Khulna,Dighalia,Dighalia,Dighalia,265.0,3.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,12.2,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,12.2,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,9.1,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,30.5,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,19.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Dhopadihi,22.9,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,10.7,75.0,polluted,safe
+Khulna,Khulna,Dacope,Kailasganj,Harintani,13.7,10.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,36.6,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,18.3,25.0,polluted,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,12.2,10.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,18.3,75.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,25.9,0.0,safe,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,18.3,25.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,27.4,10.0,safe,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,19.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,22.9,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,19.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,44.2,100.0,polluted,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Kalabagi Sutarkhali,44.2,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,15.5,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,18.3,10.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,12.2,0.0,safe,safe
+Khulna,Khulna,Dighalia,Dighalia,Debnagar,259.0,10.0,safe,safe
+Khulna,Khulna,Dighalia,Dighalia,Dighalia,261.0,17.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Batbunia,41.1,90.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,41.1,10.0,safe,polluted
+Khulna,Khulna,Dacope,Dacope,Dacope,22.9,60.0,polluted,polluted
+Khulna,Khulna,Phultala,Jamira,Dhopakhola,340.0,0.5,safe,safe
+Khulna,Khulna,Phultala,Phultala,Tartibpur,54.0,0.5,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,27.4,10.0,safe,polluted
+Khulna,Khulna,Dacope,Tildanga,Garkhali,30.5,0.0,safe,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Gunari,25.9,0.0,safe,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,16.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,21.3,35.0,polluted,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,19.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,45.7,60.0,polluted,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,38.1,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,24.4,0.0,safe,polluted
+Khulna,Khulna,Dacope,Kailasganj,Dhopadihi,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Nalian,48.8,100.0,polluted,safe
+Khulna,Khulna,Dacope,Dacope,Saheberabad,18.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,15.2,10.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,21.3,25.0,polluted,safe
+Khulna,Khulna,Dacope,Kailasganj,Harintani,15.2,0.0,safe,safe
+Khulna,Khulna,Dighalia,Dighalia,Brahmaganti,251.0,3.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,35.1,0.0,safe,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,32.0,0.0,safe,polluted
+Khulna,Khulna,Dacope,Bajua,Bajua,12.2,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,13.7,10.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,15.2,0.0,safe,safe
+Khulna,Khulna,Dighalia,Gazirhat,Majhirganti,250.0,43.0,polluted,safe
+Khulna,Khulna,Dighalia,Dighalia,Brahmaganti,254.0,2.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,19.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Dacope,Dacope,39.6,0.0,safe,polluted
+Khulna,Khulna,Dacope,Kailasganj,Kailashganj-2,20.1,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,25.9,0.0,safe,polluted
+Khulna,Khulna,Dacope,Kailasganj,Kailashganj-2,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,18.3,35.0,polluted,safe
+Khulna,Khulna,Dacope,Kailasganj,Dhopadihi,11.6,10.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,16.8,10.0,safe,safe
+Khulna,Khulna,Rupsa,Ghatbhogh,Alaipur,264.0,0.0,safe,safe
+Khulna,Khulna,Dighalia,Dighalia,Debnagar,255.0,6.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,50.3,75.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Tildanga,27.4,10.0,safe,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,16.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Nalian,33.5,75.0,polluted,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Gunari,18.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,15.2,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,24.4,10.0,safe,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Nalian,39.6,75.0,polluted,polluted
+Khulna,Khulna,Dacope,Dacope,Dacope,18.3,10.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,0.0,safe,safe
+Khulna,Khulna,Paikgachha,Kapilmuni,Kashimnagar,41.0,88.3,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,16.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Dacope,Dacope,22.9,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,39.6,10.0,safe,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,29.0,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,15.2,10.0,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Harintani,23.2,0.0,safe,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Batbunia,29.0,10.0,safe,polluted
+Khulna,Khulna,Dacope,Bajua,Bajua,15.2,25.0,polluted,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,14.6,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,15.2,25.0,polluted,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,19.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,32.0,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,10.7,0.0,safe,safe
+Khulna,Khulna,Dumuria,Rudaghara,Chaira,255.0,0.1,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,30.5,10.0,safe,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,45.7,75.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,33.5,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,21.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,21.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,20.1,10.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,10.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,30.5,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Kailasganj,Harintani,36.6,10.0,safe,polluted
+Khulna,Khulna,Dacope,Dacope,Dacope,51.8,25.0,polluted,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,12.2,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,12.2,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Batbunia,16.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Dacope,Dacope,38.7,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,16.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,44.2,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,15.2,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,29.0,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kailasganj,Dhopadihi,18.3,25.0,polluted,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,21.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Dacope,Dacope,18.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Batbunia,33.5,10.0,safe,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,33.5,10.0,safe,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,10.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,36.6,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Batbunia,36.6,10.0,safe,polluted
+Khulna,Khulna,Dacope,Dacope,Saheberabad,18.0,25.0,polluted,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Kalabagi Sutarkhali,22.9,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Garkhali,44.2,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,19.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,17.4,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,9.1,0.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,19.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,15.2,0.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,16.8,10.0,safe,safe
+Khulna,Khulna,Phultala,Damodar,Damodar,77.0,259.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,24.4,0.0,safe,polluted
+Khulna,Khulna,Dacope,Tildanga,Garkhali,29.0,0.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,33.5,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,18.3,0.0,safe,safe
+Khulna,Khulna,Batiaghata,Jalma,Harintana,295.0,0.5,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,12.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,21.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,21.3,25.0,polluted,safe
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,19.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,36.6,0.0,safe,polluted
+Khulna,Khulna,Dacope,Kailasganj,Harintani,19.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,36.6,100.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,38.1,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,23.8,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kailasganj,Dhopadihi,13.7,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,47.2,35.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,35.1,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,33.5,10.0,safe,polluted
+Khulna,Khulna,Dacope,Bajua,Bajua,20.7,0.0,safe,safe
+Khulna,Khulna,Rupsa,Ghatbhogh,Shiali,239.0,7.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,9.1,0.0,safe,safe
+Khulna,Khulna,Dacope,Dacope,Saheberabad,16.2,0.0,safe,safe
+Khulna,Khulna,Dighalia,Dighalia,Brahmaganti,262.0,4.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,29.0,10.0,safe,polluted
+Khulna,Khulna,Rupsa,Sreefaltala,Joar,305.0,0.5,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,32.0,10.0,safe,polluted
+Khulna,Khulna,Dacope,Dacope,Saheberabad,21.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,21.3,25.0,polluted,safe
+Khulna,Khulna,Dacope,Sutarkhali,Kalabagi Sutarkhali,35.1,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,45.7,60.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,29.0,90.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Batbunia,36.6,90.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,36.6,50.0,polluted,polluted
+Khulna,Khulna,Dighalia,Dighalia,Dighalia,267.0,4.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,27.4,35.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Tildanga,10.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,22.9,0.0,safe,polluted
+Khulna,Khulna,Dacope,Dacope,Saheberabad,21.3,25.0,polluted,safe
+Khulna,Khulna,Dacope,Dacope,Saheberabad,21.3,10.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,18.3,10.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,16.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,21.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Dhopadihi,36.6,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Garkhali,27.4,10.0,safe,polluted
+Khulna,Khulna,Batiaghata,Gangarampur,Ketenangla,331.0,0.5,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,11.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,19.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,45.7,75.0,polluted,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,22.9,25.0,polluted,polluted
+Khulna,Khulna,Dighalia,Dighalia,Dighalia,241.0,9.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,44.2,75.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Bajua,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,10.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,27.4,10.0,safe,polluted
+Khulna,Khulna,Dacope,Bajua,Bajua,12.2,25.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,29.0,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,27.4,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Tildanga,18.3,25.0,polluted,safe
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,38.1,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,10.7,10.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,10.0,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Harintani,14.6,10.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,12.2,60.0,polluted,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,41.1,90.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,32.6,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,24.4,0.0,safe,polluted
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,25.9,0.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,21.3,50.0,polluted,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,13.7,10.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,24.4,75.0,polluted,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Sutarkhali,18.3,10.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,12.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Kalabagi Sutarkhali,48.8,100.0,polluted,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,21.9,10.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,18.9,250.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Batbunia,27.4,45.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,18.3,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Tildanga,27.4,75.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,16.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Harintani,18.3,10.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,15.2,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,48.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Tildanga,24.4,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,36.6,10.0,safe,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,15.2,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Garkhali,52.4,45.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Tildanga,16.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,22.9,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,12.2,0.0,safe,safe
+Khulna,Khulna,Dighalia,Dighalia,Debnagar,265.0,4.0,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Harintani,12.2,25.0,polluted,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Batbunia,39.6,100.0,polluted,polluted
+Khulna,Khulna,Dighalia,Dighalia,Debnagar,246.0,8.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,42.7,90.0,polluted,polluted
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,24.4,0.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,45.7,50.0,polluted,safe
+Khulna,Khulna,Dacope,Sutarkhali,Kalabagi Sutarkhali,42.7,100.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,18.3,50.0,polluted,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,21.3,25.0,polluted,safe
+Khulna,Khulna,Phultala,Damodar,Damodar,305.0,0.5,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,12.2,0.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,21.9,0.0,safe,polluted
+Khulna,Khulna,Dacope,Dacope,Dacope,39.6,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,0.0,safe,safe
+Khulna,Khulna,Dighalia,Dighalia,Brahmaganti,247.0,2.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,27.4,75.0,polluted,polluted
+Khulna,Khulna,Batiaghata,Jalma,Rajbandh,317.0,1.0,safe,safe
+Khulna,Khulna,Dacope,Sutarkhali,Gunari,26.5,0.0,safe,polluted
+Khulna,Khulna,Dacope,Tildanga,Tildanga,48.8,25.0,polluted,safe
+Khulna,Khulna,Dacope,Sutarkhali,Nalian,21.3,100.0,polluted,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,16.8,0.0,safe,safe
+Khulna,Khulna,Dighalia,Dighalia,Debnagar,266.0,8.0,safe,safe
+Khulna,Khulna,Dacope,Bajua,Bajua,9.1,10.0,safe,safe
+Khulna,Khulna,Dacope,Chalna Paurashava,Baruikhali,25.9,0.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,39.6,10.0,safe,polluted
+Khulna,Khulna,Dumuria,Kharnia,Tipna,201.0,0.5,safe,safe
+Khulna,Khulna,Terokhada,Madhupur,Kola,24.0,109.0,polluted,polluted
+Khulna,Khulna,Dacope,Tildanga,Garkhali,32.3,10.0,safe,polluted
+Khulna,Khulna,Dacope,Tildanga,Garkhali,25.9,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,18.3,10.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,39.6,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,39.6,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kailasganj,Dhopadihi,13.7,25.0,polluted,safe
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,27.4,10.0,safe,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,14.6,0.0,safe,safe
+Khulna,Khulna,Dacope,Tildanga,Chak Kaminibasi,29.0,0.0,safe,polluted
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,48.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,13.7,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,42.7,100.0,polluted,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Kalabagi Sutarkhali,36.6,50.0,polluted,polluted
+Khulna,Khulna,Dacope,Bajua,Bajua,10.1,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,38.1,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Dacope,Dacope,21.6,10.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,18.3,90.0,polluted,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,19.8,10.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,24.4,10.0,safe,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Kamarkhola,24.4,25.0,polluted,polluted
+Khulna,Khulna,Dacope,Sutarkhali,Gunari,41.1,75.0,polluted,polluted
+Khulna,Khulna,Dacope,Laudubi,Laudubi,12.2,10.0,safe,safe
+Khulna,Khulna,Dacope,Laudubi,Laudubi,12.2,10.0,safe,safe
+Khulna,Khulna,Dacope,Kailasganj,Harintani,14.6,25.0,polluted,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,24.4,60.0,polluted,polluted
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,39.6,100.0,polluted,polluted
+Khulna,Khulna,Batiaghata,Baliadanga,Birat,272.0,0.5,safe,safe
+Khulna,Khulna,Phultala,Jamira,Dhopakhola,340.0,0.5,safe,safe
+Khulna,Khulna,Dacope,Bajua,Chunkuri-2,19.8,0.0,safe,safe
+Khulna,Khulna,Dacope,Kamarkhola,Sreenagar Kalinagar,19.8,50.0,polluted,safe

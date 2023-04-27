@@ -1,0 +1,19 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rajshahi,Naogaon,Dhamoirhat,Dhamoirhat,Mahabbatpur,34.0,0.5,safe,polluted
+Rajshahi,Naogaon,Naogaon Sadar,Kirtipur,Kirtipur,32.0,0.5,safe,polluted
+Rajshahi,Naogaon,Patnitala,Ghoshnagar,Koch Khirshin,26.0,0.5,safe,polluted
+Rajshahi,Naogaon,Mahadebpur,Safapur,Paharpur,28.0,0.5,safe,polluted
+Rajshahi,Naogaon,Niamatpur,Rasulpur,Bangaon Para,40.0,0.5,safe,polluted
+Rajshahi,Naogaon,Atrai,Panchupur,Panchpakhia,34.0,0.5,safe,polluted
+Rajshahi,Naogaon,Raninagar,Gona,Bhabanipur,29.0,0.5,safe,polluted
+Rajshahi,Naogaon,Atrai,Ahsanganj,Naoda Para,35.0,1.0,safe,polluted
+Rajshahi,Naogaon,Porsha,Masidpur,Upar Shisha,41.0,0.5,safe,polluted
+Rajshahi,Naogaon,Patnitala,Patichara,Goralia (Nagargola),24.0,0.5,safe,polluted
+Rajshahi,Naogaon,Raninagar,Raninagar,Balubhara,25.0,0.5,safe,polluted
+Rajshahi,Naogaon,Naogaon Sadar,Hashaighari,Bhutgari,34.0,0.9,safe,polluted
+Rajshahi,Naogaon,Badalgachhi,Mithapur,Sagarpur,34.0,1.5,safe,polluted
+Rajshahi,Naogaon,Porsha,Tentulia,Purail,74.0,0.5,safe,polluted
+Rajshahi,Naogaon,Mahadebpur,Khajur,Lakshmanpur,32.0,1.6,safe,polluted
+Rajshahi,Naogaon,Naogaon Sadar,Tilakpur,Kadoa,38.0,1.2,safe,polluted
+Rajshahi,Naogaon,Badalgachhi,Badalgachhi,Badalgachhi,27.0,14.9,polluted,polluted
+Rajshahi,Naogaon,Dhamoirhat,Jahanpur,Jahanpur,34.0,5.5,safe,polluted

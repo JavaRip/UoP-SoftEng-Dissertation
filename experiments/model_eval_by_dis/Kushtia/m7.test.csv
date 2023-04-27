@@ -1,0 +1,10 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Khulna,Kushtia,Kushtia Sadar,Alampur,Shwastipur,39.0,1.2,safe,polluted
+Khulna,Kushtia,Mirpur,Poradaha,Katdaha,38.0,9.0,safe,polluted
+Khulna,Kushtia,Daulatpur,Pearpur,Amdaha,41.0,75.7,polluted,polluted
+Khulna,Kushtia,Bheramara,Juniadaha,Jhikri Parankhali,45.0,52.7,polluted,polluted
+Khulna,Kushtia,Khoksa,Jayanti Hajra,Uthali,38.0,0.5,safe,polluted
+Khulna,Kushtia,Mirpur,Malihad,Malihad,45.0,174.0,polluted,safe
+Khulna,Kushtia,Daulatpur,Maricha,Koldiar,31.0,665.0,polluted,polluted
+Khulna,Kushtia,Kumarkhali,Kaya,Kaya,40.0,0.5,safe,safe
+Khulna,Kushtia,Kumarkhali,Jagannathpur,Hasimpur,35.0,377.0,polluted,polluted

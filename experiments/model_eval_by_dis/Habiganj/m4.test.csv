@@ -1,0 +1,1983 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Tupijuri,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Hakimpur (Sreemangal,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Gandpur Bade,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,58.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Baghtala,65.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Jalilpur (Kamargaon),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Nabiganj,Paniunda,Paniumda,39.0,0.5,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Uttar Ujirpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Jalilpur (Kamargaon),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Makrampur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,29.0,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Aoi,67.1,50.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Tarashai,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,27.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),21.3,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Sultanpur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Jhilua,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,76.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,109.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Mashakuli (Part),36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Dhobateka (Rehala),73.2,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Chilarai (Chhota Ujir,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Patli Bade,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,27.4,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Isabpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,60.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Hamaikhali Bade,42.7,125.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Harni,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,79.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,51.8,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,59.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),26.2,125.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ichhipur,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Nagura (Bagjur Part),30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,24.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),22.9,90.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,45.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Maka,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,71.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),115.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),85.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,21.3,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,76.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,30.2,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,82.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Alipur,74.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,54.9,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),304.8,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,33.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Subidpur,61.0,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Purba Khatwar,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),57.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,48.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,27.4,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Agua,70.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,48.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Alipur,73.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,42.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,39.6,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Dhobateka (Rehala),73.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,57.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Terauthia,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Madanmurat,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Mashakuli (Part),54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,36.6,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Alampur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,29.0,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Ratanpur,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Ghatua,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rupshapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,36.6,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,112.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,112.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,58.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Kendua Baha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,57.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dhankura,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,59.1,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Makrampur,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Nathullapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Isabpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dhankura,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,67.1,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,45.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Mamudpur (Shibpur),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Niamatpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,65.5,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,106.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Nazipur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),29.0,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Tajpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,88.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kadupur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,41.1,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,21.3,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,106.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Rajendrapur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),64.0,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sultanpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,21.3,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Agua,45.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Hukurua,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Isabpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Koranagar,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dhankura,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Ranbacha,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,29.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),50.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),29.0,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),73.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,42.7,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,45.7,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Baghtala,73.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Uttar Ujirpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,66.1,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Koranagar,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,79.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,36.6,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Makrampur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Jhilua,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Agua,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Uttar Ahmedpur (Lohaj,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Jalilpur (Kamargaon),30.5,45.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Kadupur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,22.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,51.8,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Niamatpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Madanmurat,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Balakipur,56.0,18.5,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,51.8,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Sreerampur (Daulatpur,64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,27.4,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Sujatpur,69.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,33.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,71.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,50.0,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Barakpur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,24.4,200.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Tajpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),27.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,59.1,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,57.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Dakshin Anwarpur,48.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Nawabad Jalilpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Mirzapur,61.0,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,71.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Nagura (Bagjur Part),30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,32.0,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,45.7,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Tajpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),33.5,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,25.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,45.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,45.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Ratanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,21.3,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,21.3,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,27.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,66.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Mirzapur,61.0,100.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,30.5,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,27.4,90.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Athukura,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Madanmurat,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),27.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,60.0,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Uttar Ujirpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,21.3,300.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),51.8,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Nagura (Bagjur Part),24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,24.4,0.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,29.0,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Tarashai,25.9,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Alipur,36.6,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,106.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,30.5,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),59.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Sonaru Karimpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,56.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Agua,50.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,45.7,10.0,safe,safe
+Sylhet,Habiganj,Lakhai,Bamai,Bamai,59.0,39.6,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daraya,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),56.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,29.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,64.0,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,67.1,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,79.2,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,32.0,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,21.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),51.8,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Hakimpur (Sreemangal,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Nathullapur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,25.0,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Chilarai (Chhota Ujir,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dhankura,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,29.0,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),22.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,21.3,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),67.1,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bochikhali,24.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),36.6,45.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,57.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bihat,67.1,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Makal Kandi,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Maka,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Subidpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,57.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Jalilpur (Kamargaon),30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Rajendrapur,36.6,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,22.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),21.3,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,21.3,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Basantapur,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,64.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,25.9,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,48.8,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Maka,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,76.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,83.8,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bochikhali,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bihat,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Mamudpur,71.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dhulia,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Sreerampur (Daulatpur,56.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,25.9,125.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,59.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,27.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,45.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Dakshin Anwarpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Agua,50.3,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Aoi,73.2,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Uttar Ahmedpur (Lohaj,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,30.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Aoratail (Chandipur),61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dhulia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,71.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,33.5,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Aoi,67.1,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,51.8,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Bara Ujirpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,30.5,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Rahmatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,24.4,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),45.7,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,42.7,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,27.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Fatepur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,29.0,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Tupijuri,62.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,48.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Sreerampur (Daulatpur,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),59.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Makrampur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,27.4,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,45.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),21.3,250.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Subidpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Tajpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kamalpur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Nagura (Bagjur Part),30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Alampur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,33.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,56.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Athukura,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,27.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,67.1,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Rupapail,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,36.6,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),24.4,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,22.9,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Harni,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Ranbacha,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Dhobateka (Rehala),73.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Hamaikhali Bade,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Bara Ujirpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,27.4,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Chhatar Kandi,85.3,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Madanmurat,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,109.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),29.0,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,30.5,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),56.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,51.8,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Makrampur,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Bagi Bade (Dhanpur),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Madanmurat,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Gugrapur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,21.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,27.4,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,88.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Ratanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Madanmurat,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,36.6,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,21.3,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kamalpur,73.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Mirzapur,70.1,50.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,91.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),51.8,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Badalpur,42.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Uttar Ahmedpur (Lohaj,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,54.9,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,30.5,50.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),25.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Chhatar Kandi,85.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Jhitka,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Sikandarpur,9.1,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Jalilpur (Kamargaon),36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Rajabad,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,24.4,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,60.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Keorakandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Fatepur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Tajpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,30.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Baghtala,65.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,205.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),53.3,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,45.7,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),48.8,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Bara Ujirpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),57.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,25.9,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,58.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Tajpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,53.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Noagaon,61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sultanpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,67.1,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Chilarai (Chhota Ujir,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Alipur,76.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Uttar Sahapur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Athukura,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Keorakandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Barakpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,71.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,48.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Mamudpur (Shibpur),30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Dhulia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Jalilpur (Kamargaon),30.5,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Mitapur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),30.5,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,67.1,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Saidpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,33.5,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Gandpur Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),56.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,24.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,25.9,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,30.5,0.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Aoi,73.2,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Bagi Bade (Dhanpur),36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,54.9,100.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Patli Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),67.1,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),27.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Athukura,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,30.5,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Rajabad,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Alampur Bade,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Sekandarpur,24.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),25.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,42.7,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,64.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,9.1,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),36.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Mamudpur (Shibpur),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),57.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,30.5,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Athukura,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),44.2,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Rahatpur (Sadekpur),54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,39.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,54.9,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,27.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Rahmatpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,27.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Isabpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,27.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Pratappur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Tarashai,63.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Makal Kandi,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),27.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,30.5,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),25.9,90.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Chhatar Kandi,85.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,65.5,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Mirzapur,54.9,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Sekandarpur,213.0,2.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),32.0,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,25.9,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),21.3,100.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Jalilpur (Kamargaon),54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,27.4,300.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,70.1,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),25.9,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),27.4,50.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,24.4,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,22.9,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,106.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,58.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Noagaon,51.8,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,59.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,83.8,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Udhabpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Keorakandi,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),21.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Madanmurat,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,27.4,50.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,27.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Uttar Ujirpur,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Isabpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,30.5,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),27.4,90.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Mamudpur,68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Aoratail (Chandipur),56.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),25.9,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Tarashai,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,21.3,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,42.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,53.3,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,106.7,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,42.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,21.3,125.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),29.3,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,53.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,27.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),56.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Hakimpur (Sreemangal,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,27.4,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,27.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),64.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sarangpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Barakpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),45.7,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dighalbagh,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),26.2,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Rajendrapur,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,21.3,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,22.9,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),64.0,90.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,27.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,65.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daraya,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,54.9,125.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Jhilua,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),21.3,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Hukurua,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,21.3,60.0,polluted,polluted
+Sylhet,Habiganj,Chunarughat,Paik Para,Deundi T.E.,41.0,0.5,polluted,safe
+Sylhet,Habiganj,Baniachong,Mandari,Keorakandi,53.3,60.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,59.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,30.5,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,42.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,24.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sarangpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,24.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Badalpur,21.3,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Aoi,67.1,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),18.3,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Sarangpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,9.1,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),30.5,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),28.0,56.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,112.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,36.6,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Chilarai (Chhota Ujir,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Nathullapur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),59.4,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,36.6,300.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Sujatpur,50.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,79.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kadupur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,58.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Kendua Baha,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,18.3,250.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,29.3,250.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,33.5,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Hukurua,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Sarangpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,24.4,125.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,33.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Chunarughat,Shatiajuri,Sondarpur,36.0,34.2,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Sekandarpur,45.7,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,79.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,59.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Gayen,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chandpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,42.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Koranagar,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,42.7,125.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,48.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ichhipur,21.3,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Aoi,73.2,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Rahmatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Madanmurat,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sultanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,45.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),9.1,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Basantapur,68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Rajendrapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),18.3,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),29.3,50.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,56.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Basantapur,59.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,27.4,125.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Aoi,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Maka,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Makal Kandi,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Subidpur,55.0,10.7,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Ranbacha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,30.5,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),54.9,45.0,safe,polluted
+Sylhet,Habiganj,Nabiganj,Nabiganj,Halitala (Mandarpur),144.0,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,30.5,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),48.8,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Uttar Ujirpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,53.3,100.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,70.1,90.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,21.3,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),68.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,33.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,24.4,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,45.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Noagaon,51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,10.0,safe,safe
+Sylhet,Habiganj,Chunarughat,Deorgachh,Chandichhara T.E.,45.0,0.5,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Dakshin Anwarpur,61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,67.1,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Ghatua,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),24.4,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,36.6,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Badalpur,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,67.1,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sarangpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,56.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),25.9,35.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Uttar Ujirpur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,71.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),56.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Agua,65.5,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Saidpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),25.9,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,59.1,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),36.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),67.1,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,62.5,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,29.0,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,85.3,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),56.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Gandpur Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,27.4,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),54.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),24.4,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,22.9,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Subidpur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,71.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,32.0,90.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,70.1,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,55.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,42.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,53.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),24.4,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,76.2,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Harni,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Ghatua,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,27.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,65.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,29.0,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),22.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),51.8,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),53.3,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,38.1,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Barakpur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,58.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,50.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daraya,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Basantapur,71.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Udhabpur,67.1,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),57.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),64.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,64.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,45.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Dakshin Anwarpur,61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Ratanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,21.3,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Hukurua,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Amirpur (Chargaon),30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Isabpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Noagaon,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,51.8,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Saidpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,45.7,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,30.5,50.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Tupijuri,51.8,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,56.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,32.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),29.0,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,42.7,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,59.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,51.8,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,62.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,57.9,250.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,62.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),29.0,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Mandari,Tupijuri,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,15.2,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),53.3,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Niamatpur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),85.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,62.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Sreerampur (Daulatpur,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),79.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,27.4,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Makal Kandi,36.6,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,45.7,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,21.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,57.9,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Udhabpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,57.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Agua,76.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Niamatpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,27.4,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,30.5,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Barakpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,21.3,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),21.3,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),22.9,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Basantapur,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,259.1,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Kendua Baha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,48.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,57.9,300.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Jhitka,24.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Sekandarpur,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Sarangpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Mirzapur,54.9,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,64.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,67.1,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Makal Kandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Makal Kandi,36.6,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,33.5,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,22.9,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),29.0,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Dhobateka (Rehala),79.2,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Udhabpur,67.1,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,90.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dhankura,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Makrampur,33.5,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Badalpur,67.1,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Sujatpur,57.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,58.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,64.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,62.8,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,68.6,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Chandpur,24.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Dakshin Anwarpur,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,51.8,90.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,62.5,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Baldi Bade,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),15.2,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,21.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Makal Kandi,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,24.4,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,21.3,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Mamudpur,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,56.4,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,70.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Chunarughat,Ubahata,Kapuria,204.0,6.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,25.9,200.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rupshapur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,26.2,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,29.0,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Baldi Bade,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,27.4,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,73.2,90.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Gandpur Bade,15.2,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Purba Khatwar,54.9,10.0,safe,safe
+Sylhet,Habiganj,Madhabpur,Adair,Katiyara,98.0,0.5,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),53.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Rahmatpur,30.5,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,50.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,70.1,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,59.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dhankura,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,76.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,125.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Keorakandi,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,27.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Gandpur Bade,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Hukurua,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,59.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Chandpur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,61.0,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Alipur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,45.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),45.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Barakpur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),61.0,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,73.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,21.3,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,9.1,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Agua,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,57.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,25.9,90.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,35.1,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,62.5,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,58.8,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,27.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Daraya,15.2,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Harni,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dhulia,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kadupur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Gandpur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),59.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),24.4,50.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kalinjura,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),26.2,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,79.2,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,76.2,100.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,65.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Maka,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Rajendrapur,24.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,59.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,27.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),71.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,21.3,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,57.9,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Shanka Mahal (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,25.0,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Ghatua,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,33.5,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,42.7,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Jalilpur (Kamargaon),54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,47.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Keorakandi,62.5,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bhabanipur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Halimpur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,42.7,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Jirat (Ghorakhali),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),50.3,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Uttar Ujirpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,70.1,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,56.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Murarabda,30.5,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,79.2,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),27.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Terauthia,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,41.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Koranagar,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),26.2,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,27.4,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Tupijuri,53.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ichhipur,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dhulia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,9.1,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,24.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Nazipur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Koranagar,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Ghatua,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chandpur,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,33.5,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Noabad,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),29.0,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Mitapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Nagura (Bagjur Part),30.5,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Mamudpur,68.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Shibpasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,24.4,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Tajpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,22.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Nabipur,22.9,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),65.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Tarashai,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bochikhali,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,29.0,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,54.9,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Sekandarpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,51.8,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Rajendrapur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Athukura,24.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kamalpur,71.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,56.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Jirat (Ghorakhali),61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,25.9,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,29.0,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Tupijuri,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Agua,50.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Pratappur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,27.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Dhargaon,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Alampur Bade,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,50.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Niamatpur,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,22.9,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),25.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,38.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,33.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,27.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kamalpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Karcha,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Isabpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Pratappur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,27.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,50.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Dakshin Anwarpur,61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,27.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Gugrapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Bochikhali,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,27.4,125.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Bijoypur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,18.3,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),59.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Bashatia,56.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Sekandarpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,27.4,50.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),65.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Chowdhury Para,33.5,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Noagaon,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),97.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Saidpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,76.2,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Jhilua,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,24.4,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Nabipur,29.0,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Kumarsana,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),27.4,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,27.4,90.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,24.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Ratanpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Jalsuka,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Mamudpur (Shibpur),54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Rupapail,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Sujatpur,57.0,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,76.2,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Shakhaiti,24.4,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Badalpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patli Bade,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,27.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Uttar Sahapur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Daulatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Rupshapur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Harni,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),39.6,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,27.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),27.4,125.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Jashkishori,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,62.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,30.5,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Sarangpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,50.3,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),22.9,125.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Mirzapur,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,51.8,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Mamudpur,68.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,70.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,53.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Subidpur,Alampur Bade,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Pirijpur (Satmuka),57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Abda Hossainpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),51.8,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Hiala,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,82.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,88.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,76.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,59.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,29.0,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Ikram,57.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Ballabhpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Makrampur,36.6,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Gandpur Bade,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Tajpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Mitapur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,85.3,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,57.9,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Badalpur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Baghtala,65.5,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,67.1,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Baraiuri Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasanpur Bade,30.5,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Uttar Ujirpur,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Purba Kalni,21.3,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Pirojpur,21.3,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Atpara,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Topkhana (Part),25.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Baraiuri,Kadupur,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Dakshin Sikandarpur,24.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Mardanpur,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Madhabpur,Bagasura,Haritala,41.0,0.5,polluted,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Betkandi,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Katuli,45.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Mamudpur,55.5,90.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,21.3,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,56.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),26.2,50.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Patharia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Ichabpur,24.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Saulari,76.2,100.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),61.0,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Makal Kandi,24.4,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Muradpur,36.6,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Dakshin Karcha,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,25.9,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Athukura,30.5,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,27.4,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,36.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Alamnagar,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,36.6,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),57.9,45.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,45.7,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Rajpara,24.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Nabipur,27.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Puranbagh (Part),57.9,100.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Ariamugur,24.4,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Bagi Bade (Dhanpur),54.9,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Miakhani (Part),61.0,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Jhilua,21.3,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,27.4,90.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Sandanpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Mashakuli Chak,67.1,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Sekandarpur,24.4,10.0,polluted,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Badalpur,67.1,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Roypur,36.6,45.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,51.8,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Sreemangal,30.5,0.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Noagaon Bade,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),51.8,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Mandari,41.1,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Saidpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Demikandi,24.4,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Kamalkhani (Part),61.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Amirkhani,54.9,100.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,56.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Baraiuri,Kadupur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Paschim Bani,Kutubkhani (Part),42.7,45.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Badalpur,24.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Chamakpur,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Athukura,30.5,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Ahammadpur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,21.3,50.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Kabirpur,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Isabpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,36.6,45.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Pukhra,67.1,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Pailarkandi,Pailarkandi,64.0,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Uttar Purba Baniac,Chaturanga Ray,24.4,60.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Ajmiriganj,Mirzapur,54.9,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,24.4,100.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,9.1,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Tarashai,54.9,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,36.6,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Keorakandi,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Sujatpur,Nawabad Jalilpur,61.0,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Shibpasha,Bang,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,62.2,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,53.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,45.7,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,45.7,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Muradpur,Rahmatpur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,24.4,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Mandari,Murda Kaharam (Uttar,61.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,36.6,10.0,polluted,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Desmukshya,59.0,320.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Subidpur,Pratappur,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Purba Bani,Jatukarna,57.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Sagar Dighi,259.1,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Kakailseo,36.6,10.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,27.4,125.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Dakshin Daulatpur,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Kagapasha,45.7,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Hasnabad,30.5,25.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Sujatpur,Sujatpur,69.2,50.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Pukhra,Katkhal,54.9,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Muradpur,Gandpur Bade,30.5,60.0,polluted,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Chauki Chak,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Kagapasha,Baghata Bade,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Makrampur,Nischintapur,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Kendua Baha,30.5,60.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Aralia,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,21.3,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Hakimpur (Sreemangal,73.2,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Dakshin Paschim Ba,Uttar Jatrapasha,27.4,300.0,polluted,polluted
+Sylhet,Habiganj,Ajmiriganj,Kakailseo,Mamudpur,68.6,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Gunai,54.9,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Badalpur,Chhatar Kandi,67.0,18.9,safe,polluted
+Sylhet,Habiganj,Baniachong,Daulatpur,Damargaon,36.6,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Kumri,68.6,25.0,safe,polluted
+Sylhet,Habiganj,Baniachong,Makrampur,Sahapur,24.4,0.0,safe,safe
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Patli Para,27.4,10.0,safe,safe
+Sylhet,Habiganj,Baniachong,Khagaura,Koranagar,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pukhra,Auwal Mahal,54.9,0.0,safe,safe
+Sylhet,Habiganj,Baniachong,Pailarkandi,Hakimpur (Sreemangal,61.0,25.0,safe,polluted
+Sylhet,Habiganj,Ajmiriganj,Jalsuka,Nowagoan,24.4,10.0,safe,safe

@@ -1,0 +1,17 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Khulna,Bagerhat,Fakirhat,Bahirdia Mansa,Bahirdia,276.0,0.8,safe,safe
+Khulna,Bagerhat,Fakirhat,Bahirdia Mansa,Bahirdia,276.0,0.8,safe,safe
+Khulna,Bagerhat,Kachua,Kachua,Char Kachua,24.0,18.8,polluted,polluted
+Khulna,Bagerhat,Bagerhat Sadar,Rakhalgachhi,Karari,210.0,0.0,safe,safe
+Khulna,Bagerhat,Bagerhat Sadar,Khanpur,Uttar Khanpur,282.0,0.5,safe,safe
+Khulna,Bagerhat,Kachua,Badhal,Badhal,21.0,10.1,polluted,polluted
+Khulna,Bagerhat,Chitalmari,Kalatala,Saildaha,232.0,0.5,safe,safe
+Khulna,Bagerhat,Fakirhat,Subhadia,Tekatia,16.0,127.0,polluted,polluted
+Khulna,Bagerhat,Chitalmari,Kalatala,Chingari,19.0,398.0,polluted,polluted
+Khulna,Bagerhat,Mongla,Burirdanga,Bidyarbon Digraj,284.0,0.5,safe,safe
+Khulna,Bagerhat,Morrelganj,Daibagnyahati,Nurullapur,20.0,81.3,polluted,polluted
+Khulna,Bagerhat,Bagerhat Sadar,Rakhalgachhi,Karari,15.0,234.0,polluted,polluted
+Khulna,Bagerhat,Fakirhat,Bahirdia Mansa,Bahirdia,241.0,1.0,safe,safe
+Khulna,Bagerhat,Bagerhat Sadar,Kara Para,Deolbari,277.0,1.1,safe,safe
+Khulna,Bagerhat,Rampal,Rampal,Sreefaltala,24.0,148.0,polluted,polluted
+Khulna,Bagerhat,Bagerhat Sadar,Jatrapur,Masidpur,30.0,26.2,polluted,polluted

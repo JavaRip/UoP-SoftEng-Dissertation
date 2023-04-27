@@ -1,0 +1,11 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rangpur,Nilphamari,Dimla,Tepa Kharibari,Dakshin Kharibari,27.0,0.5,safe,safe
+Rangpur,Nilphamari,Domar,Harinchara,Hangsaraj,20.0,4.1,safe,safe
+Rangpur,Nilphamari,Dimla,Dimla,Baburhat,40.0,0.5,safe,safe
+Rangpur,Nilphamari,Jaldhaka,Khutamara,Khalisa Khutamara,34.0,0.7,safe,safe
+Rangpur,Nilphamari,Nilphamari Sadar,Kunda Pukur,Gurguri,27.0,0.6,safe,safe
+Rangpur,Nilphamari,Jaldhaka,Dharmapal,Uttar Dharmapal,29.0,3.3,safe,safe
+Rangpur,Nilphamari,Jaldhaka,Daoabari,Paschim Golmunda,14.0,0.5,safe,polluted
+Rangpur,Nilphamari,Jaldhaka,Mirganj,Paschim Shimulbari,8.0,2.1,safe,safe
+Rangpur,Nilphamari,Jaldhaka,Golna,Kaliganj,22.0,0.6,safe,safe
+Rangpur,Nilphamari,Dimla,Paschim Chhatnai,Thakurganj,9.0,0.5,safe,safe

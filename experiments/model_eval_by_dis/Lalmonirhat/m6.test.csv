@@ -1,0 +1,9 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Rangpur,Lalmonirhat,Aditmari,Bhelabari,Purba Bhelabari,18.0,0.5,safe,polluted
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Kulaghat,Kulaghat,18.0,0.5,safe,polluted
+Rangpur,Lalmonirhat,Hatibandha,Shingimari,Dakshin Goddimari,13.0,0.5,safe,polluted
+Rangpur,Lalmonirhat,Hatibandha,Gotamari,Daikhawa,13.0,0.5,safe,polluted
+Rangpur,Lalmonirhat,Aditmari,Palashi,Namuri,23.0,3.3,safe,polluted
+Rangpur,Lalmonirhat,Kaliganj,Tushbhandar,Uttar Ghanashyam,20.0,0.6,safe,polluted
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Barabari,Shibram,18.0,4.2,safe,polluted
+Rangpur,Lalmonirhat,Patgram,Paurashava,Sohagpur,14.0,0.5,safe,polluted

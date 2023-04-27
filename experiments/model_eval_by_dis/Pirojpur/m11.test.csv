@@ -1,0 +1,311 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Barisal,Pirojpur,Bhandaria,Bhandaria,Lakshmipura,317.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Balihari,295.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,13.7,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,15.2,100.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Daihari,Chinabunia,285.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,19.8,40.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Ekpai Jujkhola,251.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhandaria,Lakshmipura,286.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Sutiakati,286.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhitabaria,Medirabad Tarabunia,307.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Dakshin Shialkati,273.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,15.8,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Gauripur,Dakshin Charail,306.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sariktala,Uttar Ranipur,275.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Paurashava,Sarshina,272.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Sehangal,238.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,18.3,100.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,19.8,200.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Dakatia,18.3,30.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Rangakati,240.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Jalabari,Aramkati,288.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Hetalia,265.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,297.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,15.2,10.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Dakshin Shialkati,255.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Rajarkati,262.0,1.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,284.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,13.7,100.0,polluted,safe
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,302.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Shankarpasha,Shankarpasha,33.0,14.5,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Durgapur,254.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Bara Chalista,242.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Paurashava,Jagannathkati,276.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhitabaria,Uttar Bhitabaria,248.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Porgola,16.8,300.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,13.7,30.0,polluted,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Chingaria Bhitabaria,267.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Paitkalbari,313.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Kaurikhara,234.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Gauripur,Matibhanga,304.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Gauripur,Matibhanga,303.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Dhaoa,Dhaoa,301.0,0.5,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,12.2,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,16.8,30.0,polluted,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,8.5,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,249.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,262.1,30.0,polluted,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,18.3,10.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tejdaskati,246.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,237.0,0.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Nudmulla,Hetalia,263.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,271.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,13.7,10.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Sehangal,295.0,0.5,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Atghar Kuriana,Bankura,268.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Paschim Sohagdal,289.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Chal Pukharia,279.0,0.0,safe,safe
+Barisal,Pirojpur,Kawkhali,Shialkati,Jolagati,257.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Bajukati,275.0,0.5,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Nanduhar,272.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,13.7,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Sehangal,284.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Dakatia,19.8,10.0,safe,polluted
+Barisal,Pirojpur,Mathbaria,Mathbaria,Baksir Ghatichora,13.0,0.5,safe,polluted
+Barisal,Pirojpur,Bhandaria,Bhitabaria,Dakshin Bhitabaria,249.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,13.7,10.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,315.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sarengkati,Paschim Sarengakati,263.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,18.3,300.0,polluted,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,19.8,20.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,13.7,10.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Akalam,295.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,18.3,40.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,243.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,10.7,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,288.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,19.8,10.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Nagarbari,256.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,19.8,200.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Sultanpur Alankarkati,259.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhitabaria,Dakshin Bhitabaria,297.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,16.8,20.0,polluted,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Dakshin Shialkati,272.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Gauripur,Madhabpura,307.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Chungapasha,252.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Sonarghop,276.0,0.0,safe,safe
+Barisal,Pirojpur,Mathbaria,Tikikata,Kumirmara,271.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Juluhar,297.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Jalabari,Madra Jhalokati,296.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,19.8,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,245.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Porgola,10.7,30.0,polluted,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Nudmulla,254.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Jalabari,Ganapatikati,291.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Daihari,Chinabunia,244.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tejdaskati,254.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,21.9,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Daudpur,16.8,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Sultanpur Alankarkati,242.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,15.2,200.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,13.7,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Udaykati Gazalia,250.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,18.0,400.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,9.1,10.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Atghar Kuriana,Rajapur Brahmankati,282.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,13.7,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,17.7,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Durgapur,22.9,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sariktala,Dumaritala Sariktala,253.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,19.8,700.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,13.7,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,18.3,10.0,safe,safe
+Barisal,Pirojpur,Nazirpur,Purba Deulbaridobra,Manoharpur,221.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sariktala,Uttar Gazipur,248.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,12.8,30.0,polluted,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Daihari,Uribunia,303.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Paschim Sohagdal,225.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,10.7,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,19.8,20.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Paurashava,Jagannathkati,266.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Pukharia,258.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sarengkati,Gonoman,312.0,1.1,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Bharatkati,244.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Jalabari,Aramkati,284.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,15.8,30.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,257.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,18.3,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Durgapur,241.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Sutiakati,294.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,300.0,0.5,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,253.6,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,241.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Porgola,13.7,60.0,polluted,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Rahutokati,283.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,253.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,18.3,10.0,safe,safe
+Barisal,Pirojpur,Mathbaria,Gulishakhali,Dakshin Halta,270.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Sonarghop,293.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Gauripur,Matibhanga,313.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Gauripur,Paikkhali,286.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Chungapasha,243.8,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,250.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,262.1,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Balihari,230.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,259.1,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,18.3,100.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Sonarghop,234.0,0.0,safe,safe
+Barisal,Pirojpur,Nazirpur,Shankharikati,Baghajora,270.0,0.5,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Jalabari,Kamarkati,288.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Paschim Sohagdal,279.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,313.0,0.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Nudmulla,Nudmulla,268.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Maisani,286.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,12.2,30.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sariktala,Uttar Ranipur,260.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,24.4,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Baldia,235.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Dakatia,259.1,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Sariktala,Dumaritala Sariktala,248.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,274.3,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Purba Sohagdal,257.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Hetalia,287.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,18.3,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,234.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Daudpur,16.8,10.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,246.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,29.0,100.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,15.8,200.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Sutiakati,264.0,0.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Nudmulla,Nudmulla,270.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,18.3,100.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sarengkati,Paschim Sarengakati,274.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Byaskati,240.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,19.8,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,288.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Nanduhar,280.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,14.0,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Nanduhar,277.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Sariktala,Bhattacharjyer Harina,264.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Sutiakati,216.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,290.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,248.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,13.7,400.0,polluted,safe
+Barisal,Pirojpur,Bhandaria,Bhandaria,Kanua,16.0,1.3,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Guarekha,248.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Rahutokati,292.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Daudpur,232.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Bharatkati,260.0,0.7,safe,safe
+Barisal,Pirojpur,Bhandaria,Gauripur,Sreepur,293.0,1.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,13.7,10.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Gauripur,Matibhanga,304.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Durgapur,242.0,0.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Bhitabaria,Uttar Bhitabaria,256.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Rahutokati,280.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Durgapur,19.8,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Chal Pukharia,250.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhitabaria,Uttar Bhitabaria,260.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Baldia,246.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Daudpur,18.3,500.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Porgola,13.7,30.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,17.1,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Bishal Chelabunia,274.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,25.9,700.0,polluted,safe
+Barisal,Pirojpur,Bhandaria,Bhitabaria,Shialkati,258.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,17.1,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Kuhudaskati,283.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,12.8,40.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,18.3,40.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Ashwatthakati,283.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,21.3,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Nudmulla,263.0,0.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,315.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Sultanpur Alankarkati,283.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Sonarghop,232.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,15.2,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sarengkati,Bishnukati,292.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,292.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sariktala,Uttar Ranipur,254.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,12.2,10.0,safe,safe
+Barisal,Pirojpur,Nazirpur,Purba Deulbaridobra,Mugarjhor,237.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Sonarghop,281.0,0.0,safe,safe
+Barisal,Pirojpur,Mathbaria,Amragachhia,Uttar Sonakhali,13.0,159.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Rajarkati,250.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,15.2,30.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,13.7,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Binayekpur,237.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Nudmulla,257.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Guarekha,236.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,19.8,0.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Gauripur,Matibhanga,304.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Udaykati Gazalia,256.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,13.7,40.0,polluted,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,15.2,30.0,polluted,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,286.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Sultanpur Alankarkati,265.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Purba Sohagdal,314.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Udaykati Gazalia,250.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Shankarpasha,Badura,15.0,6.0,safe,polluted
+Barisal,Pirojpur,Mathbaria,Sapleza,Bukhaitala Bandhab Pa,311.0,4.91,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,246.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Guarekha,Bharatkati,280.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,15.2,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Durgapur,241.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Paschim Sohagdal,303.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Sultanpur Alankarkati,290.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,260.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,13.7,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Hauria,314.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,15.8,10.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Paschim Sohagdal,290.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,12.8,30.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,15.2,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,291.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,19.8,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Jalabari,Jalabari,294.0,0.0,safe,polluted
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Juluhar,226.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,24.4,30.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,256.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Sultanpur Alankarkati,284.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Dhaoa,Dhaoa,233.0,0.5,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Atghar Kuriana,Rajapur Brahmankati,298.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Udaykati Gazalia,259.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Chingaria Bhitabaria,257.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Paurashava,Swarupkati,14.0,21.1,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Paschim Sohagdal,279.0,0.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Nudmulla,Hetalia,254.0,0.0,safe,safe
+Barisal,Pirojpur,Nazirpur,Purba Deulbaridobra,Bil Dumuria,251.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kaibartta Khali,246.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Nanduhar,294.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Sutiakati,241.0,4.2,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Balihari,300.0,0.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,310.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Sonarghop,230.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sarengkati,Bishnukati,268.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,12.2,400.0,polluted,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,19.8,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Bajukati,250.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Daudpur,16.8,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,12.2,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,13.7,10.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Bhitabaria,Uttar Bhitabaria,258.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Daudpur,22.9,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,29.0,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Panthadubi,21.3,10.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Baldia,275.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Chal Pukharia,235.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Mulgram,17.1,10.0,safe,polluted
+Barisal,Pirojpur,Mathbaria,Gulishakhali,Uttar Halta,156.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,16.8,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Baharampur,301.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Hauria,285.0,0.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Pukharia,244.0,0.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,320.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Daudpur,16.8,10.0,safe,polluted
+Barisal,Pirojpur,Bhandaria,Bhandaria,Bhandaria,22.0,6.0,safe,safe
+Barisal,Pirojpur,Bhandaria,Dhaoa,Dhaoa,295.0,1.0,safe,polluted
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Pukharia,268.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Baldia,Rajabari,250.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Durgapur,Chungapasha,248.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sarengkati,Bishnukati,246.0,0.0,safe,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sutiakati,Barara,240.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Tona,Tona,13.7,10.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kadamtala,Bhora,19.8,30.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Sohagdal,Paschim Sohagdal,266.0,0.0,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Sikdar Mallik,Chalitakhali,18.3,400.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Nesarabad (Swarupkati),Hauria,296.0,0.0,safe,polluted
+Barisal,Pirojpur,Kawkhali,Chira Para Parsatu,Jibka Saturia,313.0,2.3,safe,safe
+Barisal,Pirojpur,Pirojpur Sadar,Kalakhali,Kalakhali,18.3,30.0,polluted,polluted
+Barisal,Pirojpur,Nazirpur,Sreeramkati,Joypur,11.0,270.0,polluted,safe
+Barisal,Pirojpur,Nesarabad (Swarupkati),Samudaykati,Muktahar,282.0,0.0,safe,safe

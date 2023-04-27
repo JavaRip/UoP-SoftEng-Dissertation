@@ -1,0 +1,2528 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,35.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,49.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,30.5,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,33.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,20.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,30.5,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Kartik,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Lakshmidia,22.9,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ahulia,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,27.4,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Narayandaha,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,45.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,24.4,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,19.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,19.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,41.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ambaria,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,45.7,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,36.6,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,35.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,20.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,19.8,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,18.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,53.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,90.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,36.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,32.0,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,13.7,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,9.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Gararia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bapitara,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,37.8,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,20.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,22.9,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,32.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,15.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,17.1,10.0,safe,polluted
+Dhaka,Manikganj,Manikganj Sadar,Putail,Madhya Putail,18.0,9.1,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gangadhar Patti,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Nabagram,11.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,36.6,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,21.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,38.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,29.0,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,21.6,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Naihati,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,36.6,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Nirali,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,25.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bangram,53.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,25.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,23.2,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,30.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,24.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Nabagram,50.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,26.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,32.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,21.3,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,27.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Basudebpur,15.2,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,35.1,100.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,33.5,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,12.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Kanda Mandarta,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Basudebpur,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,26.2,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Chhota Apudanga,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,30.5,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Baghuli,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Purba Tegharia,32.0,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,18.3,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,29.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,11.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Mahisura,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,19.5,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,25.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,29.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,13.7,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Dhulat,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,15.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,24.7,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Bairagi,21.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,61.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Nirali,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,24.4,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,51.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,20.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Manikganj Sadar,Krishnapur,Bara Katigram,34.0,12.8,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Dhulat,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,57.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishampur,38.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishampur,38.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,32.0,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,74.7,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,29.0,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bir Kakali,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,9.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,48.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,15.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,30.5,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,9.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Nirali,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Basinara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,38.1,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,17.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,13.7,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Bairagi,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Rauha,42.7,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,16.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,36.6,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Purba Tegharia,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,15.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,29.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,54.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,12.2,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,21.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,21.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,32.0,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,45.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,25.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,25.0,polluted,safe
+Dhaka,Manikganj,Harirampur,Balla,Jhikutia,36.0,88.8,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Tulanda,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,21.3,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,15.2,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,24.4,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,24.4,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,25.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,29.0,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,45.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,27.4,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ahulia,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,23.2,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,15.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,23.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,38.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Basinara,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,27.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,51.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,54.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,38.1,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,29.0,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,15.5,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,26.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,12.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,29.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,32.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,32.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Nabagram,11.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Lakshmidia,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,33.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,27.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,51.8,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Narayandaha,25.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishampur,41.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,24.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ambaria,20.1,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,25.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Baghuli,32.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,54.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bangram,51.8,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,20.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gangadhar Patti,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Nabagram,51.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishampur,38.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishampur,38.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,21.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,13.7,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,22.9,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,27.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,13.7,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,27.4,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,24.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chhota Joka,41.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,20.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,48.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bangram,54.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,25.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Narayandaha,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,9.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,45.7,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,51.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,25.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,36.6,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,54.9,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,12.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,33.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,36.6,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,25.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,26.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,48.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,20.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,29.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,29.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,45.7,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,25.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,12.2,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,29.0,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,36.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,25.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,15.2,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,32.0,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,17.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,23.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Gararia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bir Kakali,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,31.7,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,20.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,27.4,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,22.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,12.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,45.7,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,20.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,25.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ahulia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,32.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,30.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,61.0,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Khalisa Dahar,32.0,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bapitara,30.5,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,15.2,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishampur,38.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Bairagi,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,15.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,36.6,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,15.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,54.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bir Kakali,19.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,24.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,54.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakrakhi,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakrakhi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishampur,25.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,36.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,12.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,30.5,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,15.2,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bir Kakali,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,29.0,60.0,polluted,safe
+Dhaka,Manikganj,Shibalaya,Shibalaya,Bara Anulia,59.0,30.4,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Gararia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,15.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,12.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,23.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,27.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,29.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,15.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,48.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Tulanda,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,9.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Mahisura,53.3,300.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,24.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,36.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,15.2,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,23.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,26.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,27.4,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,9.1,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Sreekantadia,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,29.0,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,25.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,12.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,19.8,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,15.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Bairagi,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,32.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,29.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bandhulat,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,31.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,10.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,27.4,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,35.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,20.1,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,42.7,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,48.8,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,48.8,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,24.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Kartik,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,33.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,24.4,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,29.0,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,213.7,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,27.4,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,36.6,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,47.2,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,0.0,safe,safe
+Dhaka,Manikganj,Saturia,Baraid,Patilla Para,23.0,8.2,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,16.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,57.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,20.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,24.4,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,29.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,32.6,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Narayandaha,68.6,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,27.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,32.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakrakhi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Tulanda,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,19.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,26.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,25.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,24.4,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,23.2,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,44.2,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,16.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,25.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,25.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Jamirakanda,32.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,38.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,48.8,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,21.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,200.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,12.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Narayandaha,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,53.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,22.6,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,32.0,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,54.9,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ambaria,15.2,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,38.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,25.9,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,16.8,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,13.7,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,30.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,32.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,36.6,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,24.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,32.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,21.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,29.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,47.2,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,19.8,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Lakshmidia,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,25.6,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,34.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Mahisura,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,21.3,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chhota Joka,41.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,30.5,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,29.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,16.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,28.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,29.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,15.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Kalikabari,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bir Kakali,13.7,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,27.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,15.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,22.9,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,9.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,45.7,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,13.7,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,30.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bir Kakali,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bapitara,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,9.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,48.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,45.7,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,23.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,21.3,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,22.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,32.0,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,13.7,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,18.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,45.7,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,36.6,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,24.4,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,17.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,14.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Khalisa Dahar,12.2,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,24.4,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,22.9,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Khalisa Dahar,29.0,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakrakhi,45.7,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Swalpa Baratia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,20.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mukundabari,21.3,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Gararia,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,28.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,32.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,15.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Bairagi,21.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,23.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,18.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,20.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,45.7,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,35.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,15.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,30.5,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Nirali,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,41.1,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,16.8,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Khalisa Dahar,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Mirkuria,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,45.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,25.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,26.2,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,171.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakrakhi,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,22.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,12.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,36.6,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,29.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,23.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,36.6,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,30.5,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,35.1,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Rauha,48.8,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,29.0,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,29.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,15.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,22.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Singair,Saista,Saista,38.0,9.6,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,12.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Bairagi,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Tulanda,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,24.4,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Narayandaha,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,45.7,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,36.6,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,36.6,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,300.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,25.9,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,36.6,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bapitara,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,15.2,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,27.4,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,38.1,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Madhupur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,29.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,38.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Gararia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,42.7,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,25.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,45.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Nirali,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,29.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Purba Tegharia,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,15.8,10.0,safe,polluted
+Dhaka,Manikganj,Manikganj Sadar,Garpara,Panjankhara,15.0,6.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,9.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bhabanipur,48.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,70.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,21.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Basudebpur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,36.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakrakhi,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,32.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,250.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,20.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,35.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Nabagram,11.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Rathura,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,26.2,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,51.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,32.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,51.8,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Madhupur,65.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Basinara,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,54.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,57.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sonarkandi,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,24.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,25.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Jamirakanda,32.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,24.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,38.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,36.6,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ahulia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Basudebpur,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,21.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Mahisura,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,15.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Jamirakanda,33.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ahulia,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Jamirakanda,33.5,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,30.5,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,12.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,32.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,32.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bapitara,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,53.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,50.3,90.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ambaria,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,29.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,25.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,18.3,100.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,18.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,27.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,12.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,36.6,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,20.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Naihati,21.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,54.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakrakhi,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Kartik,9.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Baraichara (Part),19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,45.7,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ahulia,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,18.3,100.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Tulanda,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,23.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,57.9,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,36.6,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,10.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,39.6,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Khalisa Dahar,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,35.1,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,15.2,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Silimpur,30.5,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,30.5,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,25.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,32.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,36.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,48.8,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,30.5,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,45.7,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Basinara,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Dhulat,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,51.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,35.1,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Mirkuria,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ambaria,22.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,25.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,18.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,26.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,19.5,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,32.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Dhulat,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Rambati,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,36.6,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,23.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,32.0,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,15.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,90.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,44.2,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,42.7,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,19.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Naihati,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,45.7,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,32.0,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,15.2,100.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,61.0,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,12.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,15.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,16.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,51.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,16.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Swalpa Baratia,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,27.4,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,38.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,10.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Nirali,32.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,38.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,18.3,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,51.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Ghior,Baliakhora,Durgabari,44.0,89.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,49.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khas Pantircha,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baorabari,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,44.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,9.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bhabanipur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,32.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,19.8,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,29.0,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Char Bharanga,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Kartik,33.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,12.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bangram,54.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,27.4,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Bhabanipur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,22.9,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Mirkuria,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Maheshpur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Swalpa Baratia,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,32.0,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,259.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Dalutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,27.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bharra,73.2,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gangadhar Patti,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Par Mastul,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,23.2,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,23.2,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Madhupur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,53.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,39.6,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Lakshmidia,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ahulia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi,38.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishampur,32.0,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Mukundabari,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ahulia,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Kalikabari,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Baghuli,39.6,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,21.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,12.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Swalpa Baratia,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baorabari,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,22.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,39.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Dayarampur,19.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Narayandia,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,45.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,25.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mandarta,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,33.5,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Rehai Durgapur,19.8,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sonarkandi,22.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Bairagi,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,45.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,36.6,90.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Basinara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bapitara,21.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Sreekantadia,19.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,21.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,24.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,45.7,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,47.2,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,22.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,15.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,50.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,36.6,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,14.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,22.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,21.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,33.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,22.9,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,19.8,125.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,23.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,24.4,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Khurda Chhatian,24.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tepri,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,13.7,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,20.7,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,29.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.5,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,22.9,90.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,18.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,22.9,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Nirali,27.4,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,36.6,90.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,30.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Raghukoch,32.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Dhulat,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,29.0,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,15.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Bishnupur,30.5,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Uttar Basail,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Mastul,36.6,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,22.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,15.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hatail,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Jamirakanda,39.6,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Hatkora Diara,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,27.4,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Silimpur,32.0,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Chandiprasad,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jainda,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,17.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Bara Nilua,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,47.2,100.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Tulanda,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Tutiam,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Gararia,21.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bandhulat,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,15.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakraid,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Gangaprasad,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,33.8,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Haricharan,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Pachhkalia,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,12.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,13.7,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,25.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,29.0,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,20.1,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ulail,25.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bir Kakali,21.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Niranjanpur,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,38.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Rauha,12.2,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Rahatpur,18.3,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bandhulat,18.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,36.6,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,17.1,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Shyampur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Narayandaha,35.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,25.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,15.2,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Uail,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,13.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Bachamara,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,16.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bil Pauli,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,21.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Tulanda,22.9,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,15.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Deshgaon,27.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Mir Hatail,19.8,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Ag Kalia,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Purba Tegharia,27.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,18.3,90.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,22.9,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,20.1,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,35.1,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bara Apudanga,15.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Bir Chhatian,24.4,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Domarbil,29.0,125.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi Panchuria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,21.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,21.9,50.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,32.0,90.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Lautara,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,17.1,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Char Katari,Char Gobindapur,20.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,22.9,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,17.1,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,18.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,16.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,13.7,0.0,safe,safe
+Dhaka,Manikganj,Singair,Singair Paurashava,Singair,41.0,1.9,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,24.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,32.0,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Kashi Panchuria,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kapsail,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,17.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Bachamara,Subuddhi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Ichhail Gazi,33.5,45.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,33.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,21.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,19.8,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kalyanpur,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Gala,30.5,200.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ultabaria,27.4,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,45.7,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Bara Hatkora,24.4,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Khalsi,54.9,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Bil Kalidaha,35.1,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,25.9,25.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,18.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Panchthupi,21.3,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Kakna,30.5,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Kalia,Baorabari,19.8,45.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Ramchandrapur,21.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Uttar Natuabari,27.4,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Uttarara,21.3,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Kumaria,45.7,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,21.3,60.0,polluted,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Char Baghutia,22.9,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Andibari,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Sumidpur,23.2,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,24.4,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Hapania,21.3,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Baghutia,Paruria,18.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Char Mastul,22.9,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Baghutia,Brahmandi,18.3,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Dhamsar,Ghariala,36.6,0.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Baora,42.7,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,19.8,0.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Jiyanpur,Jiyanpur,22.9,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Kalia,Taluk Hapania,18.3,60.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Chak Mirpur,Chak Mirpur,32.0,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Haturia,19.8,25.0,polluted,safe
+Dhaka,Manikganj,Daulatpur,Khalsi,Binodpur,9.1,10.0,safe,polluted
+Dhaka,Manikganj,Daulatpur,Dhamsar,Dhamsar,26.5,10.0,safe,safe
+Dhaka,Manikganj,Daulatpur,Bachamara,Kail,20.7,0.0,safe,safe

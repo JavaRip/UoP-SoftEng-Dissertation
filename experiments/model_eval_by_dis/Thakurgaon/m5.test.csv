@@ -1,0 +1,10 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Rangpur,Thakurgaon,Pirganj,Hajipur,Khidra Gargaon,14.0,0.5,polluted,safe
+Rangpur,Thakurgaon,Thakurgaon Sadar,Roypur,Shalikasha,22.0,1.4,safe,safe
+Rangpur,Thakurgaon,Pirganj,Khangaon,Alampur,19.0,1.9,safe,safe
+Rangpur,Thakurgaon,Pirganj,Jabarhat,Jabarhat,21.0,0.5,safe,safe
+Rangpur,Thakurgaon,Thakurgaon Sadar,Rajagaon,Dharmapur,19.0,0.5,safe,safe
+Rangpur,Thakurgaon,Ranisankail,Lehemba,Gogar,23.0,0.5,safe,safe
+Rangpur,Thakurgaon,Haripur,Bhaturia,Tengaria,22.0,0.5,safe,safe
+Rangpur,Thakurgaon,Baliadangi,Bhanor,Bishrampur,17.0,1.7,safe,safe
+Rangpur,Thakurgaon,Haripur,Haripur,Haripur,13.0,0.5,safe,safe

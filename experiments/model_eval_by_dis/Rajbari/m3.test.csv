@@ -1,0 +1,8 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Dhaka,Rajbari,Rajbari Sadar,Basantapur,Maharajpur,22.0,7.2,safe,safe
+Dhaka,Rajbari,Balia Kandi,Baharpur,Bara Ramdia,50.0,0.5,safe,safe
+Dhaka,Rajbari,Pangsha,Patta,Patta,42.0,2.2,safe,safe
+Dhaka,Rajbari,Rajbari Sadar,Shahid Wahabpur,Rampur,20.0,25.0,safe,polluted
+Dhaka,Rajbari,Goalandaghat,Ujan Char,Uttar Ujan Char,16.0,10.1,safe,polluted
+Dhaka,Rajbari,Goalandaghat,Daulatdia,Char Daulatdia,24.0,314.0,safe,polluted
+Dhaka,Rajbari,Goalandaghat,Ujan Char,Purba Ujan Char,20.0,1.9,safe,safe

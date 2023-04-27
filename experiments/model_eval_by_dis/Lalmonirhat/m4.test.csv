@@ -1,0 +1,9 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Rangpur,Lalmonirhat,Aditmari,Bhelabari,Purba Bhelabari,18.0,0.5,safe,safe
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Kulaghat,Kulaghat,18.0,0.5,safe,safe
+Rangpur,Lalmonirhat,Hatibandha,Shingimari,Dakshin Goddimari,13.0,0.5,safe,safe
+Rangpur,Lalmonirhat,Hatibandha,Gotamari,Daikhawa,13.0,0.5,safe,safe
+Rangpur,Lalmonirhat,Aditmari,Palashi,Namuri,23.0,3.3,safe,safe
+Rangpur,Lalmonirhat,Kaliganj,Tushbhandar,Uttar Ghanashyam,20.0,0.6,safe,safe
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,Barabari,Shibram,18.0,4.2,safe,safe
+Rangpur,Lalmonirhat,Patgram,Paurashava,Sohagpur,14.0,0.5,safe,safe

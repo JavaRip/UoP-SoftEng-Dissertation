@@ -1,0 +1,2018 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,259.1,45.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,18.3,600.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,21.3,45.0
+Dhaka,Madaripur,Kalkini,Nabagram,Laskarpur,262.1,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Uttar Bhautali,54.9,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,22.9,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,24.4,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Betgram,19.8,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,19.8,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,36.6,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,16.8,250.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,19.8,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,42.7,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,27.4,90.0
+Dhaka,Madaripur,Kalkini,Nabagram,Diakandi,262.1,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,16.8,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Ramchandrapur,213.4,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,400.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,54.9,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,13.7,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,228.6,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Ramchandrapur,18.3,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,198.1,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,22.9,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,19.8,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,25.9,60.0
+Dhaka,Madaripur,Kalkini,Nabagram,Betgram,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,82.3,125.0
+Dhaka,Madaripur,Kalkini,Dasar,Dakshin Khilgram,292.6,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,207.3,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,289.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,274.3,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,15.2,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,24.4,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,21.3,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,600.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,15.2,500.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,13.7,50.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,36.6,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,19.8,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,21.3,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,15.2,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,36.6,200.0
+Dhaka,Madaripur,Kalkini,Alinagar,Raghunandandi,289.6,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,22.9,50.0
+Dhaka,Madaripur,Kalkini,Dasar,Bakai,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,48.8,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Jhautala,24.4,400.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,36.6,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,25.0,152.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,14.0,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,228.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,25.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,268.2,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,258.5,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,18.3,90.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Nabagram,45.7,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Ramchandrapur,27.4,250.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,13.7,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,13.7,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,18.3,50.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,18.3,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,18.3,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,16.8,45.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,22.9,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Badardi,24.4,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,45.7,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,228.6,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,18.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,12.2,250.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Decreer Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Uttar Bhautali,45.7,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,228.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,27.4,60.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,234.7,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,238.0,17.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,22.9,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,61.0,300.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,16.8,125.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,18.3,45.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,30.5,300.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,228.6,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,18.3,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,16.8,500.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,259.1,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,21.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kanurgaon,274.3,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,18.3,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,21.3,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,16.8,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,54.9,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,251.5,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,9.1,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,21.3,500.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,15.2,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,18.3,25.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,18.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,22.9,90.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Nabagram,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,25.0,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,400.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,30.5,300.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,16.8,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,24.4,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Aulir Char,21.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,51.8,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,262.7,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,250.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,35.1,400.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,18.3,100.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,18.3,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,21.3,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,61.0,50.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,61.0,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,26.5,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,13.7,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,15.2,200.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,21.3,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,45.0
+Dhaka,Madaripur,Kalkini,Nabagram,Alisakandi,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,18.3,45.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Decreer Char,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,15.2,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Betgram,48.8,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,19.8,250.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dhaji,44.2,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Dari Char Lakshmipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,27.4,90.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,51.8,90.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,365.8,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,22.9,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kanurgaon,24.4,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,19.8,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Janardandi,24.4,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Uttar Shashikar,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,15.2,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,54.9,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,36.6,200.0
+Dhaka,Madaripur,Kalkini,Alinagar,Char Lakshmipur (Part,24.4,45.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,259.1,50.0
+Dhaka,Madaripur,Kalkini,Nabagram,Betgram,48.8,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,27.4,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,12.2,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,19.8,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,13.7,200.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,48.8,50.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,250.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,15.2,200.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,237.7,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,21.3,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Dadpur,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,21.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,228.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,18.3,25.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,320.0,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,228.6,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,21.3,200.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,48.8,200.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,21.3,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Uttar Shashikar,45.7,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,24.4,600.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Baligram,19.8,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,21.9,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,15.2,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,56.4,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,24.4,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,30.5,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,251.5,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,13.7,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Narikeli,27.4,300.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,304.8,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,21.3,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,228.6,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,24.4,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,243.8,100.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,12.2,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,21.3,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,13.7,60.0
+Dhaka,Madaripur,Rajoir,Bajitpur,Nayakandi,34.0,305.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,274.3,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Raghunandandi,24.4,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,259.1,45.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,219.5,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Katla,19.8,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,16.8,1300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,18.3,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Banshgari,13.7,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,400.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,15.2,250.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,18.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,18.3,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Baligram,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,18.3,250.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Dari Char Lakshmipur,30.5,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Khuner Char,15.2,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,16.8,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,24.4,250.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,10.7,500.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,13.7,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,228.6,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,15.2,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Char Lakshmipur (Part,15.2,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,18.3,50.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,48.8,200.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,30.5,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,310.9,45.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,22.9,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Madhya Dhulgram,21.9,90.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,21.3,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,198.1,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,27.4,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,18.3,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kalair Char,262.1,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,24.4,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,243.8,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Char Hogalpatia,16.8,1300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,13.7,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,249.9,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,25.9,100.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,274.3,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,19.8,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,21.3,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Karna Para,18.3,125.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,27.4,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,13.7,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,18.3,45.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,15.2,25.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,12.2,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Ramchandrapur,27.4,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,21.9,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,228.6,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,15.2,600.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,243.8,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,24.4,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bara Char Lakshmi,24.4,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,13.7,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,22.9,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,21.3,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,200.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,9.1,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,21.3,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,13.7,500.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,13.7,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,18.3,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,27.4,25.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,21.3,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,19.8,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,21.3,50.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,13.7,25.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,45.7,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,13.7,125.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,198.1,10.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Palardi,15.2,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,18.3,500.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,51.8,60.0
+Dhaka,Madaripur,Kalkini,Nabagram,Uttar Shashikar,79.2,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,15.2,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,274.3,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,18.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,304.8,25.0
+Dhaka,Madaripur,Kalkini,Dasar,Dakshin Khilgram,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Purba Minajdi,27.4,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,51.8,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,18.3,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Roynandapur,15.2,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,21.3,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,259.1,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,15.2,400.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Chhaygaon,27.4,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,45.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bara Char Lakshmi,19.8,250.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,13.7,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Janardandi,21.3,200.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,22.9,400.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Patabali,18.3,500.0
+Dhaka,Madaripur,Kalkini,Dasar,Betbari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,213.4,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,22.9,10.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,21.3,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,19.8,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,18.3,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,13.7,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Banshgari,18.3,10.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,21.3,400.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,18.3,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,262.7,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Ramchandrapur,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,24.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,26.5,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,24.4,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,15.2,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,400.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,229.0,17.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,91.4,50.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,21.3,250.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,19.8,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Decreer Char,13.7,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Uttar Dhuasar,15.2,300.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,22.9,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Aisar,54.9,50.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,76.2,50.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,19.8,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,298.7,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,15.2,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Roynandapur,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,29.0,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Katla,19.8,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,30.5,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,15.2,100.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,219.5,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,12.2,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,18.3,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,13.7,600.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,16.8,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,13.7,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,18.3,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,21.3,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,21.3,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Uttar Kanaipur,25.9,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,243.8,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,500.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,21.3,400.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,19.8,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,18.3,250.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,15.2,125.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,13.7,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Dasar,Aruakandi,54.9,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,18.3,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Narikeli,13.7,100.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,259.1,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,41.1,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Chhaygaon,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,90.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,48.8,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,24.4,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,19.8,45.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Gopalpur,61.0,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,29.0,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,16.8,300.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Lamchari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,24.4,25.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,30.5,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,15.2,500.0
+Dhaka,Madaripur,Kalkini,Baligram,Bara Dhanua,29.0,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,250.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,27.4,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,22.9,45.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,41.1,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,19.8,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,15.2,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,26.5,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,228.6,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,41.1,90.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Nabagram,79.2,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Khanduli,25.9,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Chhota Snanghata,21.3,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,50.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,27.4,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,25.9,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Uttar Bhautali,243.8,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,228.6,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Decreer Char,24.4,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,30.5,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,219.5,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,16.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Chhota Snanghata,335.3,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,48.8,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,24.4,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,18.3,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,243.8,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,259.1,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Diakandi,280.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,25.9,300.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Akalbaris,259.1,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,289.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,24.4,500.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,262.7,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,19.8,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,27.4,45.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,73.2,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,228.6,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dakshin Gopalpur,219.5,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,48.8,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,18.3,400.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,25.9,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,289.6,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,16.8,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,500.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Raghunandandi,24.4,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,262.7,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,24.4,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,21.3,45.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,26.5,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,30.5,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Betgram,27.4,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,22.9,90.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,213.4,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,21.3,300.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,48.8,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,300.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,22.9,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,25.9,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Baligram,Uttar Dhuasar,27.4,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,21.3,125.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,19.8,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Karna Para,24.4,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Raghunandandi,18.3,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,18.3,400.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,16.8,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,61.0,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,247.5,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Baligram,30.5,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Madhya Dhulgram,27.4,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,262.7,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,13.7,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,259.1,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,21.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Dadpur,19.8,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,25.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Nabagram,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,222.5,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,16.8,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,16.8,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,249.9,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,48.8,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,22.9,300.0
+Dhaka,Madaripur,Rajoir,Badar Pasha,Sankardi,30.0,531.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,24.4,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,21.3,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,18.3,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Chhaygaon,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,250.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,13.7,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,48.8,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,13.7,250.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,13.7,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,228.6,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,13.7,250.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,50.3,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,24.4,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,22.9,45.0
+Dhaka,Madaripur,Rajoir,Rajoir,Rajoir,301.0,3.5
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,18.3,200.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,18.3,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,18.3,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,262.7,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,200.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,243.8,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,274.3,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,300.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,15.2,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,16.8,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,51.8,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,13.7,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,281.9,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,262.7,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,304.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Dari Char Lakshmipur,274.3,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,259.1,10.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,228.6,10.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,10.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,125.0
+Dhaka,Madaripur,Shib Char,Kanthalbari,Kawli Para,46.0,375.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,18.3,200.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,19.8,25.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,29.0,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,13.7,400.0
+Dhaka,Madaripur,Kalkini,Kalkini,Patabali,27.4,500.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,10.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,30.5,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,21.3,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,10.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,22.9,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,274.3,25.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Katla,13.7,60.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,54.9,200.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,18.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Chhaygaon,228.6,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,18.3,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,259.1,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Char Hogalpatia,38.1,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,22.9,45.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,24.4,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,10.7,100.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,51.8,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,24.4,45.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,25.9,500.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Dari Char Lakshmipur,18.3,25.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,22.9,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,26.5,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,18.3,50.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,12.2,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,24.4,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,21.3,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Baligram,19.8,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Chhaygaon,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,60.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,61.0,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,36.6,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,29.0,400.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,26.5,90.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,304.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,21.3,400.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,19.8,50.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,15.2,10.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,48.8,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,25.9,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,13.7,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,256.0,10.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,48.8,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,25.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,21.3,50.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,228.6,0.0
+Dhaka,Madaripur,Shib Char,Banshkandi,Mirzar Char,19.0,289.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,27.4,600.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,29.0,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,15.2,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,500.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,213.4,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,15.2,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,45.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,13.7,45.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,27.4,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,29.0,125.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,45.7,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,15.2,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,16.8,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,22.9,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,12.2,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,25.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,16.8,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,274.3,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,228.6,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,21.3,300.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,167.6,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Domra,274.3,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,21.3,200.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,51.8,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,32.0,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,22.9,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,27.4,50.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,19.8,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,21.3,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,250.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,259.1,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,18.3,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,335.3,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,262.7,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,243.8,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,18.3,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,36.6,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,350.5,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,19.8,60.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,45.7,25.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,15.2,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,24.4,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,22.9,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,228.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,19.8,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,18.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,18.3,250.0
+Dhaka,Madaripur,Kalkini,Dasar,Betbari,304.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,24.4,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,16.8,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,256.0,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,38.1,600.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalkini,18.3,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,262.7,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,28.0,200.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,13.7,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Khuner Char,18.3,400.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Jhautala,24.4,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,19.8,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,13.7,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,19.8,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,18.3,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,259.1,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Gopalpur,271.3,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,79.2,50.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,13.7,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,51.8,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Banshgari,27.4,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,600.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,41.1,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Badardi,27.4,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,13.7,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,29.0,100.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,36.6,45.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,243.8,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,51.8,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,19.8,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,259.1,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Chhota Banagram,29.0,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,22.6,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,19.8,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,21.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,16.8,25.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,29.0,500.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,18.3,400.0
+Dhaka,Madaripur,Kalkini,Alinagar,Raghunandandi,19.8,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,25.9,50.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,18.3,50.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,18.3,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,21.3,45.0
+Dhaka,Madaripur,Kalkini,Dasar,Dhamusa,91.4,25.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalkini,13.7,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,259.1,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,18.3,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,262.7,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,21.3,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,76.2,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,22.3,60.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,19.8,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,12.2,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,13.7,90.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Nabagram,268.2,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Pathuria Para,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,42.7,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,24.4,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,21.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,22.9,25.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,250.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,19.8,200.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,54.9,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,18.3,200.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,45.7,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,19.8,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,27.4,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,213.4,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dhaji,45.7,25.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,29.0,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,18.3,100.0
+Dhaka,Madaripur,Kalkini,Nabagram,Betgram,48.8,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,259.1,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Palardi,304.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Madhya Dhulgram,21.9,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Chhaygaon,259.1,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,19.8,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,24.4,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,200.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,21.3,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,19.8,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,22.9,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Dari Char Lakshmipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,18.3,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,27.4,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,19.8,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,16.8,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,51.8,25.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,18.3,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,18.3,10.0
+Dhaka,Madaripur,Kalkini,Alinagar,Uttar Kanaipur,22.9,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,90.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,76.2,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,243.8,10.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,45.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,224.0,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,15.2,125.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,228.6,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Alisakandi,13.7,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,15.2,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,24.4,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,16.8,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Uttar Kanaipur,29.0,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,30.5,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,18.3,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Bintilak,24.4,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,18.3,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,18.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,24.4,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,16.8,250.0
+Dhaka,Madaripur,Kalkini,Dasar,Betbari,236.2,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,13.7,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,13.7,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,100.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,30.5,400.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,24.4,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,18.3,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,15.2,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalkini,22.9,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Aulir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,600.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,22.9,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Alisakandi,13.7,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bara Char Lakshmi,24.4,45.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,13.7,200.0
+Dhaka,Madaripur,Kalkini,Baligram,Bara Dhanua,21.3,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,36.6,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Alinagar,Uttar Kanaipur,32.0,100.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,10.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,42.7,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,27.4,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,259.1,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,45.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Chhota Snanghata,16.8,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,19.8,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,274.3,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,24.4,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,16.8,25.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kanurgaon,30.5,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,19.8,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,13.7,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,19.8,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,13.7,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,19.8,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,18.3,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,48.8,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,18.3,250.0
+Dhaka,Madaripur,Kalkini,Nabagram,Chalbal Khan,235.0,13.0
+Dhaka,Madaripur,Kalkini,Kayaria,Roynandapur,15.2,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Akalbaris,228.6,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,24.4,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,274.3,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,22.9,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,18.3,500.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,61.0,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Janardandi,22.9,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,45.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,259.1,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kanurgaon,30.5,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,13.7,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,182.9,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,22.9,45.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,304.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,21.3,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,19.8,200.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,19.8,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,228.6,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bara Char Lakshmi,289.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,15.2,200.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,13.7,250.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,27.4,25.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,24.4,300.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,259.1,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,300.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,24.4,200.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,57.9,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,198.1,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,22.9,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Jhautala,228.6,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,18.3,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Aulir Char,24.4,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,45.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,365.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Dhamusa,274.3,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,274.3,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,18.3,45.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,21.3,25.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,16.8,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,21.9,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,22.9,45.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,28.0,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,24.4,200.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,54.9,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,19.8,250.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,48.8,200.0
+Dhaka,Madaripur,Kalkini,Alinagar,Char Lakshmipur (Part,18.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,22.9,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,27.4,300.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,256.0,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,278.0,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,18.3,45.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,232.3,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Chhota Banagram,21.3,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,79.2,500.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,27.4,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,21.3,250.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,27.4,50.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,228.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,274.3,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,22.9,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Dakshin Khilgram,292.6,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,24.4,90.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Uttar Shashikar,48.8,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,228.6,500.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,15.2,500.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,27.4,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,13.7,25.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kalair Char,262.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,19.8,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Aulir Char,243.8,25.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,24.4,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,24.4,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,19.8,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,12.2,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,54.9,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,500.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,24.4,10.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,15.2,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,217.0,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,19.8,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,18.3,600.0
+Dhaka,Madaripur,Kalkini,Nabagram,Alisakandi,45.7,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,18.3,25.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,76.2,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Dari Char Lakshmipur,16.8,25.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,25.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,27.4,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,25.9,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Khanduli,36.6,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,45.7,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,45.7,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,50.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Khanduli,36.6,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,18.3,125.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,18.3,500.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,243.8,25.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,274.3,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,213.4,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,22.9,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,24.4,10.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phulbari Gazaria,21.3,200.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,27.4,25.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,57.9,200.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,21.3,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,21.3,25.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Lamchari,25.9,600.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,60.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,21.3,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Ramchandrapur,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,29.0,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,18.3,400.0
+Dhaka,Madaripur,Kalkini,Alinagar,Char Hogalpatia,22.9,1300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,54.9,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,29.0,200.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,228.6,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,18.3,100.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,48.8,600.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Chhaygaon,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,243.8,100.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,36.6,25.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,365.8,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Uttar Shashikar,79.2,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,25.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,33.5,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,24.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,320.0,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,24.4,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Alisakandi,51.8,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,16.8,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Aulir Char,21.3,125.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,335.3,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Chhota Banagram,19.8,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,12.2,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,53.3,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,21.9,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,21.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,600.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,27.4,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,48.8,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,90.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,45.7,50.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,274.3,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,76.2,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,200.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,30.5,200.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kanurgaon,24.4,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,44.2,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,259.1,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Dadpur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Akalbaris,27.4,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,21.3,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,18.3,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,37.0,369.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,24.4,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,250.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,22.9,45.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,27.4,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,250.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,244.0,17.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,19.8,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,15.2,10.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,228.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,249.9,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,19.8,200.0
+Dhaka,Madaripur,Kalkini,Nabagram,Diakandi,268.2,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,24.4,10.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,12.2,25.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,152.4,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,18.3,600.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,19.8,400.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,24.4,10.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Katla,228.6,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,35.1,50.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,24.4,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,22.9,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Chhota Snanghata,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,15.2,600.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,45.7,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,260.6,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,15.2,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,100.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,38.1,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kalair Char,259.1,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Uttar Kanaipur,24.4,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalkini,22.9,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,24.4,10.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,22.9,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,16.8,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,259.1,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,225.6,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,30.5,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,15.2,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,13.7,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,22.9,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,19.8,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,65.5,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,15.2,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,16.8,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,249.9,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,500.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,76.2,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,45.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,21.3,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Baligram,18.3,250.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Decreer Char,16.8,25.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Dadpur,15.2,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,251.5,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,24.4,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,13.7,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,22.9,125.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,274.3,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,29.0,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Purba Minajdi,30.5,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,12.2,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,29.0,90.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,79.2,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,16.8,25.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,12.2,200.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phulbari Gazaria,24.4,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,16.8,90.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,45.7,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,30.5,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,21.9,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,10.7,400.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,259.1,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dhaji,259.1,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Gopalpur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,30.5,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Jhautala,22.9,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,79.2,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,213.4,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,13.7,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,21.3,400.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,22.9,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,24.4,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,24.4,25.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,15.2,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,15.2,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,13.7,500.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,22.9,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,13.7,400.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,16.8,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,25.9,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Uttar Dhuasar,21.9,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,15.2,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,13.7,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,21.3,25.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,18.3,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,256.0,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,54.9,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Lamchari,243.8,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,30.5,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bara Char Lakshmi,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,22.9,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,21.3,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,182.9,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,25.9,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,45.7,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,13.7,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,18.3,90.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Uttar Bhautali,29.0,250.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,289.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,16.8,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,12.2,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,45.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,18.3,500.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,18.3,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,213.4,10.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,21.3,45.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,21.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,21.3,250.0
+Dhaka,Madaripur,Kalkini,Nabagram,Alisakandi,54.9,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,228.6,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,19.8,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,228.6,10.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,21.3,600.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,237.7,10.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,53.3,90.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,36.6,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,12.2,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,15.2,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kalair Char,30.5,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Patabali,27.4,500.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,13.7,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Ramchandrapur,213.4,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Palardi,18.3,600.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,29.0,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,16.8,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,18.3,60.0
+Dhaka,Madaripur,Rajoir,Amgram,Hogla,249.0,1.3
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,51.8,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,400.0
+Dhaka,Madaripur,Kalkini,Nabagram,Alisakandi,51.8,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,16.8,50.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,304.8,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,25.9,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,21.3,45.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,21.3,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,228.6,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,16.8,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,18.3,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Dari Char Lakshmipur,30.5,90.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,30.5,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,47.2,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,13.7,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,21.3,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Pangasia,19.8,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,24.4,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,30.5,250.0
+Dhaka,Madaripur,Kalkini,Dasar,Dakshin Khilgram,67.1,100.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,30.5,50.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,15.2,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,24.4,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,13.7,200.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,25.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,29.0,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,16.8,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,48.8,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,19.8,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,13.7,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,18.3,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,22.9,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Khanduli,24.4,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,280.4,10.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,18.3,50.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,100.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,236.2,0.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dakshin Gopalpur,219.5,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,18.3,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,16.8,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,13.7,25.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Akalbaris,19.8,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Dadpur,15.2,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,24.4,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,24.4,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,24.4,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,24.4,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,18.3,50.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,24.4,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Jhautala,30.5,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,281.9,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,24.4,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Palardi,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,228.6,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,51.8,100.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,13.7,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,100.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,21.3,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,24.4,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,22.9,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,18.3,25.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,50.3,300.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,21.3,100.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Nabagram,45.7,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,22.9,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Bara Dhanua,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,228.6,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,19.8,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,21.3,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,13.7,90.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,25.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Decreer Char,18.3,400.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,45.7,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,21.3,300.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kalair Char,13.7,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,39.6,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,21.3,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Betbari,259.1,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,13.7,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,25.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,21.3,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,27.4,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,24.4,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,15.2,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,228.6,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,228.6,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,54.9,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,12.2,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,15.2,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,22.9,10.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,600.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Kamlapur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,18.3,400.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,19.8,100.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,259.1,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,22.9,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Dhamusa,52.4,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,18.3,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,22.9,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,13.7,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,19.8,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,259.1,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Domra,57.9,50.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,22.9,50.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,18.3,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,22.9,90.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,79.2,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,18.3,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,22.9,90.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,21.3,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,21.3,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kastagar,18.3,400.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,21.3,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,18.3,25.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,259.1,45.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,22.9,600.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,30.5,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,36.6,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,13.7,400.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,259.1,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Patabali,18.3,500.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,19.8,100.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Puali,18.3,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Banshgari,18.3,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,21.3,125.0
+Dhaka,Madaripur,Kalkini,Dasar,Gopalsen,243.8,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,260.6,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,18.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,250.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dhaji,25.9,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,274.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,19.8,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,15.2,50.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,600.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,22.9,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,15.2,200.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,24.4,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Aulir Char,21.3,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,16.8,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Chalbal Khan,236.0,15.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,36.6,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,243.8,10.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,21.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,26.5,200.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,45.7,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Pangasia,228.6,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Patabali,18.3,500.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,76.2,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,300.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,54.9,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,30.5,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,228.6,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,22.9,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,228.6,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Uttar Shashikar,79.2,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,265.2,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,15.2,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,13.7,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,13.7,250.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,274.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,18.3,50.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,15.2,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,22.9,45.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,24.4,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalkini,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,24.4,50.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,15.2,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,18.3,10.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,45.7,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,18.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Decreer Char,19.8,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,232.3,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,16.8,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,19.8,200.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,25.9,400.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,289.6,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,232.3,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,15.2,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,21.3,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,45.7,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,243.8,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Uttar Khilgram,33.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,30.5,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,15.2,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,15.2,250.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,27.4,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,15.2,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,21.3,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,25.9,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,15.2,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,22.9,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,25.0
+Dhaka,Madaripur,Kalkini,Kayaria,Roynandapur,15.2,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kanurgaon,213.4,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Bara Dhanua,24.4,90.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,13.7,300.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,45.7,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,15.2,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kachikata Urar Char,13.7,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,90.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Pangasia,24.4,200.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,48.8,90.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Char Ramjanpu,18.3,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,13.7,200.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,18.3,500.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Baligram,18.3,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bhabani Shankar,21.3,50.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Paschim Banagram,45.7,25.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,48.8,10.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,18.3,250.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,22.9,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,30.5,500.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,15.2,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,350.5,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,18.3,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,25.9,45.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,27.4,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Sadipur,21.3,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,18.3,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,21.3,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,24.4,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,18.3,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,21.3,300.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,33.5,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Khanduli,42.7,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,18.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,12.2,45.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,76.2,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Chhota Snanghata,19.8,10.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Uttar Bhautali,25.9,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,45.7,400.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,18.3,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Char Jagamohan,16.8,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,21.3,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,27.4,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,22.9,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Katla,228.6,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,21.3,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,22.9,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Khanduli,48.8,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,21.3,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,24.4,50.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,274.3,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,14.6,25.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dhaji,213.4,10.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Katla,18.3,125.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,18.3,0.0
+Dhaka,Madaripur,Kalkini,Dasar,Dhamusa,259.1,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Karna Para,21.3,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,237.7,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,38.1,90.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kachikata Urar Char,14.6,50.0
+Dhaka,Madaripur,Kalkini,Dasar,Aisar,259.1,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,243.8,45.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,24.4,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,350.5,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,12.2,200.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,19.8,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,13.7,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,64.0,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,28.0,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,400.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kanurgaon,213.4,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,25.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,213.4,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Pathuria Para,259.1,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,21.3,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,13.7,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,228.6,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,22.9,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Baligram,22.9,250.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Khanduli,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,259.1,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Char Katla,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,243.8,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,16.8,25.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,91.4,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,21.3,60.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dakshin Gopalpur,301.1,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,24.4,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kalinagar,13.7,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,15.2,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,27.4,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,262.7,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,19.8,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,22.9,125.0
+Dhaka,Madaripur,Kalkini,Alinagar,Char Lakshmipur (Part,24.4,25.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,18.3,50.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,45.7,400.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,18.3,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,21.3,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,45.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Dakshin Shashikar,48.8,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Dakshin Khilgram,259.1,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Char Lakshmipur (Part,15.2,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,19.8,90.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Purba Banagram,243.8,0.0
+Dhaka,Madaripur,Madaripur Sadar,Rasti,Hajrapur,220.0,0.9
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,16.8,45.0
+Dhaka,Madaripur,Kalkini,Baligram,Pathuria Para,19.0,458.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,18.3,400.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,16.8,250.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,15.2,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Paschim Minajdi,45.7,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Uttar Shashikar,50.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Madhya Dhulgram,365.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,47.2,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,18.3,250.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,256.0,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phasiatala,18.3,400.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Baligram,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Khanduli,54.9,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,600.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Dhamusa,259.1,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,18.3,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,192.0,0.0
+Dhaka,Madaripur,Kalkini,Alinagar,Tumchar,13.7,25.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,30.5,0.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,30.5,25.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,21.3,45.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,13.7,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Godadhardi,21.3,200.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Paschim Darsana,262.1,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,13.7,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Aulir Char,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,25.9,100.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Charairkandi,18.3,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,19.8,250.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Roynandapur,335.3,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,18.3,60.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,16.8,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Madhya Dhulgram,21.9,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,13.7,50.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,259.1,10.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,15.2,100.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,27.4,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,13.7,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,90.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,18.3,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bhatabali,18.3,500.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,128.0,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Kanurgaon,274.3,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,21.3,100.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,15.2,500.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Paschim Maij Para,48.8,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,27.4,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Bhautali,289.6,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,15.2,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phulbari Gazaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,19.8,600.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,19.8,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,16.8,25.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,16.8,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,16.8,400.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bara Char Lakshmi,19.8,60.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Takta,18.3,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Atipara,22.9,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Patabali,24.4,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,60.0
+Dhaka,Madaripur,Kalkini,Alinagar,Phulbari Gazaria,21.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Bara Dhanua,22.9,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,13.7,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,10.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,243.8,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,254.5,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Khudra Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,13.7,50.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,278.9,0.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,274.3,10.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,22.9,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,16.8,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Alimabad,15.2,25.0
+Dhaka,Madaripur,Kalkini,Dasar,Dasar,19.8,100.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,13.7,10.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dhaji,264.0,10.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,16.8,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Banshgari,18.3,250.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Bhabanipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Bagharia,18.3,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,22.9,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Dakshin Dhuasar,13.7,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,24.4,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,22.9,200.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,13.7,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,16.8,125.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,18.3,10.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,300.0
+Dhaka,Madaripur,Kalkini,Dasar,Dakshin Khilgram,61.0,100.0
+Dhaka,Madaripur,Kalkini,Dasar,Uttar Khilgram,38.1,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,21.9,125.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,18.3,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Aulir Char,21.3,300.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,24.4,45.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,25.9,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,259.1,45.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Dadpur,41.1,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Kashimpur,24.4,125.0
+Dhaka,Madaripur,Kalkini,Baligram,Purba Botla,24.4,25.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Krishnanagar,22.9,125.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,18.3,500.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,13.7,50.0
+Dhaka,Madaripur,Kalkini,Dasar,Betbari,289.6,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,13.7,10.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,500.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,15.2,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,21.3,100.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,12.2,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,259.1,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Madhya Dhulgram,21.9,300.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,18.3,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,18.3,45.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,19.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,21.3,60.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Purba Maij Para,45.7,300.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Bidyabagis,21.3,125.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,219.5,0.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,300.0
+Dhaka,Madaripur,Kalkini,Nabagram,Alisakandi,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,200.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Lakshmi,18.3,90.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,19.8,125.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,300.0
+Dhaka,Madaripur,Kalkini,Baligram,Bara Dhanua,22.9,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Dakshin Charairkandi,18.3,125.0
+Dhaka,Madaripur,Kalkini,Kazibakai,Dakshin Maij Para,22.9,200.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,259.1,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Banshgari,Narikeli,259.1,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,18.3,300.0
+Dhaka,Madaripur,Kalkini,Alinagar,Raghunandandi,24.4,60.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,18.3,25.0
+Dhaka,Madaripur,Kalkini,Kayaria,Chhota Char Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Sammandi,27.4,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Badardi,24.4,50.0
+Dhaka,Madaripur,Kalkini,Dasar,Domra,30.5,50.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,18.3,300.0
+Dhaka,Madaripur,Kalkini,Kalkini,Jhautala,21.9,90.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,250.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,30.5,60.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,54.9,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Uttar Thengamara,18.3,100.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,22.9,25.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Gungkul,21.3,250.0
+Dhaka,Madaripur,Kalkini,Kalkini,Pangasia,21.3,125.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,16.8,60.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,228.6,0.0
+Dhaka,Madaripur,Kalkini,Baligram,Khatial,30.5,250.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,10.7,300.0
+Dhaka,Madaripur,Kalkini,Banshgari,Khuner Char,15.2,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Bara Char Kayaria,243.8,10.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Kalai Sardarer Char,19.8,100.0
+Dhaka,Madaripur,Kalkini,Banshgari,Snanghata,21.3,125.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Char Fatebahadurpur,30.5,400.0
+Dhaka,Madaripur,Kalkini,Baligram,Bahir Dhulgram,24.4,90.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,13.7,60.0
+Dhaka,Madaripur,Kalkini,Banshgari,Bajrusar,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Rajdi,18.3,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,24.4,45.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,231.6,10.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Alipur,16.8,600.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kadam Patti,13.7,100.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,304.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,13.7,300.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Kamlapur,45.7,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Kolchari,27.4,250.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,38.1,200.0
+Dhaka,Madaripur,Kalkini,Kayaria,Kayaria,243.8,100.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Thengamara,18.3,500.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Uttar Urar Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Bibhagdi,22.9,500.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Andar Char,243.8,0.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,25.9,50.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,21.3,125.0
+Dhaka,Madaripur,Kalkini,Gopalpur,Dakshin Gopalpur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Kalkini,Dakshin Janarddandi,27.4,300.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Krokir Char,18.3,90.0
+Dhaka,Madaripur,Kalkini,Dasar,Purba Darsana,243.8,0.0
+Dhaka,Madaripur,Kalkini,Nabagram,Kalaitala,41.1,125.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Mahishmari Char,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kayaria,Ramarpol,18.3,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Purba Minajdi,27.4,90.0
+Dhaka,Madaripur,Kalkini,Sahebrampur,Sahebrampur,243.8,0.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Surjyamani,19.8,125.0
+Dhaka,Madaripur,Kalkini,Nabagram,Uttar Shashikar,19.8,60.0
+Dhaka,Madaripur,Kalkini,Kalkini,Char Thengamara,18.3,250.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,24.4,250.0
+Dhaka,Madaripur,Kalkini,Ramjanpur,Uttar Char Ramjanpur,13.7,200.0
+Dhaka,Madaripur,Kalkini,Shikar Mangal,Shikar Mangal,21.3,90.0
+Dhaka,Madaripur,Kalkini,Lakshmipur,Lakshmipur,18.3,60.0
+Dhaka,Madaripur,Kalkini,Baligram,Paschim Botla,21.3,200.0
+Dhaka,Madaripur,Kalkini,Banshgari,Dakshin Banshgari,21.3,250.0
+Dhaka,Madaripur,Kalkini,Alinagar,Kolchari Swasthal,18.3,100.0
+Dhaka,Madaripur,Kalkini,Enayetnagar,Enayetnagar,24.4,100.0

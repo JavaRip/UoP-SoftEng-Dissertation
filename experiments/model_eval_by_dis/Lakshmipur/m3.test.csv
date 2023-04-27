@@ -1,0 +1,1405 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Prediction,Label
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,90.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Ramandi,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Char Baga,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,80.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,60.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Pata,Gazinagar,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,274.3,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,12.2,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,226.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,15.8,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Dharmapur,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,8.5,40.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,353.6,10.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,7.9,500.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.6,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Charsai,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,292.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,228.6,10.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,12.2,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,351.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Baralia,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,215.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,11.6,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Sabilpur,270.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,13.7,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,14.3,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,8.5,400.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.9,80.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Pangashia,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Bedama,Char Poragachha,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Kadira,Char Kadira,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,10.1,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Jaliakandi,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,10.7,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Pakshir Char,216.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,217.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Kanchanpur,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Madna,229.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Purba Saiyedpur,270.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Niamat,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,10.7,80.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Kumedpur,227.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,8.5,10.0,polluted,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Pran Bhagabatipur,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Kumedpur,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,17.0,320.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Bedama,Paschim Char Sita,9.0,15.3,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,233.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.1,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,8.5,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,60.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,9.1,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Paschim Jamirtali,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,700.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Matabi,9.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,12.2,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,18.3,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Pran Bhagabatipur,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Hosenpur,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Purba Jamirtali,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Khodawondpur,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Kadira,Char Kadira,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,228.6,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Panch Para,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Ramandi,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,224.0,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Gosain,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Dakshin Chandrapur,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.3,500.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Bamni,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,20.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,8.5,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.7,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Mahadebpur,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,90.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Shyamganj,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,10.7,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,243.8,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,13.7,20.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Dakshin Rajapur,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Purba Lachh,280.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Nandigram,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,264.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Bara Ballabhpur,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,21.3,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.1,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,11.0,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Paschim Latifpur,275.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,20.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,9.1,300.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Shyamganj,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,249.9,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,12.2,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,274.3,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Makaradhwaj,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,50.0,safe,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,243.8,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,275.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Lawrence,Char Lawrence,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Kachhiar Char,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,237.7,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,246.9,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Karaitala,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Alipur,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,275.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,14.0,400.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Beacons Field,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,237.7,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Uttar Durgapur,13.7,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Sankibhanga,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,226.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,259.1,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Uttar Chandrapur,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Panch Para,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Baralia,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Athiatali,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Jhaudagi,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Khagaria,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Kazir Char,228.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,288.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,233.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,228.6,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Nurullahpur,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,275.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,224.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,400.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,208.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,12.8,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Hajir Para,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Datta Para,171.0,0.1,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Charsai,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,228.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,294.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Fatehpur,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,224.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Parbatinagar,224.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,249.9,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Kanchanpur,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,270.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Paschim Aladadpur,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,277.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Mahadebpur,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,500.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Kalakopa,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Mahadebpur,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,10.1,500.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Pangashia,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Shak Char,Puratan Shak Char,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,80.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Induria,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Charsai,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Shak Char,Puratan Tum Char,11.0,189.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,304.8,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,8.5,300.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Shibpur,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,9.1,500.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Kalkini,Char Kalkini,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.8,90.0,polluted,polluted
+Chittagong,Lakshmipur,Ramganj,Lamchar,Panpara,198.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Athiatali,291.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramganj,Bhatra,Dalta,30.0,332.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,275.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Talhati,12.2,400.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Shahar Kasba,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Purba Lachh,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,14.6,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,265.2,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,250.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Gaurinagar,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Bangakha,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,6.7,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Charsai,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Dahashala Char Ruhita,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,12.2,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Sonapur,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.6,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,12.2,50.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,228.6,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,18.3,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Beacons Field,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,8.2,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Dahashala Char Ruhita,269.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Kalkini,Char Kalkini,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,14.6,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Binod Dharmapur,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Dahashala Char Ruhita,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Baludhum,14.0,375.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Kadira,Char Thika,216.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,10.0,polluted,safe
+Chittagong,Lakshmipur,Ramganj,Bhatra,Joydebpur,229.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Baludhum,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,213.0,30.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Matabi,8.0,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.8,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,236.2,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Habibpur (Anayetpur),254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.3,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.7,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Farashganj,183.0,1.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,15.5,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,300.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,500.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.6,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Bhabanidas,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,266.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,6.4,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,9.1,400.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Farashganj,183.0,6.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,8.0,65.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,12.8,60.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,226.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,17.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Nandalalpur,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,298.7,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Hogaldahari,264.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Madhupur,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Purba Chaupalli,224.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,250.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,13.7,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,12.2,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Pakshir Char,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,10.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Royipur,Kazir Char,220.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,279.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,15.5,400.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Uttar Joypur,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,13.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Alipur,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Totarkhil,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Ludhua,271.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Kazir Char,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramganj,Chandipur,Chandipur,195.0,6.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Shyamganj,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,190.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kalir Britti,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Bhata,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Dakshin Rajaram Ghosh,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,228.6,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Chiladi,7.6,50.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Uttar Kalidasbagh,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Mitharkhil,11.0,10.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Wahidpur,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.8,100.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Sonapur,Sonapur,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,213.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kanthali,264.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,11.0,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Sonapur,272.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Panch Para,177.0,6.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,216.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,9.8,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,275.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Talhati,8.2,400.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,9.0,35.5,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Gaurinagar,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,70.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Abdullah,Char Abdullah,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Mahadebpur,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,8.5,500.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,8.5,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.6,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Paschim Latifpur,282.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,225.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,220.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,12.0,90.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.3,300.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,13.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,10.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,70.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.7,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,243.8,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Beacons Field,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Kachhiar Char,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,7.9,400.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,24.4,60.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Uttar Char Martin,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Dharmapur,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Titarkandi,262.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,12.2,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.9,50.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,11.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,216.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,226.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Khidirpur,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,380.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.3,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,9.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Harihar Chakra,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Lawrence,Char Lawrence,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,11.0,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Abdullah,Char Abdullah,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Basikpur,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,237.7,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,10.7,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.6,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Samaspur,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Uttar Dhainyapur,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Lawrence,Char Lawrence,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,233.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,300.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Sonapur,Sonapur,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,90.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,277.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,11.0,300.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,6.7,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Uttar Durgapur,9.1,400.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.7,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,240.8,10.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Saicha,214.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,10.7,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,8.2,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Beparir Char,220.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,8.5,90.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Mahadebpur,215.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,9.1,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Kadira,Char Kadira,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.9,10.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Farashganj,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Palpara,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,229.0,30.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,215.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,228.6,10.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,10.7,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Jaliar Char,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Sekhpura,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,220.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Paschim Chaupalli,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Hogaldahari,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Kumedpur,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Mahadebpur,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,9.1,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Dakshin Rajapur,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Kalkini,Char Kalkini,202.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,12.2,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Kangsa Narayan,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,10.7,500.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.6,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kalir Britti,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,16.8,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Mitharkhil,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Abdullah,Char Abdullah,365.8,0.0,safe,safe
+Chittagong,Lakshmipur,Ramganj,Lamchar,Dakshin Hazipur,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Purba Saiyedpur,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Balashpur,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kanthali,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Nandigram,12.0,256.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,272.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,259.1,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,400.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,13.7,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,430.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Rajibpur,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,10.7,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,12.2,40.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,211.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,90.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Kadira,Char Kadira,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,9.8,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,10.0,polluted,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,224.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Athiatali,233.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Abhirkhil,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Chhota Ballabhpur,227.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Paschim Saidpur,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,224.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,259.1,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohara,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Piarapur,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Bijoynagar,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Lawrence,Char Lawrence,9.0,26.5,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,262.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Dharmapur,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohara,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,40.0,safe,polluted
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,10.7,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Andhar Manik,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Mitharkhil,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Uttar Durgapur,12.2,200.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,8.5,300.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,228.6,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,500.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Kanchanpur,212.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Kazir Char,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Takuar Char,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Ratanerkhil,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,12.2,320.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Bamni,281.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ramani Mohan,Char Ramani Mohan,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Talhati,7.9,70.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Rajibpur,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,12.2,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,272.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,10.7,200.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,216.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Boro Char,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,214.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Jhaudagi,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,80.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Kalakopa,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,8.2,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Kashipur,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Charsai,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Shak Char,Puratan Shak Char,220.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,9.8,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Hosenpur,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.6,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,229.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,10.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,8.5,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Jadia,217.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,259.1,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,226.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Purba Saiyedpur,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,8.5,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Debananda Rayerkhil,283.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Nurullahpur,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.6,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Andhar Manik,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.6,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Bara Para,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,12.2,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,8.5,500.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,229.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,11.0,54.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,110.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.3,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Debananda Rayerkhil,217.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Madhupur,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Titarkandi,275.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,40.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.1,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Chandpur,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Sonapur,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,279.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.6,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Jadia,262.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Abdullah,Char Abdullah,11.0,20.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Makaradhwaj,278.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Dahashala Char Ruhita,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.9,80.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,14.6,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,225.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ramani Mohan,Char Ramani Mohan,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,225.6,10.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,11.0,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.3,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Royipur,Kazir Char,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Basikpur,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,390.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Jagannathpur,12.0,22.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,262.1,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,210.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Madna,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,13.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Deopara,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Hasandi,262.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Char Baga,224.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,13.7,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Paschim Latifpur,253.0,0.1,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,9.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.3,60.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Char Baga,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,20.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Chiladi,7.6,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.6,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Basikpur,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Bhabaniganj,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,10.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Talhati,9.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Dahashala Char Ruhita,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,13.7,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,228.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Parbatinagar,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,262.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,228.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Charsai,Purba Jafarpur,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ramani Mohan,Char Ramani Mohan,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Hajir Para,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Ludhua,228.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Ludhua,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,290.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,9.8,50.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Bedama,Char Kalakopa,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.6,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Talhati,10.1,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,400.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,217.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,274.3,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,246.9,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Kanchanpur,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,10.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Talhati,9.1,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,288.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Hasandi,194.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Induria,232.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Saidpur,225.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Dakshin Latibpur,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.8,70.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Kanchanpur,276.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,237.7,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Deyanatpur,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,12.2,40.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,9.8,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,80.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,264.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.6,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,15.2,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,7.6,500.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,12.2,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,13.7,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramganj,Lamchar,Samadpur,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,12.2,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Dakshin Dhanyapur,262.0,8.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,11.0,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,6.7,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,11.0,250.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Takuar Char,227.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Paschim Saidpur,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.3,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Chiladi,7.6,10.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,227.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,20.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.9,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Debinagar,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Gosain,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Uttar Joypur,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Hasandi,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Mitharkhil,7.6,10.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,150.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,8.2,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.6,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Bangakha,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Sonapur,Baga Rakhalia,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Ratanerkhil,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,9.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,11.0,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Mitharkhil,7.9,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,10.7,150.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,14.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,237.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.8,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,262.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Khagaria,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Bhabanidas,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramganj,Chandipur,Chandipur,14.0,702.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,10.7,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,6.7,40.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Bamni,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,10.7,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,50.0,safe,polluted
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.6,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Deopara,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,8.5,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,14.0,80.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Madanpur,262.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,228.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Baludhum,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,50.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Chandpur,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,228.6,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Dahashala Char Ruhita,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Shahar Kasba,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Dighaldi,278.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,278.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,500.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.8,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Mitharkhil,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,197.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.9,400.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,11.3,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Dahashala Char Ruhita,261.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,249.9,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,8.2,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,289.6,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,11.3,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,274.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,61.0,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,80.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,12.8,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,8.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Purba Lachh,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,12.8,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,246.9,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Shak Char,Puratan Shak Char,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Makaradhwaj,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,8.2,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,10.7,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,46.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Kalkini,Char Kalkini,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Kanchanpur,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,270.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,11.3,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,140.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,8.5,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Sonapur,Sonapur,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,274.3,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Shak Char,Shak Char,197.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Gandharbapur,275.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,12.2,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,400.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ramani Mohan,Char Ramani Mohan,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,231.6,10.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,211.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Dakshin Rajaram Ghosh,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,243.8,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Andhar Manik,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,11.0,20.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,208.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,18.3,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,14.6,250.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,9.1,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,10.0,polluted,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Andhar Manik,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Totarkhil,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Balashpur,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Kachhiar Char,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,229.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Pangashia,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,13.1,40.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,20.1,50.0,polluted,polluted
+Chittagong,Lakshmipur,Ramganj,Lamchar,Dakshin Hazipur,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,227.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Dighaldi,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Bamni,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,16.0,110.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Khondakarpur,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Gopinathpur,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Uttar Joypur,12.0,38.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,50.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,120.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Pata,Gazinagar,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Gosain,288.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Datta Para,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Makaradhwaj,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.6,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.6,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,8.0,230.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,11.0,80.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Ludhua,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.6,10.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Niamat,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Uttar Chandrapur,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,13.7,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Royipur,Kazir Char,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Char Chamta,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,8.5,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.9,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,8.5,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.1,500.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,262.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,228.6,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,10.1,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Royipur,Char Palwan,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Saicha,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,272.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,10.4,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Roypur Paurashava,Deyanatpur,217.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,12.0,270.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.6,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Chiladi,7.6,10.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,214.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.8,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,80.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Abdullah,Char Abdullah,10.7,30.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Hasandi,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Saicha,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,264.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,244.0,0.1,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,293.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,214.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Paschim Latifpur,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Baralia,225.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,7.9,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,265.2,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramganj,Lamchar,Panpara,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Uttar Maguri,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,228.6,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,227.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Pakshir Char,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,12.2,500.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,233.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,11.0,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Hogaldahari,216.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Jatrapur,272.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,276.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Paschim Saidpur,251.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,274.3,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.8,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Bamni,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,226.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,220.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,209.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mohammadnagar,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,60.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Alipur,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,8.0,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,259.1,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,9.1,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Uttar Maguri,246.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,264.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,271.3,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,10.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,273.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,560.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,13.0,110.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,21.3,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,237.7,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,80.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Abdullah,Char Abdullah,7.9,20.0,safe,polluted
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,11.0,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Beacons Field,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Dahashala Char Ruhita,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,237.7,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,233.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Bamni,Kalakopa,225.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Parbatinagar,Makaradhwaj,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,283.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.3,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Lakshmipur,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Ramandi,259.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,267.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Hogaldahari,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,11.0,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Bhabaniganj,233.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Niamat,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,11.3,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Saicha,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,9.1,500.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Bedama,Paschim Char Sita,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,10.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.8,40.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Mandal,7.6,400.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,292.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Mirzapur,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,269.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,250.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Athiatali,291.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,10.7,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,170.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Mahadebpur,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,11.0,90.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Samaspur,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Debinagar,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,220.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,12.2,150.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,10.4,10.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Alexandar,Char Alexandar,292.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,12.8,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,222.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,240.8,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Chiladi,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.1,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Chiladi,7.6,30.0,safe,polluted
+Chittagong,Lakshmipur,Ramganj,Lamchar,Panpara,211.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Dakshin Chandrapur,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,12.2,500.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Mirzapur,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,19.8,300.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,264.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Uttar Durgapur,14.6,100.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Pukurdia,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,8.2,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Dakshin Durgapur,242.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,12.8,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Chandraganj,Panch Para,248.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,234.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Shibpur,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,12.8,200.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Char Chamta,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Talhati,14.0,400.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,10.7,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,239.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohana,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,243.8,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,218.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Hajirhat,Char Jangalia,269.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,366.0,30.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Junudpur,255.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,20.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,219.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,8.5,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,224.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Mirpur,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Sonapur,Sonapur,9.0,255.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,12.2,50.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,216.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,227.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Kadira,Char Kadira,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Datta Para,249.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Falcon,Char Falcon,221.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,12.2,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dalal Bazar,Mahadebpur,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Andhar Manik,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramganj,Noagaon,Paniala,213.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Dighali,241.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,254.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,10.7,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,40.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,13.4,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Hajir Para,Uttar Kalidasbagh,273.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,213.4,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,8.5,40.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,235.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Naldagi,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,13.7,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Athiatali,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,10.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Paschim Jamirtali,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Bangshi Union,Char Lakshmi,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Udmara,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Char Mohara,245.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,208.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,12.2,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,9.1,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,6.7,300.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,259.1,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Bangshi,Char Bangshi,263.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Talhati,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,7.9,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Hasandi,215.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Lawrence,Char Lawrence,265.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,50.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,8.5,100.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Lawrence,Char Lawrence,252.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Jhaudagi,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Athiatali,14.0,142.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,8.5,100.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,236.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bangakha,Rajibpur,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Keroa,Keroa,243.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Gosain,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Royipur,Debipur,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Dakshin Rajaram Ghosh,256.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,9.1,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,60.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Pran Bhagabatipur,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Kushakhali,8.5,20.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dighali,Dighali,244.0,0.1,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Matabi,215.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,231.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Datta Para,Sreerampur,253.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Hamchadi,Uttar Hamchadi,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,300.0,polluted,polluted
+Chittagong,Lakshmipur,Kamalnagar,Torabgang,Char Pagla,273.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Char Martin,Dakshin Char Martin,257.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,274.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,7.9,70.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Uttar Joypur,Uttar Joypur,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,South Char Ababil,Gaiar Char,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,9.0,90.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Mandari,11.0,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Char Ababil,260.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Basikpur,Birahimpur,268.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Chiladi,7.6,50.0,safe,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,11.0,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,9.1,100.0,polluted,polluted
+Chittagong,Lakshmipur,Ramgati,Char Algi,Char Algi,279.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tum Char,Tum Char,271.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Shahar Kasba,240.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,198.1,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Laharkandi,10.7,40.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Chiladi,217.0,0.0,safe,safe
+Chittagong,Lakshmipur,Kamalnagar,Saheberhat,Char Jagabandhu,258.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Dakshin Hamchadi,Dakshin Hamchadi,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Char Ruhita,Char Ruhita,10.7,500.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Bamni,Sagardi,223.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Kushakhali,Mitharkhil,262.1,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Pata,Char Pata,230.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Mandari,Ratanpur,7.9,30.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,Char Mohana,Beacons Field,238.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Mehar,12.2,50.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Tiariganj,Andhar Manik,250.0,0.0,safe,safe
+Chittagong,Lakshmipur,Ramgati,Char Ramiz,Char Ramiz,18.3,100.0,polluted,polluted
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Paschim Saidpur,247.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Bhabaniganj,Char Mansa,244.0,0.0,safe,safe
+Chittagong,Lakshmipur,Roypur,Char Mohana,Roypur,233.0,0.0,safe,safe
+Chittagong,Lakshmipur,Lakshmipur Sadar,Laharkandi,Chandkhali,7.9,200.0,polluted,polluted
+Chittagong,Lakshmipur,Roypur,North Char Ababil,Pakshir Char,229.0,0.0,safe,safe

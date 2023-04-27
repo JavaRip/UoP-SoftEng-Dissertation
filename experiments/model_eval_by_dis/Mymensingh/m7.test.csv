@@ -1,0 +1,2396 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,18.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Paschim Shaknait,64.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,19.8,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,39.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Gamaritala,73.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,25.9,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,61.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,33.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,21.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,22.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,45.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Chuanna Hazar,67.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,79.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Randhunikura,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,85.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,27.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dumnikura,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,29.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Randhunikura,45.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,27.4,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,57.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,42.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,56.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,41.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,29.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,12.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,57.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,29.0,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,67.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,18.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Sonamuha,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Naiarikura,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,13.7,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,71.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,12.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,13.7,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sataish Kahania,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jamgara,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,27.4,75.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Randhunikura,64.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,33.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,53.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,29.0,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,24.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,18.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,29.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,24.4,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,22.9,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,70.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,35.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,25.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,12.2,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,53.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,15.2,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,59.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,32.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,24.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,46.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Kauchia,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Sonamuha,45.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,15.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,15.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,19.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Ghasigaon,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,50.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Katabari,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,14.0,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,28.0,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,271.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,12.2,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,42.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,12.2,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,67.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,15.2,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,38.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,26.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,22.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,62.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,22.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,59.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,32.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,47.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,53.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,12.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,45.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,29.0,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,15.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,76.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,50.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Bade Kharma,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,70.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,10.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,25.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,19.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,25.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,50.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,15.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,85.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Teguria,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,30.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,29.0,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Naiarikura,35.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,39.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,67.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,9.1,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,57.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ranakotara,13.7,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Amirkhankura,74.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,27.4,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,25.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,18.3,60.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,10.7,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,12.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,12.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,61.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Telikhali,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,67.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,29.0,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,45.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,10.7,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,59.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,18.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,9.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,12.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,79.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Amtail,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,10.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,18.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,26.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,16.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Ghasigaon,38.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,9.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,67.1,60.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,57.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,79.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,44.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,33.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,9.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,13.7,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joymangal,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,9.1,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,51.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,36.6,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,32.0,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,33.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,68.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,29.0,75.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Rohela,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,76.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Balijuri,24.4,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,25.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,54.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Phulpur,Kamargaon,Royjan,46.0,76.5,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,16.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,30.5,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,51.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,50.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,51.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,33.5,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,70.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,27.4,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,18.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,12.2,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,21.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,12.2,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,12.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,15.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,15.8,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,32.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,18.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,20.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,21.3,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,76.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Naliakanda,21.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,39.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,27.4,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,35.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,62.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,24.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,65.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,18.3,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,82.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,25.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,15.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Teguria,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,89.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Dakshin Palastala,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,85.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,18.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,24.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,19.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Matikata,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Amtail,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,18.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,79.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Randhunikura,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,13.7,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,16.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,45.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,35.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Chupinagar,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,36.6,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sataish Kahania,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,13.7,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Bade Kharma,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,29.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Ailatali,12.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,25.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,16.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Gamaritala,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,70.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Chupinagar,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,19.8,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Kona Para Jogania,25.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,22.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,41.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,15.8,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,11.6,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,30.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Gati,24.4,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,21.3,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,18.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,59.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,25.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,65.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,12.2,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,31.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,9.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,68.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,73.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,41.1,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,25.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,42.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,18.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,25.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,25.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,9.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,65.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,22.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,33.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,85.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,74.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,67.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Satgachhia,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,72.0,44.3,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,67.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Gati,25.9,75.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,61.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,32.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Telikhali,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Bade Kharma,65.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Sonamuha,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,36.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Amirkhankura,11.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,21.3,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,15.2,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Kona Para Jogania,73.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,22.6,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Saluakanda,15.2,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,53.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,18.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,12.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,12.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Krishnanagar,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Chupinagar,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,29.0,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,67.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,11.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,15.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,18.3,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,21.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,14.6,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,24.4,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,73.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,24.4,250.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,24.4,45.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,79.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,24.4,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,29.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,31.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,71.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,42.7,75.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,25.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,41.1,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,67.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,83.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,15.2,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,56.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,16.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,71.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,50.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,26.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,61.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,17.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,64.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,56.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,30.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,38.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jamgara,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Tengabar,18.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,25.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,11.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,38.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,29.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,9.1,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,45.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,23.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,21.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Balijuri,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,10.7,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,62.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,61.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,67.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,36.6,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,18.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,15.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Gati,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,38.1,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,70.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,50.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,30.5,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,76.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,36.6,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Sudarsankhila,53.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Kona Para Jogania,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,53.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,26.2,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,57.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,25.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,44.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,36.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,25.9,45.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,61.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,18.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,12.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Chuanna Hazar,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Dhobaura,Dakshin Maij Para,Jangalia Para,53.0,83.6,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,64.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,79.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,73.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,59.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,13.7,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Balijuri,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,11.6,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,28.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,53.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,18.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,25.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,48.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Bhaluka,Mallikbari,Bhandabo,57.0,0.5,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,76.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,19.8,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,18.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,24.4,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Batgachhiakanda,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,27.4,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,33.5,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,54.9,35.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,29.0,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Paschim Shaknait,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,82.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,57.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,13.7,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Kona Para Jogania,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,22.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,15.2,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,36.6,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,15.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,10.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Chuanna Hazar,30.5,90.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Telikhali,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,25.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,29.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Kona Para Jogania,57.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,21.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,11.0,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,58.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,22.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,25.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Ailatali,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,57.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,38.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,291.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,57.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Kachuakura,12.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,57.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,21.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,29.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joymangal,12.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,22.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,45.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,25.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,24.4,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,45.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,10.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,64.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,47.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,33.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,25.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,29.0,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,24.4,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,53.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,45.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,61.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,24.4,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,51.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,15.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Balijuri,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,82.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sataish Kahania,25.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,13.7,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,25.9,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,12.2,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Kachuakura,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,12.2,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,27.1,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,54.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,18.3,35.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Nalua,13.7,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,62.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Matikata,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,25.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Saluakanda,15.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,21.3,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,30.5,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Amirkhankura,85.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,28.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Kachuakura,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,71.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,45.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,25.0,60.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,18.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,22.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,24.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,29.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,19.8,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,47.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,79.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,35.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,29.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,56.4,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,53.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,17.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,50.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,70.0,29.5,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,41.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Ailatali,25.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,15.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,53.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,50.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,67.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,33.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Naliakanda,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,25.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,41.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,24.4,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,19.8,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,39.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,16.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Ghasigaon,16.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,22.9,90.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Krishnanagar,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,65.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,57.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,50.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Dhanbhanga,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,24.4,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,24.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,27.4,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,53.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,42.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,70.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,79.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,91.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,30.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Rohela,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,26.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,18.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,25.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ranakotara,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,29.0,75.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,34.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,48.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,19.8,45.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,32.0,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Saluakanda,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,21.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,18.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,80.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Kauchia,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,22.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,50.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dumnikura,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,39.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Saluakanda,17.1,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Kachuakura,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,64.6,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,32.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Matikata,18.3,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Krishnanagar,33.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,25.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,24.4,75.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,9.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,56.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,13.7,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,29.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,61.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Telikhali,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,30.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,51.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Ailatali,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Bhalukakura,35.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,18.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Rohela,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,35.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,36.6,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,38.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,51.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,71.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,33.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,36.6,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,36.6,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,41.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Randhunikura,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,29.6,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,42.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,50.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,36.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,59.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,25.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,41.1,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Matikata,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,71.6,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,45.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Naiarikura,9.1,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jamgara,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,22.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Chupinagar,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,54.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,15.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,12.2,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,25.0,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,30.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Amirkhankura,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,50.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,70.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,18.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,53.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,59.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,25.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,15.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,34.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,15.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Bhalukakura,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Nalua,29.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,35.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jamgara,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,45.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.3,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Baruigaon,22.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,51.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,97.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,18.3,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,29.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,53.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Amirkhankura,20.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Dakshin Palastala,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ranakotara,67.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,39.6,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,79.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,32.0,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,24.4,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,25.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,32.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Rohela,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,20.4,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,51.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Kachuakura,29.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Chupinagar,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,24.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Uttar Nalkura,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,12.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,24.4,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,18.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,59.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,33.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,36.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,27.4,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,14.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,59.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Amtail,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,24.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dumnikura,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,53.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,102.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Telikhali,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jamgara,73.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,29.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,19.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,56.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Amtail,21.3,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,29.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,34.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,51.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Katabari,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,32.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,21.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Phulpur,Kamaria,Sadhu Para,54.0,2.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Naliakanda,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Banai Chiringi Para,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,51.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,15.2,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,15.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dumnikura,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,65.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,80.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,50.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,61.0,45.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,10.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,65.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,51.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,13.7,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,91.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Haluaghat,171.0,22.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,16.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Satgachhia,71.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,65.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,16.8,90.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Amtail,18.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,61.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,10.7,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Bade Kharma,15.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,16.5,500.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,42.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,19.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,29.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,77.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,22.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,10.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,12.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,59.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Amirkhankura,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,23.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,27.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,39.6,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Tengabar,64.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,56.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,59.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,29.0,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Sonamuha,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,16.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,32.0,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Ulukandi,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,57.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,18.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,25.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,54.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,33.5,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,57.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,64.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,16.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,59.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,50.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,48.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,39.6,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Tengabar,64.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,23.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,64.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,59.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,45.7,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,10.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,38.1,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,53.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,41.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,25.9,45.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,24.4,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,50.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,19.8,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,16.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,50.3,10.0,safe,safe
+Mymensingh,Mymensingh,Fulbaria,Radhakanai,Palastali,55.0,0.5,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,18.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,68.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,29.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,22.9,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,18.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,54.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,67.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,82.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,64.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,51.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,22.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,39.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,68.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,44.2,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Phulpur,Tarakanda,Madhupur,54.0,0.5,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,21.3,45.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,39.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,38.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,25.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Chupinagar,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,65.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,21.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,56.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,68.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,9.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,10.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,50.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,85.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,15.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Dhobaura,Baghber,Baghber,61.0,14.8,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Bhubankura,24.4,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Chupinagar,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,67.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,69.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,22.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,76.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,21.3,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Saluakanda,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,15.2,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,35.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Bade Kharma,16.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,13.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Muktagachha,Kheruajani,Saidgram,65.0,0.5,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,27.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,29.0,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,27.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,28.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Naliakanda,67.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,16.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,62.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,53.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Batgachhiakanda,16.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,19.8,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dumnikura,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,24.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,13.7,60.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,53.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,21.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,70.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Matikata,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Amirkhankura,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Bade Kharma,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,34.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,15.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,10.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,21.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,19.8,75.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Banai Chiringi Para,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Balijuri,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,15.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,29.0,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Amtail,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,25.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,45.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,59.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,39.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,22.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,57.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,24.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,39.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,24.4,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,25.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,23.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,13.7,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,53.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,76.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,47.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,15.2,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,41.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,50.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,18.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Rohela,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,14.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,62.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Naiarikura,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,65.5,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Baghmar,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Amirkhankura,20.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Kumargati,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,25.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,17.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,24.4,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Nalua,56.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,10.1,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,57.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,53.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,65.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,18.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,27.4,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,21.9,175.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,12.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,15.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Nalua,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,12.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,50.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,25.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,21.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Kona Para Jogania,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,18.3,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,21.3,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,39.6,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,61.0,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,14.3,10.0,safe,safe
+Mymensingh,Mymensingh,Trishal,Mathbari,Mathbari,58.0,0.5,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,18.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jamgara,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,56.4,10.0,safe,safe
+Mymensingh,Mymensingh,Phulpur,Phulpur Paurashava,Godaria,47.0,1.3,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,29.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,64.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,59.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,27.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,11.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,57.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,22.9,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,39.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,38.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Gamaritala,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,19.8,45.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,33.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,61.0,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,15.2,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,65.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,22.9,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dumnikura,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,50.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,29.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,16.8,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Paschim Shaknait,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,20.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Nalua,9.1,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,17.0,23.1,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,53.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,21.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,30.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,14.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,18.3,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joymangal,14.6,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,57.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,61.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joymangal,14.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,44.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,16.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,21.3,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,27.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,35.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,33.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,67.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Kumargati,28.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Shibpur,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,13.7,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,12.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,18.3,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,14.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Randhunikura,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Naiarikura,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,28.0,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Naliakanda,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,57.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Kachuakura,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Sonamuha,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,15.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,35.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,11.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Balijuri,53.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,12.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Sudarsankhila,54.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,19.8,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,77.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,56.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,13.7,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Rustampur,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Krishnanagar,29.0,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,15.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,63.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,32.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,39.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,24.4,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,12.2,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,25.9,60.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,35.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,19.8,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,13.7,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,30.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,25.0,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,59.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Telikhali,9.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Gati,62.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,18.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,24.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,18.3,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Paschim Shaknait,70.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,23.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Ghasigaon,21.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joymangal,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,25.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Rohela,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,10.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,56.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,14.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,36.6,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,24.4,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,27.4,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,67.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,62.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bildora,67.1,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,33.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,19.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,67.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,77.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,13.7,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,54.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,30.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,24.4,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,61.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Ghasigaon,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,33.5,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joymangal,15.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,25.9,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,50.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,10.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,14.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,21.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,29.0,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,25.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,76.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Mymensingh Sadar,Char Nilakshmia,Char Raghurampur,59.0,36.1,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,61.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,19.8,45.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,12.2,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,69.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,12.2,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,57.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,18.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,13.7,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,60.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghoshber,32.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Sonamuha,47.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,24.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,25.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,18.3,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,39.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Uttar Ramnagar,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,21.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Balijuri,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,36.6,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,82.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,32.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,37.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Phania,97.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,21.3,175.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sataish Kahania,65.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,48.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,41.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Bade Kharma,17.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,39.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Bhalukakura,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,70.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,12.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,21.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,29.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,82.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,21.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Kalianikanda,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sataish Kahania,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,85.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,36.6,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,14.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Karaitala,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,54.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,25.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,9.1,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,76.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Shibpur,9.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Bhubankura,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,22.9,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,18.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Nandail,Singrail,Udang,55.0,60.8,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,64.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,29.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,9.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,47.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,59.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Lakshimkura,17.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,53.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Purba Narail,34.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Batgachhiakanda,38.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,62.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Jhaljhalia,35.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Gati,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,51.8,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Biraidakuni,25.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Telikhali,29.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,24.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,9.1,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,79.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,67.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Jainati,21.3,35.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Auti,77.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,47.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,25.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,36.6,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Dakshin Palastala,33.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,61.0,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,29.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Nischintapur,62.5,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Paschim Shaknait,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Bharariakona,16.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Matikata,15.2,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Kona Para Jogania,42.7,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,29.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,16.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,79.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Bali Chanda,39.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Karua Para,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Majhiail,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,45.7,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,14.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,23.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,24.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,36.6,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,21.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Paschim Shaknait,274.6,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,47.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,79.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,53.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Sakuai,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,19.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,27.4,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Ghasigaon,54.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,22.9,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,41.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,36.6,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,59.4,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,21.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,22.9,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,15.2,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Dhopa Guchhina,45.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Dakshin Nalkura,10.1,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,62.0,0.8,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,21.9,10.0,safe,safe
+Mymensingh,Mymensingh,Gauripur,Bokainagar,Betandar,262.0,1.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Uttar Nalkura,12.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,15.8,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutura,16.8,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,18.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,16.8,125.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,67.1,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,70.1,10.0,safe,safe
+Mymensingh,Mymensingh,Fulbaria,Achim Patuli,Ramnagar,57.0,0.5,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kharma,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,27.4,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Gazipur,19.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,18.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Mahishleti,51.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,41.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,45.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bahir Shimul,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Phulghar Mujakhali,25.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.3,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Mankanda,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Kachuakura,23.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Narail,Gopinagar,28.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,32.0,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Ruhi Pagaria,48.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,35.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Sarchapur,21.3,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,54.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,31.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,22.9,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,21.3,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,10.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,36.6,90.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Matikata,9.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Saluakanda,18.3,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,22.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Surjyapur,17.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,67.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,14.0,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Purba Shaknait,70.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Bangaon,19.8,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Satgachhia,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,19.8,50.0,polluted,safe
+Mymensingh,Mymensingh,Ishwarganj,Atharabari,Atharabari,91.0,26.8,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bishampur,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,24.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,73.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Uttar Itakhola,38.1,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,13.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,48.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Bhatta Naya Para,22.9,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Bhalukakura,38.1,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,18.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,19.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,59.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,13.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Khandak Para,67.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,22.9,100.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,61.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dhurail,22.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Chhatugaon,15.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Ailatali,21.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,16.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Kailati,19.8,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,45.7,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,27.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Char Bangalia,42.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,46.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Majrakura,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Jugli,Ghilabhuin,11.6,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,13.7,125.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Akan Para,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Teguria,48.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,47.2,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,56.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,76.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Swadeshi,57.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,21.3,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kutikura,29.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Matikata,50.3,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,18.3,250.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Kaulara,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Achki Para,36.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Manikura,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Pabiajuri,16.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,13.7,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Asram Para,19.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,26.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Bildora,Chupinagar,21.3,50.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Gobrakura,25.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Kayrahati,59.4,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,13.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,12.2,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Hapania,22.9,50.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Shimul Kuchi,30.5,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,23.5,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Gazir Bhita,24.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Bausi,12.2,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,15.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,18.3,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Sandhyakura,86.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,24.4,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Karaikanda,45.7,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Dakshin Ramnagar,29.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Sonamuha,35.1,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,76.2,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,13.7,250.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Birguchhina,53.3,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Samania Para,21.3,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Lamukta,15.8,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,45.7,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bhubankura,Baghaitala,21.3,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhara,Darinagua,21.9,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Sangra,61.0,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Uttar Khairakuri,64.0,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Amtail,Bade Bahir Shimul,13.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,33.5,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Chandsiri,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kumuria,65.5,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Nasulla,24.4,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Atuajangal,16.8,100.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Makimpur Nagua,12.2,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Balijuri,97.5,25.0,polluted,polluted
+Mymensingh,Mymensingh,Haluaghat,Kaichapur,Darsapar,26.8,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,29.6,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Dhara,Dhara,19.8,25.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Gorakpur,62.5,0.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Bildora,Satgachhia,25.9,250.0,polluted,safe
+Mymensingh,Mymensingh,Haluaghat,Narail,Kismat Narail,27.4,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Jugli,54.9,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Swadeshi,Machhail,12.2,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Gazir Bhita,Barak Ghoshgaon,27.4,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Dhurail,Mokamia,10.7,0.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Jugli,Joyramkura,22.9,10.0,safe,polluted
+Mymensingh,Mymensingh,Haluaghat,Sakuai,Phania,22.9,10.0,safe,safe
+Mymensingh,Mymensingh,Haluaghat,Haluaghat,Raghunathpur,27.4,10.0,safe,polluted

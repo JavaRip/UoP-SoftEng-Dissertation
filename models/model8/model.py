@@ -47,6 +47,10 @@ def gen_predictions(train_df, test_df, k_fold):
     tr_div = train[train['Division'] == div]
     te_div = test[test['Division'] == div]
 
+    # if test df has no entries in this div skip
+    if len(te_div) == 0:
+      continue
+
     tt_df = append_test_train(te_div, tr_div)
 
     conv_cat_num(tt_df, 'Label')
@@ -78,7 +82,8 @@ def gen_predictions(train_df, test_df, k_fold):
       hidden_layer_sizes=(math.trunc(num_feat / 2), math.trunc(num_feat / 4), math.trunc(num_feat / 8)),
       learning_rate='adaptive',
       random_state=99,
-      max_iter=100,
+      max_iter=5,
+      verbose=True,
     )
 
     clf.fit(train_X, train_y)

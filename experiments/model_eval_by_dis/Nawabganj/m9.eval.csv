@@ -1,0 +1,2 @@
+model,k,sensitivity,f1,accuracy,precision,specificity
+m9,1,0.2,0.08695652173913045,0.16,0.05555555555555555,0.15

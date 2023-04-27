@@ -1,0 +1,5 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Khulna,Meherpur,Mujib Nagar,Bagoan,Taranagar,43.0,482.0,polluted,polluted
+Khulna,Meherpur,Mujib Nagar,Bagoan,Taranagar,148.0,228.0,polluted,polluted
+Khulna,Meherpur,Meherpur Sadar,Kutubpur,Kulberia,42.0,76.6,polluted,polluted
+Khulna,Meherpur,Mujib Nagar,Bagoan,Ballabhpur,39.0,72.0,polluted,safe

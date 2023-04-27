@@ -1,0 +1,1265 @@
+Division,District,Upazila,Union,Mouza,Depth,Arsenic,Label,Prediction
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Dinga Manik,300.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,276.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Maluhar,253.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Kuralia,273.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Bairkati,284.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Dakshin Karapur,300.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Sarbari,238.0,3.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,229.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Datterabad,310.9,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Dudhal,Chatra,310.9,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Meur,12.2,300.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kamar Para,9.1,400.0,polluted,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Salia Bakpur,241.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Garuria,13.7,100.0,polluted,safe
+Barisal,Barisal,Wazirpur,Guthia,Nayabari,267.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,11.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,305.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Narakati,327.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Char Chandra Mohan,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Sahebpur,299.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Paschim Charadi,286.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Solna,277.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,305.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Gaba,286.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Kafila,303.3,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,15.2,400.0,polluted,safe
+Barisal,Barisal,Wazirpur,Bamrail,Hastishiwnda,264.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Ratnapur,Beluhar,245.0,2.0,safe,polluted
+Barisal,Barisal,Bakerganj,Kalaskati,Baghdia,312.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Karnakati,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Paschim Krishnanagar,281.0,0.0,safe,polluted
+Barisal,Barisal,Wazirpur,Harta,Natharkandi,225.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Khulna,263.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Bisarikathi Charkhand,260.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,289.6,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,277.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,22.9,300.0,polluted,safe
+Barisal,Barisal,Gaurnadi,Mahilara,Bejahar,22.0,290.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Baghdia,310.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Bara Krishnakati,304.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Uttar Satla,237.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,322.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,289.6,0.0,safe,polluted
+Barisal,Barisal,Agailjhara,Bakal,Jalirpar,236.0,2.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,254.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jasar,241.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,289.6,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Nalchira,Uttar Kanda Pasha,244.0,14.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,14.3,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Matasar,311.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Brahmankati,21.0,11.5,polluted,safe
+Barisal,Barisal,Agailjhara,Gaila,Purba Sujankati,236.0,5.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,316.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Tetla,234.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,12.2,50.0,polluted,safe
+Barisal,Barisal,Bakerganj,Darial,Dakshin Kajlakati,283.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kodalia,253.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,292.6,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jasar,245.0,1.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Sonar,251.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Char Pattania,298.7,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Hathazar,293.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Somraji,321.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Bara Karfakar,245.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,13.7,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,282.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Chandshi,Uttar Chandshi,245.0,4.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,289.6,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,302.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Bara Chaulakati,282.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,298.7,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Char Gazalia,286.5,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,305.7,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Dephulia,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Datterabad,301.8,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Tilak,285.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Chandshi,Dakshin Gobardhan,239.0,17.0,polluted,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Badal Para,314.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,22.9,100.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,259.1,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Kalbila,237.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Khayerdia,280.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Mahilara,Hapania,256.0,13.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Jibdalan,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Daokati,300.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Puran Para,18.3,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Rangasree,Runsi (Part),311.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,257.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Balaikathi,294.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bagdha,Jobarpar,244.0,2.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Marichbunia,231.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Sarbari,245.0,4.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Baghdia,309.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Goma,292.6,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,235.0,2.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Shib Pasha,304.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Kalbila,257.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Hiradhar,313.9,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Jibdalan,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Balaikathi,294.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Bisarkandi,227.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Sakral,261.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,298.7,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,12.2,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,285.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,306.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Umarerpar,293.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Kulakana,278.9,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Jambari,247.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,12.2,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Sarasi,275.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Katurakati,274.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,18.3,500.0,polluted,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria Lamchari,309.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Mahish Pota,245.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Char Aicha,291.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Chatra,300.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,12.8,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,19.8,20.0,polluted,safe
+Barisal,Barisal,Gaurnadi,Sarikal,Purba Char Sarikal,253.0,14.0,polluted,safe
+Barisal,Barisal,Agailjhara,Gaila,Kalu Para,241.0,4.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Helencha,320.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Bharasakati,258.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Sundarkati,312.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Bara Krishnakati,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Deuli,297.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Pataniakati,283.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Patang,323.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Iluhar,273.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,18.3,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Kaladema Chahatta,257.0,0.0,safe,safe
+Barisal,Barisal,Muladi,Batamara,Purba Selimpur,250.0,17.0,polluted,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,22.9,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Darial,Koshabar,286.5,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Chhota Krishnakati,308.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Meur,310.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Nanda Para,309.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bagdha,Jobarpar,242.0,6.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,246.0,1.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Mukunda Patti,270.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Kagasura,274.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Faridpur,321.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,318.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Rabipur,16.8,200.0,polluted,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Gaba,250.0,0.5,safe,safe
+Barisal,Barisal,Babuganj,Agarpur,Tiler Char,244.0,16.0,polluted,safe
+Barisal,Barisal,Bakerganj,Dudhal,Kabiraj,304.8,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Dakshin Char Aicha,266.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Rupatali,282.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Atakati,315.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Baghdia,309.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Bisarad,302.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Tiakhali,278.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,9.1,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,283.5,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,300.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Char Kowa Nayani,295.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,15.2,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Dudhal,Paschim Sarsi,298.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bagdha,Jobarpar,241.0,1.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Sholak,276.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Kaua Char,299.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,21.9,200.0,polluted,safe
+Barisal,Barisal,Banari Para,Baisari Para,Dumaria,236.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,304.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Satbaria,244.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Uttar Karapur,311.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,210.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Puran Para,274.3,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Badal Para,291.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Uttar Sihi Pasha,236.0,4.0,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Gobindapur,318.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,24.4,10.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Kafila,10.7,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Shib Pasha,279.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,286.5,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,289.6,10.0,safe,safe
+Barisal,Barisal,Gaurnadi,Paurashava,Harisana Kasemabad,253.0,11.0,polluted,safe
+Barisal,Barisal,Banari Para,Baisari Para,Kachuat,237.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Ratnapur,Mohankati,251.0,0.5,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,224.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Narakati,312.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,21.3,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,311.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Betal,297.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Rajapur,318.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Iluhar,235.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Bukhainagar,284.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,318.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Kabiraj,9.1,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,298.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,232.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,11.6,30.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Baligram,307.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Shyampur,13.7,20.0,polluted,safe
+Barisal,Barisal,Bakerganj,Rangasree,Shyampur,10.7,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Dhaparkati,317.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Karpara,217.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Marichbunia,272.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Munshir Taluk,258.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,19.8,200.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Hiradhar,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,289.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Damodarkati,251.0,14.0,polluted,safe
+Barisal,Barisal,Gaurnadi,Nalchira,Kalna,251.0,14.0,polluted,safe
+Barisal,Barisal,Bakerganj,Rangasree,Runsi (Part),304.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Bara Karfakar,234.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Natharkandi,205.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Char Aicha,291.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Asurail,258.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Kansi,266.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Sarasi,272.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Dakshin Durgapur,310.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Paschim Char Raghunat,294.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Kalu Para,232.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,18.3,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Ruia,291.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Sataraj,267.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Purba Dhamsar,256.0,2.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,253.0,0.5,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,13.7,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,274.3,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Jirail,316.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,304.8,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,280.4,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,331.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Bihangal,279.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,262.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Lakhutia,283.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Dakshin Karapur,314.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,18.3,10.0,safe,polluted
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,307.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Faridpur,292.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,286.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,239.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,13.7,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Dudhal,Sundarkati,310.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Gazirpar,337.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,13.7,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,317.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Chakman,239.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,237.0,0.5,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Uttar Jagua,297.2,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kamar Para,292.6,0.0,safe,safe
+Barisal,Barisal,Banari Para,Baisari Para,Garduar,277.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,297.2,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Naimitra,305.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,30.0,polluted,safe
+Barisal,Barisal,Banari Para,Baisari Para,Uttarkul,231.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Uttarkati,309.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Niamati,307.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Deuli,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,18.3,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Gobindapur,261.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bagdha,Kalirbari,247.0,1.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Chhota Krishnakati,311.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,232.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Tiakhali,281.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Ahuti Bhatra,226.0,4.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,245.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Kalabhita,233.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Runsi (Part),308.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Dakshin Morakati,257.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Char Lakshmi Bardhan,272.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Garuria,298.7,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,247.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Char Badna,18.3,500.0,polluted,safe
+Barisal,Barisal,Agailjhara,Bakal,Jasar,245.0,0.5,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Guthia,281.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Santoshdi,313.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Udaykati,231.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Kajalhar,289.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Bawalia,242.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,11.0,60.0,polluted,safe
+Barisal,Barisal,Bakerganj,Rangasree,Daokati,319.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,269.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,236.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Gabhikhola,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,308.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,241.0,1.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kodalia,274.3,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,285.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jalirpar,235.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,213.4,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kamar Para,13.7,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,30.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,18.3,200.0,polluted,safe
+Barisal,Barisal,Banari Para,Baisari Para,Garduar,237.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Aicha,289.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Damodarkati,16.0,257.0,polluted,safe
+Barisal,Barisal,Wazirpur,Satla,Rajapur,225.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,18.3,100.0,polluted,safe
+Barisal,Barisal,Gaurnadi,Batajore,Batajore,258.0,8.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Karnakati,305.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Natharkandi,226.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,250.0,7.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,314.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,320.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Char Pattania,16.8,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kabai,Purba Lakshmi Pasha,300.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Purba Maheshpur,315.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Dakshin Kalihata,265.0,0.0,safe,polluted
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,241.0,39.0,polluted,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,267.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Char Samasdi Baligram,302.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,268.2,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Abdani,21.3,300.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,288.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,288.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Chatra,304.8,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Bisarad,294.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Lochanabad,319.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,289.6,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,289.6,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Uttar Sihi Pasha,245.0,2.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Kajalhar,288.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Chhota Dudhal,308.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Bara Gharia,12.2,300.0,polluted,safe
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,269.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,292.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Shikarpur,Ichladi,293.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Bheduria,294.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Bebaz,21.3,10.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Balaikathi,293.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,276.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Tilak,298.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,250.0,1.0,safe,polluted
+Barisal,Barisal,Bakerganj,Dudhal,Paschim Sarsi,300.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Chira Para,301.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Kaua Char,295.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,250.0,1.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Uttar Satla,260.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Paschim Kathira,238.0,5.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Purba Lakshmi Pasha,310.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Udaykati,272.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Bhabanipur,224.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Rabipur,313.9,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,248.0,3.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Jogirkanda,225.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Bara Karfakar,228.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Shyampur,315.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Jogirkanda,313.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Churaman,276.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Kuralia,212.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Phalaghar,303.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Khayerdia,257.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,22.9,500.0,polluted,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Gazirpar,255.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Faridpur,243.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Deuli,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Chunakhali,320.0,0.0,safe,polluted
+Barisal,Barisal,Wazirpur,Guthia,Bairkati,288.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,321.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Jamirbari,263.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,310.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,6.1,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Abdani,13.7,500.0,polluted,safe
+Barisal,Barisal,Banari Para,Chakhar,Sonar,238.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Auar,246.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Kabiraj,396.2,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Masang,279.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Narerkati,274.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Bamnikati,291.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Bheduria,305.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,11.6,10.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Dosatina,256.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,286.5,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,299.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,302.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,13.7,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Bara Gharia,12.2,200.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,317.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Tungibaria,328.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Mahilara,Purba Sharifabad,251.0,8.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,278.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Nalchira,Pingalakati,244.0,15.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Ganpara,281.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Alamdi,218.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Chandshi,Nathai,236.0,3.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Biharipur,314.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Shikarpur,Paramananda Saha,307.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,19.8,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,286.5,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Dudhal,Pilkhana,304.8,0.0,safe,polluted
+Barisal,Barisal,Banari Para,Saidkati,Talaprasad,244.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Karanja,302.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,289.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,13.7,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Chhota Raghunathpur,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Chhagaldi,297.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,239.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Karpara,245.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Rajapur,13.7,20.0,polluted,polluted
+Barisal,Barisal,Bakerganj,Dudhal,Pilkhana,426.7,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Bamrail,274.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Bairkati,281.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,244.0,2.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Dakshin Sihi Pasha,241.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,19.8,200.0,polluted,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,283.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Char Auliapur,263.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,22.9,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Rangasree,Daokati,310.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Krishnanagar,313.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Andhar Manik,277.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Sakral,278.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Ganpara,283.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Dhola,289.6,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,13.7,500.0,polluted,safe
+Barisal,Barisal,Agailjhara,Gaila,Uttar Sihi Pasha,244.0,4.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,12.2,400.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Char Kowa Nayani,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,18.3,400.0,polluted,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,217.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Garuria,Hiradhar,308.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,262.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,276.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Sarikal,Hosnabad,248.0,17.0,polluted,safe
+Barisal,Barisal,Gaurnadi,Nalchira,Kanda Pasha,241.0,14.0,polluted,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,25.9,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria Lamchari,305.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jasar,238.0,0.5,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Didihar,232.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Roypura,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Datterabad,305.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,299.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,18.3,200.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,11.6,60.0,polluted,polluted
+Barisal,Barisal,Bakerganj,Darial,Uttampur,13.7,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Char Auliapur,296.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Uttar Karapur,239.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,265.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Uttar Sihi Pasha,250.0,18.0,polluted,safe
+Barisal,Barisal,Wazirpur,Satla,Satla,255.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Shyampur,12.5,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,243.0,1.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,76.2,200.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Dharmmadi,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,312.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Darial,Bamnikathi,255.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Murarbari,230.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,274.3,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Ghagra Tumchar,310.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Uttar Malikandi,220.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Helencha,13.7,100.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Paschim Char Monai,288.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Paschim Lakshmi Pasha,300.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Roy Pasha,311.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,13.7,200.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,19.8,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Char Chandra Mohan,307.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Pilkhana,302.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Munshir Taluk,272.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,250.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Sarikal,Saheber Char,250.0,16.0,polluted,safe
+Barisal,Barisal,Bakerganj,Faridpur,Bhoj Mahal,294.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,263.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Machhrang,22.0,389.0,polluted,polluted
+Barisal,Barisal,Banari Para,Saidkati,Talaprasad,239.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Lakhutia,282.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Baligram,305.0,0.0,safe,polluted
+Barisal,Barisal,Banari Para,Banari Para,Machhrang,287.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Batna,18.3,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,294.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,30.5,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Niamati,Maheshpur Khas,264.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Khairabad,286.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,292.6,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,238.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Chhota Puiautha,320.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Tetla,234.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,243.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Lakhutia,270.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Bhadurpur,307.0,0.0,safe,polluted
+Barisal,Barisal,Wazirpur,Jalla,Munshir Taluk,232.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Roy Pasha,276.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,15.2,10.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,306.0,0.0,safe,polluted
+Barisal,Barisal,Banari Para,Udaykati,Labansara,266.0,0.5,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Tetla,249.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,24.1,400.0,polluted,polluted
+Barisal,Barisal,Wazirpur,Jalla,Jalla,224.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,10.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Rajapur,260.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,13.7,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Bebaz,45.7,60.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Khairabad,263.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,280.4,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Sarbari,241.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,365.8,0.0,safe,polluted
+Barisal,Barisal,Banari Para,Chakhar,Bara Chaulakati,278.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,235.0,0.5,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jalirpar,241.0,3.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Tilak,279.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,17.4,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Nalua,Char Gazalia,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,256.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Purba Sujankati,224.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,309.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Abdani,276.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,13.7,300.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Abdani,10.7,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Faridpur,Faridpur,322.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Char Lakshmi Bardhan,236.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,35.1,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Meur,313.9,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,13.7,300.0,polluted,safe
+Barisal,Barisal,Wazirpur,Jalla,Kuralia,240.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,13.7,60.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,18.3,300.0,polluted,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,242.0,1.0,safe,polluted
+Barisal,Barisal,Bakerganj,Darial,Darial,13.7,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,274.3,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,27.4,500.0,polluted,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,251.0,0.5,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,319.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,13.7,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Badal Para,288.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Bhandarikati,313.0,0.0,safe,polluted
+Barisal,Barisal,Wazirpur,Sholak,Damodarkati,265.0,0.0,safe,polluted
+Barisal,Barisal,Wazirpur,Guthia,Pataniakati,283.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Ghagra Tumchar,289.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Khanjapur,Dakshin Magura,235.0,3.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,15.2,50.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,283.5,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Gariagabha,263.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Sarikal,Kurir Char Miar Char,250.0,18.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Somraji,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,19.8,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,314.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Bara Krishnakati,307.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Shikarpur,Uzirpur,254.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Khayerdia,303.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Goma,292.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Uttar Satla,227.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,9.8,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,291.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Marichbunia,267.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Sarbari,242.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Char Chandra Mohan,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Santoshdi,295.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,9.1,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,15.2,300.0,polluted,safe
+Barisal,Barisal,Banari Para,Banari Para,Rajakpur,295.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Datterabad,301.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Gobindapur,273.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Garia,234.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,298.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,15.8,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Tungibaria,296.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,313.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Harta,260.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Bara Puiautha,295.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,248.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Bagra,267.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Kulakana,19.8,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,90.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Baghdia,317.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Harta,275.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Bhabanipur,297.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Bara Chaulakati,284.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Niamati,Niamati,269.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Tetla,240.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,306.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Gazirpar,274.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,289.6,0.0,safe,safe
+Barisal,Barisal,Babuganj,Chandpasha,Kulchar,301.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,13.7,300.0,polluted,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,274.3,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Santoshdi,320.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Pakurta,244.0,3.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Tetla,237.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Khanam,310.9,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,198.1,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Kalu Para,249.0,3.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Bhatsala,304.0,0.0,safe,polluted
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,250.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Chengtia,244.0,15.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,13.7,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kodalia,292.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Kauarekha,242.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Purba Maheshpur,309.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Khayerdia,318.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Dakshin Char Aicha,313.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Shikarpur,Munda Pasha,233.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,327.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Daokati,315.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Nalchira,Shankar Pasha,261.0,15.0,polluted,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,13.7,200.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,289.6,0.0,safe,polluted
+Barisal,Barisal,Banari Para,Bisarkandi,Marichbunia,264.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Kabiraj,16.8,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Bara Basail,244.0,3.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Chakhar,256.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Bamnikathi,266.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Paysa,244.0,0.5,safe,safe
+Barisal,Barisal,Banari Para,Baisari Para,Garduar,226.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Bara Puiautha,331.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Billabari,307.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Bheduria,308.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Bara Gharia,18.3,300.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Patang,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,302.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,15.2,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,18.3,200.0,polluted,safe
+Barisal,Barisal,Gaurnadi,Nalchira,Kalna,250.0,19.0,polluted,safe
+Barisal,Barisal,Wazirpur,Jalla,Bhaudwar,246.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,13.7,600.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,290.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,304.8,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Shib Pasha,305.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kamar Para,283.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Niamati,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Hiradhar,304.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Kakuria,299.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Bebaz,345.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Koshabar,287.0,0.0,safe,polluted
+Barisal,Barisal,Agailjhara,Gaila,Uttar Sihi Pasha,247.0,4.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Sonar,233.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Kulakana,331.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Nanda Para,300.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Helencha,323.1,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,19.8,100.0,polluted,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,242.0,1.0,safe,polluted
+Barisal,Barisal,Bakerganj,Garuria,Meur,320.0,10.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Chira Para,238.0,14.0,polluted,safe
+Barisal,Barisal,Wazirpur,Guthia,Asoar,253.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,13.7,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Guria,313.9,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,305.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,298.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Murarbari,291.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,233.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Purba Angaria,293.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,304.8,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Kalbila,248.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Sialghuni,305.0,0.0,safe,polluted
+Barisal,Barisal,Wazirpur,Harta,Harta,256.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Makharkati,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,10.7,10.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Purba Durgapur,309.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Jambari,214.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Kalu Para,218.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,290.0,0.1,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Gariagabha,259.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Meur,10.7,200.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kabai,Kabai,331.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,285.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Char Chandra Mohan,305.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Bara Karfakar,245.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,22.9,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Matasar,273.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Dakshin Durgapur,294.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,289.6,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Char Aicha,274.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,15.2,90.0,polluted,safe
+Barisal,Barisal,Wazirpur,Harta,Kalbila,237.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,13.7,400.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Ichhakati,301.0,0.16,safe,safe
+Barisal,Barisal,Gaurnadi,Chandshi,Nathai,232.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Khayerdia,302.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Niamati,302.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,19.8,300.0,polluted,polluted
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,286.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Kabai,Hanua,12.2,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Char Lakshmi Bardhan,270.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Sarukhali,315.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,283.5,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Iluhar,269.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Kajalhar,301.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Puran Para,289.6,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Puran Para,22.9,400.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Roy Pasha,311.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,18.3,200.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Rabipur,310.9,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Dingarhat,16.2,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Paschim Lakshmi Pasha,328.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dattasar,240.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Uttar Hijaltala,283.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Kuchiarpar,237.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Karpara,231.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,11.0,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Kundial Para,12.5,200.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Billabari,278.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,233.0,9.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Rajapur,224.0,0.0,safe,polluted
+Barisal,Barisal,Banari Para,Saidkati,Satbaria,231.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Purba Lakshmi Pasha,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Goma,12.2,500.0,polluted,safe
+Barisal,Barisal,Wazirpur,Satla,Satla,277.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Baraikandi,293.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Shikarpur,Barta,271.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Pilkhana,310.9,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Tetla,286.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,302.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Mollah Haola,316.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,24.4,200.0,polluted,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,296.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Par Shibpur,325.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Batajore,Noapara,250.0,14.0,polluted,safe
+Barisal,Barisal,Bakerganj,Charadi,Paschim Charadi,289.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Dakshin Char Aicha,295.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Garuria,Helencha,317.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Sakral,226.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,313.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Garuria,13.7,200.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,13.7,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Dingarhat,298.7,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,231.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Dinga Manik,301.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,283.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Biharipur,323.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jalirpar,250.0,4.0,safe,polluted
+Barisal,Barisal,Banari Para,Baisari Para,Uttarkul,244.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Pilkhana,310.9,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,239.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,18.3,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Faridpur,Faridpur,290.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Kafila,14.6,10.0,safe,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Basar,237.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Dahar Para,278.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Sholak,242.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Paschim Maheshpur,308.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Labansara,236.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,268.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,291.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Dhopakati,294.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Chunakhali,283.5,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Udaykati,220.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Deuli,312.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Ganpara,300.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Garuria,13.7,300.0,polluted,safe
+Barisal,Barisal,Wazirpur,Guthia,Dahar Para,271.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Birangal,296.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bagdha,Jobarpar,253.0,2.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,223.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Kalasgram,277.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Jambari,223.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Shyampur,15.2,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,365.8,10.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Chakman,259.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Didihar,240.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Bamnikathi Charkhanda,273.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,297.0,0.0,safe,polluted
+Barisal,Barisal,Babuganj,Agarpur,Tiler Char,253.0,12.0,polluted,safe
+Barisal,Barisal,Agailjhara,Rajiher,Sajaria,96.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,16.8,20.0,polluted,polluted
+Barisal,Barisal,Banari Para,Bisarkandi,Bisarkandi,285.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Chatra,323.1,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Hastishiwnda,266.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,13.7,100.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Somraji,324.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Munshir Taluk,222.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Paschim Sanuhar,312.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Baisari Para,Baisari Para,222.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,304.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,14.0,300.0,polluted,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Sakharia,317.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Uttar Murakati,272.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Shikarpur,Joysree,263.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,232.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Phalaghar,308.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Saflakhali,300.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,309.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Hathazar,295.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Iluhar,240.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,18.3,30.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Hathazar,294.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,294.1,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,304.8,0.0,safe,safe
+Barisal,Barisal,Muladi,Muladi,Dakshin Char Dakatia,253.0,12.0,polluted,polluted
+Barisal,Barisal,Banari Para,Saidkati,Bara Karfakar,230.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Puran Para,292.0,10.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,281.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Puran Para,274.3,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,22.9,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,289.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Bara Gharia,13.7,300.0,polluted,safe
+Barisal,Barisal,Bakerganj,Niamati,Niamati,324.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kamar Para,304.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Purba Lakshmi Pasha,302.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,9.1,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Mukunda Patti,305.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kodalia,277.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Bara Karfakar,248.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Kafila,289.6,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Bara Basail,245.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Goma,310.9,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Billabari,283.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Shyampur,12.2,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Karnakati,290.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,248.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Mukunda Patti,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Rajapur,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Dhola,304.8,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Kalu Para,238.0,11.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Dhaparkati,306.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,232.0,11.0,polluted,safe
+Barisal,Barisal,Wazirpur,Bamrail,Atipara,259.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Dingarhat,13.7,20.0,polluted,safe
+Barisal,Barisal,Wazirpur,Jalla,Karfa,253.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,18.3,60.0,polluted,polluted
+Barisal,Barisal,Banari Para,Salia Bakpur,Goailbari,282.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Atipara,282.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,239.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,289.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Shikarpur,Ichladi,238.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Dinga Manik,283.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,289.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,241.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Dakshin Durgapur,286.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,320.0,0.0,safe,polluted
+Barisal,Barisal,Wazirpur,Harta,Jamirbari,262.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria Lamchari,271.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Ramerkati,258.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,13.7,200.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,12.8,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,13.7,200.0,polluted,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,291.0,0.0,safe,polluted
+Barisal,Barisal,Muladi,Nazirpur,Paschim Bani Mardan,317.0,0.0,safe,safe
+Barisal,Barisal,Babuganj,Madhab Pasha,Madhab Pasha,249.0,0.5,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Solna,264.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Goma,365.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Niamati,323.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Iluhar,272.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Baghia,22.0,279.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,12.2,60.0,polluted,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,14.3,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Kafila,15.2,20.0,polluted,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,327.7,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Balaikathi,309.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,283.5,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Bhandarikati,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,285.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Astakati,277.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Uttar Satla,273.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,264.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Jalla,255.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,13.7,400.0,polluted,polluted
+Barisal,Barisal,Bakerganj,Charadi,Paschim Charadi,292.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Chashi Patang,298.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Jambari,232.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,244.0,1.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Dingarhat,300.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,314.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Dingarhat,323.1,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,29.0,300.0,polluted,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,264.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Narakati,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,18.3,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,292.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Paschim Char Monai,317.0,0.0,safe,polluted
+Barisal,Barisal,Gaurnadi,Khanjapur,Kuniakandi,248.0,0.5,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,296.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Ghata Para,277.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Par Shibpur,315.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Sarasi,301.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Niamati,Niamati,309.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Helencha,21.3,100.0,polluted,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Narsingha,257.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,12.2,100.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kamar Para,21.3,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,309.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,253.0,5.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Uttar Jagua,292.6,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Tetla,227.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Santoshdi,302.0,0.0,safe,safe
+Barisal,Barisal,Muladi,Nazirpur,Hosnabad (Char Nazirp,255.0,12.0,polluted,safe
+Barisal,Barisal,Bakerganj,Dudhal,Datterabad,308.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Kalbila,238.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,286.5,0.0,safe,safe
+Barisal,Barisal,Banari Para,Baisari Para,Baisari Para,287.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,300.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Raghunathdi,317.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,317.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Niamati,311.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kamar Para,275.5,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,267.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,19.8,500.0,polluted,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Sarasi,271.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dattasar,250.0,2.42,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Petkata,314.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,343.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kodalia,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Masang,277.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,258.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,18.3,300.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,285.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,12.8,30.0,polluted,safe
+Barisal,Barisal,Wazirpur,Satla,Paschim Satla,218.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Mangalsi,318.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,286.5,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,318.0,8.4,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,12.2,50.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,12.2,20.0,polluted,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Bisarkandi,285.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,16.8,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,309.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Baisari Para,Ramgati (Baramgati),241.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Karnakati,299.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jalirpar,236.0,3.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,299.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,11.9,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,15.2,400.0,polluted,polluted
+Barisal,Barisal,Wazirpur,Bara Kotha,Sakral,238.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,275.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Alamdi,243.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Char Pattania,243.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Char Bhatsala,244.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Kalu Para,235.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,304.8,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,248.0,2.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,10.7,300.0,polluted,polluted
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,18.3,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,307.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Purba Narayanpur,273.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Uttar Sihi Pasha,245.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Khanam,289.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,261.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Raghunathdi,284.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,235.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,291.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Khairabad,307.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Munshir Taluk,218.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Baisari Para,Uttarkul,256.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Changaria,286.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Teradron,239.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,232.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Kansi,260.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,22.9,500.0,polluted,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,245.0,3.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Shakbania,326.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,309.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Pilkhana,304.8,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Dhamura,255.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,320.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,233.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Purba Maheshpur,317.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Kalasgram,267.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Kundial Para,13.7,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Kalaskati,311.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Jambu Dwip,272.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Bamnikathi,301.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,232.0,0.5,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Laskarpur,272.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Ramerkati,236.0,0.0,safe,safe
+Barisal,Barisal,Babuganj,Dehergati,Dehergati,304.0,4.1,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Dakshin Char Aicha,283.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Helencha,320.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Abdani,13.7,500.0,polluted,safe
+Barisal,Barisal,Banari Para,Saidkati,Indurhaola,246.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Maluhar,269.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Purba Durgapur,308.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Bukhainagar,291.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Rajapur,304.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,307.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Chhota Chaulakati,285.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Churaman,274.0,0.0,safe,polluted
+Barisal,Barisal,Agailjhara,Ratnapur,Beluhar,245.0,2.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Ichhagura,296.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Niamati,Paschim Maheshpur,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,304.8,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Bara Kotha,220.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Ghagra Tumchar,297.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,303.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Garuria,Bhandarikati,311.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Char Chandra Mohan,299.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajdhar,292.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Balaikathi,292.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,320.0,0.0,safe,safe
+Barisal,Barisal,Babuganj,Chandpasha,Kalikapur,96.0,4.6,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,283.5,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,320.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Niamati,Purba Maheshpur,317.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,246.0,0.5,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bil Gabbari,280.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Khanjapur,Paschim Samar Sinha,226.0,14.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Meur,283.5,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Purba Maheshpur,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,305.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Kuchiarpar,236.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Char Amaddi,Badal Para,322.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kamar Para,280.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Tiakhali,296.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Dhola,320.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Baligram,309.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Chakhar,282.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Char Gazalia,297.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Hiradhar,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,301.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Nalchira,Garangal Boradi,251.0,13.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Indrakati,303.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,11.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Khantakhali,297.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,301.8,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,232.0,0.5,safe,polluted
+Barisal,Barisal,Agailjhara,Bakal,Jalirpar,235.0,3.0,safe,safe
+Barisal,Barisal,Banari Para,Baisari Para,Baisari Para,227.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Kabiraj,18.3,20.0,polluted,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,293.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Kabiraj,274.3,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Tetla,233.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Niamati,300.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Chhota Raghunathpur,309.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Bara Gharia,304.8,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Char Chandra Mohan,308.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Atakati,305.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Mahilara,Purba Sharifabad,256.0,10.0,safe,safe
+Barisal,Barisal,Gaurnadi,Sarikal,Dakshin Sankkati,273.0,8.6,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Roy Bhadradi,290.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Rajakpur,230.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Dakshin Durgapur,280.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Kansi,263.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Kodalia,21.9,200.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Guria,305.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Jambu Dwip,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,308.0,0.0,safe,safe
+Barisal,Barisal,Mehendiganj,Andhar Manik,Ranga Bhangar Lagacha,247.0,0.0,safe,safe
+Barisal,Barisal,Muladi,Batamara,Alimabad,243.0,0.5,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Batna,285.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Haridrapur,286.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,306.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Puran Para,289.6,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Makram Pratap,300.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Kalerkati,304.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,22.9,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Kulakana,274.3,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Aicha,253.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,15.2,30.0,polluted,safe
+Barisal,Barisal,Agailjhara,Gaila,Kalu Para,223.0,5.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,18.3,200.0,polluted,safe
+Barisal,Barisal,Wazirpur,Otra,Otra,229.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Tilak,276.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Tetla,232.0,0.5,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Bisarad,321.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Patharkati,234.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Panbaria,18.3,30.0,polluted,safe
+Barisal,Barisal,Wazirpur,Harta,Harta,228.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,294.1,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Murarbari,238.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Bara Dudhal,318.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Kagasura,241.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Astakati,292.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Pirerpar,238.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,13.7,400.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Chhota Dudhal,318.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Jibdalan,298.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Darial,Darial,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Bebaz,320.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Sarikal,Adhuna,253.0,13.0,polluted,safe
+Barisal,Barisal,Wazirpur,Sholak,Ruhirbari,262.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Lakshmi Bardhan,268.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,237.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,19.8,10.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,312.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,268.2,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Dosatina,270.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,323.1,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Ramnagar,310.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Ratnapur,Beluhar,229.0,3.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Tazkati,274.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,274.3,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Bakal,232.0,1.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,298.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Paschim Satla,269.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Astakati,294.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Deuli,277.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,18.3,10.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Atipara,287.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Batajore,Joysirkati,253.0,15.0,polluted,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Diatali,317.0,0.0,safe,safe
+Barisal,Barisal,Mehendiganj,Char Gopalpur,Kazir Char,289.0,0.5,safe,safe
+Barisal,Barisal,Wazirpur,Harta,Jamirbari,231.0,0.0,safe,polluted
+Barisal,Barisal,Banari Para,Baisari Para,Baisari Para,233.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Khanam,289.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Shikarpur,Joysree,273.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Durga Pasha,Gobindapur,274.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Mandra,245.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,10.0,safe,safe
+Barisal,Barisal,Banari Para,Baisari Para,Kachuat,236.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,320.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Laskarpur,231.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Ratnapur,Chhaygram,235.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Koshabar,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,320.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,239.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Uttar Murakati,253.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Nalua,301.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Char Pattania,18.3,500.0,polluted,safe
+Barisal,Barisal,Wazirpur,Sholak,Damodarkati,251.0,14.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,302.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Billabari,286.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,21.9,500.0,polluted,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Bara Kotha,254.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Matasar,316.0,0.0,safe,polluted
+Barisal,Barisal,Agailjhara,Bagdha,Kalirbari,238.0,1.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,274.3,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Bara Kotha,260.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Ramerkati,261.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,294.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Uttar Jagua,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Sataraj,302.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Chakhar,Chira Para,271.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Uttar Sihi Pasha,232.0,3.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,292.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bara Kotha,Narikeli,267.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,320.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Chatua,280.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,304.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Ratnapur,Beluhar,247.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,274.3,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Karnakati,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Badal Para,311.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Karnakati,277.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,310.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Bhabanipur,310.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Dhola,365.8,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,13.7,300.0,polluted,safe
+Barisal,Barisal,Banari Para,Iluhar,Iluhar,232.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Munshir Taluk,233.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Ahuti Bhatra,232.0,1.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Kati Para,299.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Manasi Phulasree,244.0,0.5,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,36.6,500.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Deuli,310.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Shib Pasha,278.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Baghdia,294.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Padri Shibpur,13.7,100.0,polluted,safe
+Barisal,Barisal,Bakerganj,Garuria,Helencha,313.9,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Sarikal,Bangulia,255.0,13.0,polluted,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,306.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,289.6,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Dakshin Karapur,301.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,316.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,13.7,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Rajar Char,19.8,500.0,polluted,safe
+Barisal,Barisal,Agailjhara,Bagdha,Jobarpar,241.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Paschim Krishnanagar,317.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,18.3,10.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,24.4,300.0,polluted,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Gaba,290.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Chhagaldi,289.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Tetla,239.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Baharkati,256.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Iluhar,260.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Hastishiwnda,241.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jasar,232.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Phalaghar,302.0,0.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,297.2,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Darial,19.8,90.0,polluted,safe
+Barisal,Barisal,Agailjhara,Rajiher,Dakshin Bhajna,238.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Bisarikathi Charkhand,305.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Pilkhana,299.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bahirghat,247.0,4.0,safe,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Monai,7.6,500.0,polluted,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Jagua,Chandipur,316.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Jalla,Bil Gabbari,249.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Rangasree,Nanda Para,316.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Uttar Satla,247.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Banari Para,Machhrang,235.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Satla,Paschim Satla,289.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Balaikathi,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Goma,310.9,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Nalua,Afalkati,311.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,232.0,2.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Bebaz,320.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Indurhaola,239.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Niamati,Kafila,18.3,10.0,safe,safe
+Barisal,Barisal,Gaurnadi,Chandshi,Dakshin Chandshi,242.0,0.5,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Dakshin Karapur,314.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Goailbari,223.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Shayestabad,Aicha,292.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Saidkati,Didihar,245.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Bisarkandi,254.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Char Auliapur,298.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,321.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Gilatali,288.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Kaua Char,274.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttar Kajlakati,304.0,0.0,safe,polluted
+Barisal,Barisal,Bakerganj,Nalua,Char Gazalia,304.8,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Faridpur,Bhoj Mahal,304.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Purba Lakshmi Pasha,313.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Sarbari,247.0,3.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandpur,Chandpur,27.4,550.0,polluted,safe
+Barisal,Barisal,Banari Para,Banari Para,Machhrang,272.0,0.0,safe,safe
+Barisal,Barisal,Gaurnadi,Batajore,Lakshmankati,244.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttampur,302.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Salia Bakpur,Sakharia,275.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Iluhar,242.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bagdha,Jobarpar,245.0,4.0,safe,safe
+Barisal,Barisal,Gaurnadi,Chandshi,Nathai,218.0,4.0,safe,safe
+Barisal,Barisal,Bakerganj,Dudhal,Datterabad,323.1,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Chandra Mohan,Bheduria,296.0,0.0,safe,polluted
+Barisal,Barisal,Agailjhara,Bakal,Bakal,229.0,0.5,safe,safe
+Barisal,Barisal,Agailjhara,Gaila,Uttar Sihi Pasha,236.0,6.0,safe,safe
+Barisal,Barisal,Bakerganj,Garuria,Deuli,310.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Katadia,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Darial,Uttar Kajlakati,280.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Bakal,Jasar,238.0,0.5,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Paschim Goail,241.0,2.0,safe,safe
+Barisal,Barisal,Banari Para,Iluhar,Maluhar,244.0,0.0,safe,safe
+Barisal,Barisal,Babuganj,Agarpur,Dakshin Char Dakatia,253.0,9.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Khanam,292.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Padri Shibpur,Raghunathpur,317.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Bara Krishnakati,313.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kalaskati,Bebaz,306.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Puran Para,259.1,0.0,safe,safe
+Barisal,Barisal,Banari Para,Udaykati,Labansara,264.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,18.3,300.0,polluted,safe
+Barisal,Barisal,Wazirpur,Otra,Keshabkati,242.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Char Amaddi,Char Amaddi,307.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Guthia,Dosatina,262.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Kalasgram,290.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Hanua,289.6,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Otra,Masang,240.0,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Bamrail,Atipara,253.0,0.0,safe,safe
+Barisal,Barisal,Agailjhara,Rajiher,Rajihar,232.0,0.5,safe,safe
+Barisal,Barisal,Bakerganj,Kabai,Khodabaksha Kati,299.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Dudhal Mou,325.0,0.0,safe,safe
+Barisal,Barisal,Babuganj,Rahmatpur,Khanpura,19.0,550.0,polluted,safe
+Barisal,Barisal,Banari Para,Saidkati,Bawalia,254.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Kashipur,Ganpara,256.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Abdani,274.3,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,12.2,300.0,polluted,polluted
+Barisal,Barisal,Barisal Sadar (Kotwali),Roy Pasha Karapur,Uttar Karapur,284.0,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Bisarkandi,231.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Tungibaria,Bisarad,301.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Kowa,Dakshin Char Aicha,308.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Niamati,Kafila,323.1,0.0,safe,safe
+Barisal,Barisal,Wazirpur,Sholak,Kansi,260.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Baria,Char Baria,289.6,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Halta,301.0,0.0,safe,safe
+Barisal,Barisal,Barisal Sadar (Kotwali),Char Monai,Char Hogla,301.1,0.0,safe,safe
+Barisal,Barisal,Banari Para,Bisarkandi,Marichbunia,233.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Charadi,Charadi,24.4,200.0,polluted,polluted
+Barisal,Barisal,Bakerganj,Garuria,Char Samasdi Baligram,308.0,0.0,safe,safe
+Barisal,Barisal,Bakerganj,Bhar Pasha,Bara Krishnakati,303.0,0.0,safe,safe

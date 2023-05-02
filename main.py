@@ -175,8 +175,7 @@ if __name__ == '__main__':
     for x in [1, 2, 3, 4, 5]:
       p = mp.Process(target=run_model, args=(m, x,))
       p.start()
-      # rj.append(p)
-      p.join() #
+      rj.append(p)
 
-#for j in rj:
-    #j.join()
+for j in rj:
+  j.join()

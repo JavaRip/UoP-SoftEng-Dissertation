@@ -34,10 +34,6 @@ def gen_predictions(train_df, test_df):
     ]
   )
   test, train = split_test_train(tt_df)
-  print('============TEST============')
-  print(test.info())
-  print('============TRAIN============')
-  print(train.info())
 
   conv_cat_num(train, 'Label')
   conv_cat_num(test, 'Label')
@@ -54,10 +50,6 @@ def gen_predictions(train_df, test_df):
   test_X = test.drop(['Arsenic', 'Label'], axis='columns')
 
   for strata in train['Strata'].unique():
-    print('********************************')
-    print('********************************')
-    print('********************************')
-    print(strata)
     tr_div = train[train['Strata'] == strata]
     te_div = test[test['Strata'] == strata]
 
@@ -66,7 +58,6 @@ def gen_predictions(train_df, test_df):
     tt_df = pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
     te_div, tr_div = split_test_train(tt_df)
 
-    print(tr_div['Label'].value_counts())
     train_X = tr_div.drop(['Arsenic', 'Label', 'Prediction', 'Strata', 'Depth'], axis='columns', errors='ignore')
     train_y = tr_div['Label']
     test_X = te_div.drop(['Arsenic', 'Label', 'Strata', 'Depth'], axis='columns')
@@ -76,15 +67,11 @@ def gen_predictions(train_df, test_df):
       weights='uniform', 
       n_jobs=-1, 
     )
-    print('============TRAIN_X============')
-    print(train_X.head())
     knn.fit(train_X, train_y)
     predictions = knn.predict(test_X.loc[:, test_X.columns != 'Prediction'])
 
     test.loc[test['Strata'] == strata, ['Prediction']] = predictions
 
-  print('============FINAL============')
-  print(test)
   conv_cat_str(test, 'Prediction')
   return test['Prediction']
 
@@ -100,7 +87,6 @@ def main(
   test_df['Label'] = gen_labels(test_df)
 
   test_df['Prediction'] = gen_predictions(train_df, test_df)
-  print(test_df.info())
 
   return test_df
 

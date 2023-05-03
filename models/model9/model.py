@@ -44,7 +44,7 @@ def gen_predictions(train_df, test_df, gdf):
     hidden_layer_sizes=(50, 2),
     learning_rate='adaptive',
     random_state=99,
-    max_iter=5,
+    max_iter=100,
     verbose=True
   )
 

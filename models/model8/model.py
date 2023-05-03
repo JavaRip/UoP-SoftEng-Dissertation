@@ -82,7 +82,7 @@ def gen_predictions(train_df, test_df, k_fold):
       hidden_layer_sizes=(math.trunc(num_feat / 2), math.trunc(num_feat / 4), math.trunc(num_feat / 8)),
       learning_rate='adaptive',
       random_state=99,
-      max_iter=5,
+      max_iter=100,
       verbose=True,
     )
 

@@ -68,8 +68,7 @@ def gen_predictions(train_df, test_df):
       random_state=99,
       max_iter=100,
       verbose=True,
-      validation_fraction=0.2,
-      activation='tanh'
+      validation_fraction=0.2
     )
     clf.fit(train_X, train_y)
     predictions = clf.predict(test_X.loc[:, test_X.columns != 'Prediction'])

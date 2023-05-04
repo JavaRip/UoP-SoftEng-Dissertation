@@ -53,7 +53,7 @@ def gen_predictions(train_df, test_df):
     tt_df = append_test_train(te_div, tr_div)
     cat_int_enc(tt_df)
     tt_df = pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
-    tt_df = pd.DataFrame(MinMaxScaler().fit_transform(tt_df), columns=tt_df.columns)
+
     te_div, tr_div = split_test_train(tt_df)
 
     train_X = tr_div.drop(['Arsenic', 'Label', 'Prediction', 'Strata', 'Depth'], axis='columns', errors='ignore')

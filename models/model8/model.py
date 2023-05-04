@@ -17,7 +17,7 @@ def get_name():
   return 'm8'
 
 def ohe_col(df, cols):
-    return pd.get_dummies(data=df, columns=cols)
+  return pd.get_dummies(data=df, columns=cols)
 
 def gen_predictions(train_df, test_df, k_fold):
   train = train_df.copy()

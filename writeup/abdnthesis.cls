@@ -270,7 +270,7 @@
         \@restonecoltrue \onecolumn%
     \else%
         \@restonecolfalse%
-    \fi%
+    \fi%https://books.google.co.uk/books?hl=en&lr=&id=vLiTXDHr_sYC&oi=fnd&pg=PA3&dq=comparison+of+supervised+learning+classificaion+evaluation&ots=CZrstwYHgo&sig=GhYZUkvl7gAJx008swP7fLRm9Tk&redir_esc=y#v=onepage&q=black%20box&f=false
     \chapter*{%
         \listfigurename%
         \@mkboth{\listfigurename}{\listfigurename}%

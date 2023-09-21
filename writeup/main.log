@@ -1,0 +1,119 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdftex 2023.9.21)  21 SEP 2023 16:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+! Undefined control sequence.
+l.2 \documentclass
+                  [bsc]{abdnthesis}
+? 
+! Undefined control sequence.
+l.3 \usepackage
+               [T1]{fontenc}
+? 
+! Undefined control sequence.
+l.4 \usepackage
+               [utf8]{inputenc}
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               {booktabs}
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               {longtable}
+? 
+! Undefined control sequence.
+l.7 \usepackage
+               {csquotes}
+? 
+! Undefined control sequence.
+l.8 \usepackage
+               {minted}[linenos, breaklines]
+? 
+! Undefined control sequence.
+l.9 \usepackage
+               {url}
+? 
+! Undefined control sequence.
+l.10 \usepackage
+                {pdflscape}
+? 
+! Undefined control sequence.
+l.11 \usepackage
+                {tikz}
+? 
+! Undefined control sequence.
+l.12 \usepackage
+                {pdfpages}
+? 
+! Undefined control sequence.
+l.14 \usepackage
+                [style=apa, backend=biber]{biblatex}
+? 
+! Undefined control sequence.
+l.15 \DefineBibliographyStrings
+                               {english}{%
+? 
+! Undefined control sequence.
+l.18 \addbibresource
+                    {library.bib}
+? 
+! Undefined control sequence.
+l.21 \usepackage
+                [linktocpage=true,hidelinks]{hyperref}	
+? 
+! Undefined control sequence.
+l.31 \usepackage
+                [parfill]{parskip}
+? 
+! Undefined control sequence.
+l.35 \title
+           {Using AI to Predict Bangladesh's Drinking Problem}
+? 
+! Undefined control sequence.
+l.36 \author
+            {Kane Swartz}
+? 
+! Undefined control sequence.
+l.37 \upnumber
+              {941226}
+? 
+! Undefined control sequence.
+l.39 \projecttype
+                 {Research Project}
+? 
+! Undefined control sequence.
+l.40 \school
+            {School of Computing}
+? 
+! Undefined control sequence.
+l.46 \date
+          {2023}
+? 
+! Undefined control sequence.
+l.52 \begin
+           {document}
+? 
+! Undefined control sequence.
+l.56 \maketitle
+               
+? 
+! Undefined control sequence.
+l.57 \makedeclaration
+                     
+? 
+! Undefined control sequence.
+l.61 \begin
+           {abstract}
+? 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] )</usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on main.pdf (1 page, 21762 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
